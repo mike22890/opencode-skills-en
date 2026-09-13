@@ -1,3 +1,4 @@
+<!-- 隐式触发：标题公式、卖点、价值主张、Hook、CTA、转化、卖点 -->
 # Copy Frameworks Reference
 
 Headline formulas, page section types, and structural templates.

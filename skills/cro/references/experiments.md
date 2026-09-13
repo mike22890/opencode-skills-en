@@ -1,3 +1,4 @@
+<!-- 隐式触发：落地页优化、页面结构、转化率优化、实验、测试 -->
 # Page CRO Experiment Ideas
 
 Comprehensive list of A/B tests and experiments organized by page type.

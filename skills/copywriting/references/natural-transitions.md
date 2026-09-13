@@ -1,3 +1,4 @@
+<!-- 隐式触发：段落衔接、过渡、起承转合、连接词、流畅、文章节奏 -->
 # Natural Transitions
 
 Transitional phrases to guide readers through your content. Good signposting improves readability, user engagement, and helps search engines understand content structure.
