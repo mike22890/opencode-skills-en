@@ -1,66 +1,122 @@
-# Agent Skills
+# OpenCode Skills EN
 
 ![GitHub stars](https://img.shields.io/github/stars/mike22890/opencode-skills-en?style=social)
 ![License](https://img.shields.io/github/license/mike22890/opencode-skills-en)
-![Skills](https://img.shields.io/badge/skills-35-blue)
+![Skills](https://img.shields.io/badge/skills-40-blue)
+![Version](https://img.shields.io/badge/version-v4.0.0-green)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 
-> 15 domain-expertise skills for AI coding agents — from aesthetics to psychology, code to wealth.
+> English-first AI Agent Skills collection — 40 original domain methodologies, 4-layer auto-routing, colloquial triggers, no keyword guessing needed.
 
-A collection of skills for [OpenCode](https://opencode.ai), [Claude Code](https://claude.ai/code), [Codex CLI](https://github.com/openai/codex), and any agent supporting the [Agent Skills](https://agentskills.io) standard.
-
----
-
-## Why this set
-
-Most skill collections are thin wrappers around a prompt. These are layered:
-
-- **SKILL.md** = trigger + core method + quick reference (always loaded)
-- **reference/** = deep material loaded only when needed (token-efficient)
-
-Twelve skills, each covering a domain most collections skip:
-
-- **psychology-mastery** — mind-reading level insight (microexpressions, manipulation patterns, attachment, self-analysis)
-- **wealth-mastery** — compounding, asset allocation, economic cycles, life-stage strategy
-- **wisdom-philosophy** — Stoicism, existentialism, Zen, Taoism, Confucianism, applied ethics
-- **literary-craft** — fiction craft with master analysis (Chekhov to Eileen Chang)
-
-The rest cover the standard ground: aesthetics, code, thinking, systems, product, persuasion.
+A collection of 40 original agent skills for [OpenCode](https://opencode.ai), [Claude Code](https://claude.ai/code), [Codex CLI](https://github.com/openai/codex), and any agent that supports the [Agent Skills](https://agentskills.io) standard.
 
 ---
 
-## Skills
+## Why This Set
 
-| Skill | What it does |
+Most English skills trigger on formal keywords — say "write a doc" and they wake up; say "搞个文档" and they stare at you blankly.
+
+This set is different:
+
+- **Colloquial triggers** — natural language just works, no keyword guessing
+- **4-layer routing** → scene → intent → group match → sub-skill chaining
+- **Implicit triggers** — every skill and reference has colloquial trigger words
+- **40 original skills** — all self-written, no public duplicates
+
+---
+
+## 4-Layer Routing
+
+```
+Layer 1: Scene awareness → auto-loads voice-mastery for chat/roleplay
+Layer 2: Intent recognition → 11 intent groups
+Layer 3: In-group matching → load all matches, no upper limit
+Layer 3.5: Sub-skill chaining → read SKILL.md loading table → auto-load references
+```
+
+---
+
+## Skills List
+
+### Writing & Creative (6)
+
+| Skill | Description |
 |---|---|
-| **aesthetics** | Anything "made for human eyes": UI, color, typography, logos, motion, layout, PPT, posters, documents, resumes, charts |
-| **psychology-mastery** | Mind-reader level insight: microexpressions, manipulation detection, attachment analysis, self-analysis, relationship dynamics |
-| **code-mastery** | Code aesthetics: naming, functions, comments, error handling, performance + chain simplify→refactor |
-| **thinking-craft** | Thinking & decisions: first principles, cognitive biases, decision frameworks, black swans, Bayesian |
-| **system-design** | Architecture: microservices, databases, caching, distributed systems, CAP, high concurrency, observability |
-| **product-strategy** | Product & business: PMF, business models, growth, moats, LTV/CAC, unit economics |
-| **persuasion-craft** | Expression: story frameworks, influence principles, negotiation tactics, speech anchors |
-| **wisdom-philosophy** | Philosophy: Stoicism, existentialism, Zen, Tao, Confucianism, ethical decision-making |
-| **wealth-mastery** | Wealth: compounding, asset allocation, economic cycles, life-stage strategy, action plans |
-| **masterpiece-writing** | Doc typography: README/design docs/ADR/reports/tutorials, typography rules + anti-AI checklist |
-| **literary-craft** | Fiction: novels, essays, poetry, dialogue, sensory description, intimate scenes (professional restraint) |
-| **mermaid-diagram-generator** | Diagrams: flowcharts, sequence, class, state, ER, gantt |
-| **research-mastery** | Research: search techniques, source grading, fact-checking, structured digests |
-| **shopping-advisor** | Shopping: needs analysis, comparison framework, review analysis, buying timing |
-| **life-planning** | Life planning: 5-dimension assessment, values clarification, goal breakdown, action system |
+| **literary-craft** | Fiction writing: novels/prose/poetry/dialogue/sensory description |
+| **humanize-fiction** | Anti-AI fiction: 18 AI-writing patterns + fixes |
+| **story-endings** | Endings: 8 AI ending problems + 8 good ending types |
+| **copywriting** | Marketing copy: landing pages/ads/SEO/brand stories |
+| **masterpiece-writing** | Document aesthetics: README/design docs/ADR/reports |
+| **avoid-ai-writing** | AI tone removal: detect and eliminate AI-isms |
+
+### Code & Engineering (8)
+
+| Skill | Description |
+|---|---|
+| **code-mastery** | Code quality: naming/functions/comments/error handling/performance |
+| **code-refactor-ast** | AST refactoring: large-scale decoupling/DRY/SRP |
+| **simplify** | Code simplification: reduce complexity/dead code |
+| **codemap** | Code mapping: project architecture/onboarding |
+| **db-schema-designer** | Database design: schema/ORM/indexes/migrations |
+| **frontend-design** | Frontend design: visual direction/anti-template |
+| **git-workflow** | Git workflow: commit/PR/branch/merge/release |
+| **github-workflow** | GitHub full lifecycle: release/changelog/tag/PR/Actions |
+
+### Thinking & Decision (4)
+
+| Skill | Description |
+|---|---|
+| **thinking-craft** | Critical thinking: first principles/bias/frameworks/Bayesian |
+| **research-mastery** | Research: search/source grading/fact-checking |
+| **life-planning** | Life planning: 5-axis assessment/goals/action systems |
+| **wisdom-philosophy** | Philosophy: Stoicism/existence/Zen/Tao/ethics |
+
+### Business & Product (5)
+
+| Skill | Description |
+|---|---|
+| **product-strategy** | Product strategy: PMF/business model/growth/moat |
+| **pricing** | Pricing: packaging/anchoring/SaaS/subscription |
+| **cro** | Conversion optimization: A/B/funnel/forms/experiments |
+| **marketing-psychology** | Marketing psych: influence/anchoring/loss aversion/FOMO |
+| **persuasion-craft** | Persuasion: storytelling/influence/negotiation/speaking |
+
+### Self-Improvement (4)
+
+| Skill | Description |
+|---|---|
+| **psychology-mastery** | Psychology: micro-expressions/manipulation/attachment |
+| **wealth-mastery** | Wealth: compound asset allocation/retirement/life stages |
+| **self-edit** | Auto audit: post-AI-output review & fix |
+| **long-task** | Long tasks: anti-degradation/state management/checkpoints |
+
+### Tools & Productivity (8)
+
+| Skill | Description |
+|---|---|
+| **aesthetics** | Visual design: UI/color/typography/Logo/PPT/posters |
+| **mermaid-diagram-generator** | Diagrams: flow/sequence/class/state/ER/Gantt |
+| **pandoc** | Document conversion: md↔docx/pdf/html/epub/LaTeX |
+| **pptx** | PowerPoint: slides/pitch decks/training/template |
+| **mcp-builder** | MCP development: tools/API integration/TypeScript SDK |
+| **skill-creator** | Skill development: create/test/optimize agent skills |
+| **shopping-advisor** | Shopping: selection/comparison/value/timing |
+| **privacy-guard** | Privacy: PII detection/sanitization/pre-publish safety |
+
+### Advanced (1)
+
+| Skill | Description |
+|---|---|
+| **orchestrating-adversarial-reviews** | Adversarial review: multi-agent cross-validation/red-blue |
 
 ---
 
-## Install
+## Installation
 
 ### OpenCode
 
 ```bash
-# Install all
 cp -r skills/* ~/.config/opencode/skills/
-
-# Or just one
-cp -r skills/aesthetics ~/.config/opencode/skills/
 ```
 
 ### Claude Code
@@ -69,70 +125,56 @@ cp -r skills/aesthetics ~/.config/opencode/skills/
 cp -r skills/* ~/.claude/skills/
 ```
 
-### Other agents
-
-Skills follow the [agentskills.io](https://agentskills.io) standard — drop the directories into your agent's skills folder:
+### Other Agents
 
 ```
 ~/.codex/skills/     # Codex CLI
 ~/.cursor/skills/    # Cursor
 ~/.gemini/skills/    # Gemini CLI
-~/.agents/skills/    # universal
+~/.agents/skills/    # Universal
 ```
 
 ---
 
 ## Usage
 
-Once installed, just talk — triggers fire automatically:
+Just speak — triggers match automatically:
 
 ```
-"design a landing page"        → aesthetics
-"why does he act like that"    → psychology-mastery
-"refactor this function"       → code-mastery
-"design an order system"       → system-design
-"how should we price this"     → product-strategy
-"write a README"               → masterpiece-writing
+"make a landing page"       → aesthetics
+"refactor this code"         → code-mastery + code-refactor-ast + simplify
+"design an order system"     → system-design
+"how to price this product"  → pricing + marketing-psychology
+"write a README"             → masterpiece-writing + aesthetics
+"write a novel"              → literary-craft + humanize-fiction + story-endings
+"create a release"           → github-workflow
 ```
 
 ---
 
 ## Structure
 
-Every skill follows the same shape:
-
 ```
 skills/<name>/
-├── SKILL.md           # trigger description + core method + quick cards
-└── reference/         # deep material, loaded on demand
-    ├── xxx.md
-    └── yyy.md
+├── SKILL.md           # Trigger + methods + sub-skill routing table
+└── reference/         # On-demand deep content (implicit trigger tags)
+    └── xxx.md
 ```
-
-**Design principle**: SKILL.md stays lean (read on trigger), depth lives in reference files (loaded per scenario) — token efficiency first.
 
 ---
 
 ## Changelog
 
-见 [CHANGELOG.md](CHANGELOG.md)
+See [CHANGELOG.md](CHANGELOG.md)
 
 ---
 
 ## Related
 
-- [opencode-skills-cn](https://github.com/mike22890/opencode-skills-cn) — Chinese-first edition with Chinese trigger words
+- [opencode-skills-cn](https://github.com/mike22890/opencode-skills-cn) — Chinese edition
 
 ---
 
 ## License
 
 MIT
-
----
-
-## Credits
-
-Methodology references: Paul Graham / Charlie Munger / Chris Voss / Joe Navarro / Robert Cialdini / Edward Tufte / Daniel Kahneman / Warren Buffett / and literary masters from Chekhov to Cao Xueqin.
-
-Skill format based on the [Agent Skills](https://agentskills.io) open standard.
