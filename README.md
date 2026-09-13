@@ -40,6 +40,9 @@ The rest cover the standard ground: aesthetics, code, thinking, systems, product
 | **masterpiece-writing** | Doc typography: README/design docs/ADR/reports/tutorials, typography rules + anti-AI checklist |
 | **literary-craft** | Fiction: novels, essays, poetry, dialogue, sensory description, intimate scenes (professional restraint) |
 | **mermaid-diagram-generator** | Diagrams: flowcharts, sequence, class, state, ER, gantt |
+| **research-mastery** | Research: search techniques, source grading, fact-checking, structured digests |
+| **shopping-advisor** | Shopping: needs analysis, comparison framework, review analysis, buying timing |
+| **life-planning** | Life planning: 5-dimension assessment, values clarification, goal breakdown, action system |
 
 ---
 
