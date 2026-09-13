@@ -1,29 +1,30 @@
-# Western Philosophy
+<!-- 隐式触发：斯多葛/存在主义/实用主义/控制二分/古希腊/罗马哲学/尼采 -->
+# 西方哲学（精简版）
 
-## Stoicism
+## 斯多葛
 
-Dichotomy of control (controllable vs not) / accept fate / morality is survival / the present is eternity. Marcus Aurelius *Meditations* / Seneca *On the Shortness of Life* / Epictetus *Enchiridion*
+控制二分法（能控制 vs 不能控制）/ 接受命运 / 道德即生存 / 此刻即永恒。Marcus《沉思录》/ Seneca《论生命之短暂》/ Epictetus《手册》
 
-## Existentialism
+## 存在主义
 
-Existence precedes essence / freedom + responsibility / absurdity + revolt / authenticity. Sartre *Being and Nothingness* / Camus *The Myth of Sisyphus* / Heidegger *Being and Time*
+存在先于本质 / 自由+责任 / 荒诞+反抗 / 真诚。Sartre《存在与虚无》/ Camus《西西弗神话》/ Heidegger《存在与时间》
 
-## Pragmatism
+## 实用主义
 
-Truth = what works / practice first / experience + experiment. James / Dewey / Rorty
+真理=有效 / 实践优先 / 经验+实验。James / Dewey / Rorty
 
-## Analytic philosophy
+## 分析哲学
 
-Logic + language / clear thinking / falsifiability. Russell / Wittgenstein / Popper
+逻辑+语言 / 清晰思考 / 可证伪性。Russell / Wittgenstein / Popper
 
-## Classical Greek
+## 希腊古典
 
-Socrates (know that you know nothing + questioning) / Plato (theory of forms + the cave) / Aristotle (the golden mean + virtue) / Epicurus (hedonism + friendship)
+苏格拉底（知道无知+提问）/ 柏拉图（理念论+洞穴）/ 亚里士多德（中庸+德性）/ 伊壁鸠鲁（快乐主义+友谊）
 
-## Quick card
+## 速查卡
 
 ```
-Stoicism: dichotomy of control + accept fate / Existentialism: freedom + absurdity + revolt
-Pragmatism: truth = what works / Analytic: clarity + falsifiability
-Greek: Socrates questions / Plato forms / Aristotle golden mean
+斯多葛：控制二分+接受命运 / 存在主义：自由+荒诞+反抗
+实用主义：真理=有效 / 分析哲学：清晰+可证伪
+希腊：苏格拉底提问/柏拉图理念/亚里士多德中庸
 ```

@@ -1,115 +1,133 @@
-# Thinking Masters (7 anchors)
+<!-- 隐式触发：思维大师/查理芒格/多元思维/决策大师 -->
+# 思考大师（5 大锚点）
 
-## 1. Daniel Kahneman (Nobel laureate)
+## 1. Daniel Kahneman（诺贝尔经济学奖）
 
-**Core**: *Thinking, Fast and Slow*
+**核心**：《思考，快与慢》
 
-**Two systems**:
-- **System 1**: fast, intuitive, automatic, error-prone
-- **System 2**: slow, rational, effortful
+**两个系统**：
+- **系统 1**：快、直觉、自动、容易出错
+- **系统 2**：慢、理性、需要努力
 
-**Key concepts**:
-- Anchoring
-- Availability heuristic
-- Framing effects (same problem, different frame, different answer)
-- Narrow vs broad framing
-- Planning fallacy
-- Loss aversion
+**关键概念**：
+- 锚定效应
+- 可得性启发
+- 框架效应（同一问题不同框架，答案不同）
+- 窄框架 vs 宽框架
+- 规划谬误
+- 损失厌恶
 
-**Learn**: use System 2 for important decisions; know System 1 is lying to you
+**学什么**：
+- 重要决策用系统 2
+- 知道系统 1 在骗你
 
-## 2. Charlie Munger (Buffett's partner)
+## 2. Charlie Munger（巴菲特合伙人）
 
-**Core**: *Poor Charlie's Almanack*
+**核心**：《穷查理宝典》
 
-**Mental models (100+)**:
-- Economics: opportunity cost / incentives / scale effects
-- Psychology: confirmation / anchoring / loss aversion
-- Biology: evolution / niches
-- Physics: tipping points / equilibrium
-- Literature: narrative fallacy
+**多元思维模型**（100+ 个）：
+- 经济学：机会成本 / 激励机制 / 规模效应
+- 心理学：确认偏误 / 锚定 / 厌恶损失
+- 生物学：进化论 / 生态位
+- 物理学：临界点 / 平衡
+- 文学：叙事谬误
 
-**Key ideas**:
-- **Invert**: think about failure first
-- **Lollapalooza effect**: multiple factors stacking into extremes
-- **25 standard causes of human misjudgment**
-- **Incentives**: "never ask the barber if you need a haircut"
+**关键思想**：
+- **反过来想**：先想怎么失败
+- **Lollapalooza 效应**：多种因素叠加产生极端结果
+- **心理学的 25 种标准谬误**
+- **激励机制**："永远不要问理发师你需不需要理发"
 
-**Learn**: multi-model thinking; it's always an incentives problem
+**学什么**：
+- 多元思维
+- 永远是激励机制问题
 
-## 3. Nassim Nicholas Taleb (*The Black Swan*, *Antifragile*)
+## 3. Nassim Nicholas Taleb（《黑天鹅》《反脆弱》）
 
-**Core**: randomness + uncertainty
+**核心**：随机性 + 不确定性
 
-**Key concepts**:
-- Black swan: unpredictable extreme events
-- Antifragile: gaining from chaos
-- Fragile vs robust vs antifragile
-- Skin in the Game
-- Ergodicity vs non-ergodicity
+**关键概念**：
+- 黑天鹅：不可预测的极端事件
+- 反脆弱：从混乱中获益
+- 抗脆弱 vs 脆弱 vs 强韧
+- 皮肤在身（Skin in the Game）：下注的人才有发言权
+- 遍历性 vs 非遍历性
 
-**Learn**: can't predict, but can be **antifragile**; never bet big from a fragile position; keep redundancy
+**学什么**：
+- 不能预测，但要**反脆弱**
+- 不在脆弱位置下重注
+- 保留冗余
 
-## 4. Elon Musk (first-principles practitioner)
+## 4. Elon Musk（第一性原理实践者）
 
-**Core**: rebuild from fundamental facts
+**核心**：从基本事实重构
 
-**Applications**:
-- Tesla batteries: $600/kWh → $80/kWh
-- SpaceX rockets: $65M → material cost
-- Mars: decompose into controllable steps
+**应用**：
+- 特斯拉电池：从 $600/kWh 拆到 $80/kWh
+- SpaceX 火箭：从 $6500 万拆到材料成本
+- 火星计划：把问题拆到可控步骤
 
-**Learn**: reject "it's always been this way"; recompute from raw materials; bold hypotheses, careful verification
+**学什么**：
+- 不接受"一直是这样"
+- 从原材料 / 基本事实重新算
+- 大胆假设，小心求证
 
-## 5. Richard Feynman (Feynman technique)
+## 5. Richard Feynman（费曼学习法）
 
-**Core**: explain in the simplest language
+**核心**：用最简单的语言讲出来
 
-**Feynman technique**:
-1. Pick a concept
-2. Pretend to teach a student
-3. Stuck → back to source material
-4. Simplify language
+**费曼学习法**：
+1. 选择概念
+2. 假装给学生讲
+3. 卡住 → 回原始资料
+4. 简化语言
 
-**Key**:
-- **If you can't explain it simply, you don't understand it**
-- Uncertainty principle: admit what you don't know
-- Scientific integrity: only believe what can be falsified
+**关键**：
+- **如果你不能简单地解释，你没有真懂**
+- 不确定性原则：承认不知道
+- 科学诚信：实验能证伪才信
 
-**Learn**: simplify thinking; honestly admit ignorance; falsification
+**学什么**：
+- 简化思考
+- 诚实承认不知道
+- 实验证伪
 
-## 6. Ray Dalio (*Principles*)
+## 6. Ray Dalio（《原则》）
 
-**Core**: principles + radical transparency + idea meritocracy
+**核心**：原则 + 极度透明 + 创意择优
 
-**Key**:
-- Pain + reflection = progress
-- Decision journal (record + review)
-- Independent thinking + idea meritocracy
-- Open-mindedness + radical transparency
+**关键**：
+- 痛苦 + 反思 = 进步
+- 决策日志（记录 + 复盘）
+- 独立思考 + 创意择优
+- 开放思想 + 极度透明
 
-**Learn**: retrospectives are the source of progress; decisions must be traceable
+**学什么**：
+- 复盘是进步之源
+- 决策要可回溯
 
-## 7. Peter Thiel (*Zero to One*)
+## 7. Peter Thiel（《从 0 到 1》）
 
-**Core**: innovation isn't improvement, it's **0 to 1**
+**核心**：创新不是改进，是**从 0 到 1**
 
-**Key**:
-- 7 questions (every startup must answer)
-- Monopoly > competition
-- Long-term vs short-term
-- Power law (one decision can 10x everything)
+**关键**：
+- 7 个问题（每个创业公司都该回答）
+- 垄断优于竞争
+- 长期主义 vs 短期
+- 幂次法则（一个决策影响 10x）
 
-**Learn**: don't compete in red oceans; pursue 10x innovation
+**学什么**：
+- 不要在红海里竞争
+- 追求 10x 创新
 
-## 8. Quick card
+## 8. 速查卡
 
 ```
-Kahneman — know System 1 is lying
-Munger — multi-model + invert
-Taleb — antifragile + redundancy
-Musk — first principles + decompose
-Feynman — simple explanation = true understanding
-Dalio — principles + retrospective
-Thiel — 0 to 1 + long-term
+Kahneman —— 知道系统 1 在骗你
+Munger —— 多元思维 + 反过来想
+Taleb —— 反脆弱 + 保留冗余
+Musk —— 第一性原理 + 拆到底
+Feynman —— 简单讲 = 真懂
+Dalio —— 原则 + 复盘
+Thiel —— 0 到 1 + 长期主义
 ```

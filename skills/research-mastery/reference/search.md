@@ -1,75 +1,78 @@
-# Search Advanced
+# 搜索进阶
 
-## Search operators
+## 搜索运算符（Google/Tavily 通用）
 
-| Operator | Effect | Example |
+| 运算符 | 作用 | 例 |
 |---|---|---|
-| `"phrase"` | Exact match | `"quantum computing"` |
-| `-word` | Exclude | `jaguar -car` |
-| `site:` | Restrict site | `site:github.com rust` |
-| `filetype:` | File type | `filetype:pdf report` |
-| `intitle:` | In title | `intitle:review` |
-| `OR` | Either | `react OR vue` |
-| `before:/after:` | Time | `after:2026-01-01` |
+| `"短语"` | 精确匹配 | `"quantum computing"` |
+| `-词` | 排除 | `jaguar -car` |
+| `site:` | 限定站点 | `site:github.com rust` |
+| `filetype:` | 文件类型 | `filetype:pdf report` |
+| `intitle:` | 标题包含 | `intitle:review` |
+| `OR` | 或 | `react OR vue` |
+| `before:/after:` | 时间 | `after:2026-01-01` |
 
-## Vertical sources
+## 垂直搜索源
 
-### Academic
-- Google Scholar (sort by citations)
-- arXiv / SSRN (preprints)
-- PubMed (medicine)
+### 学术/研究
+- Google Scholar（引用数排序）
+- arXiv / SSRN（预印本）
+- PubMed（医学）
+- 知网/万方（中文）
 
-### Technical
-- GitHub (code + issues + stars)
-- Stack Overflow (problem solving)
-- Hacker News (discussion)
-- Official docs (always first)
+### 技术
+- GitHub（代码 + issues + stars）
+- Stack Overflow（问题解决）
+- Hacker News（技术讨论）
+- 官方文档（永远优先）
 
-### News
+### 新闻/时事
 - Google News
-- Reuters / Bloomberg (finance)
-- X (fastest realtime)
+- 微博热搜 / 知乎热榜
+- X（实时性最强）
+- 路透/彭博（财经）
 
-### Products
-- Marketplaces (Amazon/retailers)
-- Reddit (real user discussion)
-- YouTube reviews (video tests)
+### 商品/评价
+- 电商平台（京东/淘宝/Amazon）
+- 什么值得买（中文评测）
+- Reddit（真实用户讨论）
+- YouTube 评测（视频实测）
 
-## Deep-dig techniques
+## 深挖技巧
 
-### Find the original
+### 找原始来源
 ```
-Secondhand report → find the cited original study/document → read it
-```
-
-### Find professionals
-```
-Search "site:reddit.com r/[field]" or expert names
+二手报道 → 找引用的原始研究/文件 → 读原文
 ```
 
-### Find counter-views
+### 找专业人士
 ```
-Keywords + "criticism" / "problems" / "downsides"
-```
-
-### Find data
-```
-Keywords + "data" / "statistics" / "report" / "whitepaper"
+搜索 "site:zhihu.com 领域词" 或 "site:reddit.com r/领域"
 ```
 
-## When search fails
+### 找反面观点
+```
+关键词 + "criticism" / "problems" / "缺点" / "反对"
+```
 
-1. **Change language**
-2. **Change keywords** (synonyms/hyponyms/hypernyms)
-3. **Change platform** (Google → Bing → vertical)
-4. **Find experts** (who researches this? search their name)
-5. **Find communities** (Reddit/forums — ask)
+### 找数据
+```
+关键词 + "data" / "statistics" / "报告" / "白皮书"
+```
 
-## Quick card
+## 搜索失败时
+
+1. **换语言**（中→英）
+2. **换关键词**（同义词/上位词/下位词）
+3. **换平台**（Google→Bing→垂直站）
+4. **找专家**（谁研究这个？搜他的名字）
+5. **找社区**（Reddit/知乎/论坛问）
+
+## 速查卡
 
 ```
-Main + qualifiers + synonyms / 4 rounds (broad→deep→verify→fill)
-Vertical: academic/tech/news/products
-Deep dig: original/professionals/counter-views/data
-Failure: change language/keywords/platform/experts
+主词+限定+同义词 / 4 轮搜索（广→深→验→补）
+垂直源：学术/技术/新闻/商品
+深挖：原始来源/专业人士/反面/数据
+失败：换语言/换词/换平台/找专家
 ```

@@ -1,62 +1,70 @@
-# Buying Timing
+# 购买时机
 
-## Price history tools
+## 价格历史查询
 
-| Tool | Use |
+| 工具 | 用途 |
 |---|---|
-| Keepa (Amazon) | Amazon price history |
-| CamelCamelCamel | Amazon price tracking |
-| Price trackers | Regional marketplace history |
+| 慢慢买（中文） | 京东/淘宝价格史 |
+| Keepa（Amazon） | 亚马逊价格史 |
+| CamelCamelCamel | 亚马逊价格追踪 |
+| 什么值得买 | 好价爆料 + 历史价 |
 
-**Judgment**: current price vs historical low vs historical average
-- Near historical low = good price
-- 20% above average = wait
+**判断**：现价 vs 历史低价 vs 历史均价
+- 接近历史低 = 好价
+- 高于均价 20% = 等等
 
-## Sale calendar
+## 大促日历（中国）
 
-| Period | Event | Depth |
+| 时间 | 活动 | 力度 |
 |---|---|---|
-| Nov | Black Friday / Cyber Monday | Biggest |
-| Jul | Mid-year sales | Medium |
-| Seasonal | Holiday promotions | Small |
-| Brand days | Per-brand | Medium |
+| 6.18 | 京东周年 | 大 |
+| 11.11 | 双十一 | 最大 |
+| 12.12 | 双十二 | 中 |
+| 3.8 / 5.1 / 8.8 | 节日促销 | 小 |
+| 品牌日 | 各品牌 | 中 |
 
-**Watch**: fake discounts (price raised before "sale") — verify with history.
+**注意**：先涨价再打折 = 假促销（查历史价验证）
 
-## Refresh cycles
+## 换代周期
 
-| Category | Cycle | Advice |
+| 品类 | 周期 | 建议 |
 |---|---|---|
-| Phone | 1 year | Old model drops after launch event |
-| Laptop | 1 year | Old model drops after new CPU |
-| GPU | 2 years | Clearance before new cards |
-| Headphones | 2-3 years | No rush |
-| Appliances | 3-5 years | Don't chase new |
+| 手机 | 1 年 | 发布会后旧款降价 |
+| 笔记本 | 1 年 | 新 CPU 发布后旧款降 |
+| 显卡 | 2 年 | 新卡发布前旧卡清仓 |
+| 耳机 | 2-3 年 | 不急 |
+| 家电 | 3-5 年 | 不追新 |
 
-**Signal**: 1-2 months before a launch event = best window for the old model
+**信号**：新品发布会前 1-2 个月 = 旧款最佳购买期
 
-## Launch vs wait
+## 首发 vs 等等
 
-- **Buy at launch**: early access / risk: bugs/premium/first-batch issues
-- **Wait**: stable price (3 months) / reviews out / firmware matured
+### 首发买
+- 早享受
+- 风险：bug/溢价/首批质量问题
 
-**Advice**: if not urgent, wait 3 months
+### 等等买
+- 价格稳（3 个月后）
+- 评测出（知道真实缺点）
+- 系统成熟（bug 修了）
 
-## Buy or not
+**建议**：不急就等 3 个月
 
-| Situation | Advice |
+## 什么值得买（决策）
+
+| 情况 | 建议 |
 |---|---|
-| Need + fair price | Buy now |
-| Need + inflated price | Wait for sale/refresh |
-| Not urgent | Cart for 7 days, revisit |
-| Impulse | 72-hour rule |
+| 刚需 + 现价合理 | 直接买 |
+| 刚需 + 价格虚高 | 等大促/换代 |
+| 非刚需 | 放购物车 7 天再看 |
+| 冲动想买 | 72 小时规则 |
 
-## Quick card
+## 速查卡
 
 ```
-Price history: trackers; near historical low = good
-Sales: Black Friday biggest; watch fake discounts
-Refresh: 1-2 months before launch = old model window
-Launch vs wait: not urgent, wait 3 months
-Decision: need = buy; not urgent = 7-day rule
+价格史：慢慢买/Keepa 查，接近历史低=好价
+大促：6.18 / 11.11 最大，警惕假打折
+换代：新品发布前 1-2 月 = 旧款最佳期
+首发 vs 等：不急等 3 个月
+决策：刚需直接买，非刚需放 7 天
 ```

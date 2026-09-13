@@ -1,69 +1,70 @@
-# Decision Frameworks
+<!-- 隐式触发：决策框架/加权矩阵/Pre-mortem/贝叶斯/决策方法/量化/评估 -->
+# 决策框架（精简版）
 
-## 1. Weighted matrix
-
-```
-1. List options (3-7) 2. List criteria (5-10) 3. Weight (=100%) 4. Score (1-10) 5. Weighted sum 6. Pick highest (check distribution)
-```
-
-## 2. Expected value
+## 1. 加权矩阵
 
 ```
-EV = Σ(probability × outcome)
+1. 列选项（3-7）2. 列标准（5-10）3. 加权（=100%）4. 打分（1-10）5. 加权求和 6. 选最高（看分布）
 ```
 
-## 3. Bayesian
+## 2. 期望值
 
 ```
-New evidence → update probability
-Prior → likelihood → posterior
+EV = Σ（概率 × 结果）
+```
+
+## 3. 贝叶斯
+
+```
+新证据 → 更新概率
+先验 → 似然 → 后验
 ```
 
 ## 4. Pre-mortem
 
 ```
-Assume it already failed → reverse-engineer causes → rate severity+probability → plan countermeasures → re-decide
+假设已失败 → 倒推原因 → 评估严重性+概率 → 提前对策 → 重新决定
 ```
 
-## 5. Black swan (Taleb)
+## 5. 黑天鹅（Taleb）
 
-- Tiny probability + massive impact / looks predictable after / unpredictable before
-- Response: build resilience / keep redundancy / diversify / never bet the farm
+- 极小概率+极大影响 / 事后看似可预测 / 事前无法预测
+- 应对：增强韧性 / 保留冗余 / 分散 / 不下重注
 
-## 6. Decision tree
+## 6. 决策树
 
-Decision node (□) → chance node (○) → outcomes → compute EV
+决策点（□）→ 机会点（○）→ 结果 → 算期望值
 
-## 7. Counterfactual
+## 7. 反事实
 
-Ask "what if we had done X?" → retrospective / prepare for future
+问"如果当时做了 X 会怎样？" → 复盘 / 准备未来
 
-## 8. Decision principles
+## 8. 决策原则
 
 ```
-Reversible → stop-loss / Irreversible → extreme caution / Small steps / Accept error / Keep options / Prepare for worst
+不逆转→止损 / 不可逆→慎之又慎 / 小步快跑 / 接受错误 / 保留选项 / 做最坏准备
 ```
 
-## 9. Framework selection
+## 9. 框架选择
 
-| Scenario | Framework |
+| 场景 | 框架 |
 |---|---|
-| Compare multiple options | Weighted matrix |
-| Probabilistic outcomes | Expected value |
-| Incremental evidence | Bayesian |
-| Before important decisions | Pre-mortem |
-| Tail risks | Black swan |
-| Multi-step complexity | Decision tree |
-| Retrospective | Counterfactual |
+| 多选项比较 | 加权矩阵 |
+| 概率结果 | 期望值 |
+| 渐进证据 | 贝叶斯 |
+| 重要决策前 | Pre-mortem |
+| 长尾风险 | 黑天鹅 |
+| 多步复杂 | 决策树 |
+| 复盘 | 反事实 |
 
-## 10. Pre-decision checklist
+## 10. 决策前自检
 
-- [ ] Confirmation bias? Find counter-evidence
-- [ ] All options listed? (≥3)
-- [ ] Pre-mortem done?
-- [ ] Quantified?
-- [ ] 5-10 year view?
-- [ ] Margin kept?
-- [ ] Worst case affordable?
-- [ ] Found an opponent?
-- [ ] Decision reversible?
+- [ ] 确认偏误？找反证
+- [ ] 列所有选项？（≥3）
+- [ ] Pre-mortem？
+- [ ] 量化？
+- [ ] 想 5-10 年？
+- [ ] 保留余量？
+- [ ] 能承担最坏？
+- [ ] 找反对方？
+- [ ] 决策可逆？

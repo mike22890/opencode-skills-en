@@ -1,41 +1,42 @@
-# Architecture Patterns
+<!-- 隐式触发：微服务/事件驱动/CQRS/Saga/限流/架构模式/服务拆分 -->
+# 架构模式（精简版）
 
-## Microservices
+## 微服务
 
-Independent deployment / independent databases / API communication. For large teams and traffic; skip for small projects.
+独立部署/独立数据库/API 通信。大团队大流量用，小项目别用。
 
-## Event-driven
+## 事件驱动
 
-Event produced → bus → consumers. Kafka/RabbitMQ/Redis Streams. Decoupling / async / replayability.
+事件产生→总线→消费者。Kafka/RabbitMQ/Redis Streams。解耦/异步/可重放。
 
 ## CQRS
 
-Write model (optimized for writes) + read model (optimized for reads), can use different stores. For skewed read/write ratios.
+写模型（优化写入）+ 读模型（优化读取），可不同存储。读写比例悬殊用。
 
 ## Saga
 
-Split large transactions into small ones + compensations. Choreography (no center) / Orchestration (central coordinator).
+大事务拆小事务+补偿。Choreography（无中心）/ Orchestration（中央协调器）。
 
-## Rate limiting
+## 限流
 
-Token bucket / leaky bucket / sliding window / counter. Sentinel / Resilience4j / nginx limit_req.
+令牌桶/漏桶/滑动窗口/计数器。Sentinel/Resilience4j/nginx limit_req。
 
-## Circuit breaking
+## 熔断
 
-Closed → Open → Half-Open → Closed. Failure thresholds + degradation.
+Closed→Open→Half-Open→Closed。失败阈值+降级。
 
-## Read-write splitting
+## 读写分离
 
-Primary writes, replicas read; binlog/CDC sync. For read-heavy workloads. Latency issues → read from primary for strong consistency.
+主写从读，binlog/CDC 同步。读多写少用。延迟问题→强一致读主库。
 
-## Sharding
+## 分库分表
 
-Single table > 100M rows / single DB QPS > 10,000. Vertical (by business) / horizontal (hash/range). ShardingSphere / Vitess / TiDB.
+单表>1亿/单库QPS>10000。垂直（按业务）/水平（hash/range）。ShardingSphere/Vitess/TiDB。
 
-## Quick card
+## 速查卡
 
 ```
-Microservices = big teams / Event-driven = decoupling / CQRS = read-write split
-Saga = distributed transactions / Rate limit = token bucket / Circuit break = graceful failure
-Read-write split = read-heavy / Sharding = 100M+ rows
+微服务=大团队 / 事件驱动=解耦 / CQRS=读写分离
+Saga=分布式事务 / 限流=令牌桶 / 熔断=失败降级
+读写分离=读多写少 / 分库分表=单表过亿
 ```

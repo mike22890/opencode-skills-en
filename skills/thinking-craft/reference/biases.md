@@ -1,74 +1,75 @@
-# 30+ Cognitive Biases
+<!-- 隐式触发：认知偏差/启发式/决策陷阱/思维误区/偏见/非理性/判断错误 -->
+# 认知偏差 30+（精简版）
 
-> Spotting systematic irrationality is the precondition for quality decisions.
+> 识别系统性的非理性是高质量决策的前提。
 
-## Perception / memory
+## 感知/记忆类
 
-| Bias | Definition | Counter |
+| 偏差 | 定义 | 对策 |
 |---|---|---|
-| Confirmation bias | Seeking evidence for existing conclusions | Actively find counter-evidence / steelman |
-| Availability heuristic | Easy to recall = more likely | Use base rates |
-| Anchoring | Locked by the first number | Anchor first yourself / give ranges |
-| Recency effect | Recent events weighted too high | Look at long-term data |
-| Vividness effect | Vivid stories > statistics | Separate stories from data |
+| 确认偏误 | 找支持已有结论的证据 | 主动找反证/Steelman |
+| 可得性启发 | 容易想起=更可能 | 用基础率 |
+| 锚定效应 | 被第一个数字锁死 | 自己先说/给范围 |
+| 近因效应 | 最近的事权重过高 | 看长期数据 |
+| 鲜活效应 | 生动故事>统计数据 | 区分故事和数据 |
 
-## Judgment / decision
+## 判断/决策类
 
-| Bias | Definition | Counter |
+| 偏差 | 定义 | 对策 |
 |---|---|---|
-| Sunk cost | Continuing because of past investment | Only ask "is it worth it going forward" |
-| Loss aversion | Losing 100 hurts ≈ gaining 200 pleases | Price rationally |
-| Endowment effect | Owning > not owning | Pretend you don't own it, re-evaluate |
-| Status quo bias | Preference for no change | Quarterly "what if we started fresh" |
-| Overconfidence | Overestimating yourself | Keep 30% uncertainty |
-| Planning fallacy | Underestimating time | ×1.5-3 |
-| Hindsight bias | "I knew it all along" | Keep a prediction journal |
-| Optimism bias | Underestimating negative events | Check base rates |
-| Fundamental attribution error | Others' failures = character, yours = situation | First ask "if it were me" |
+| 沉没成本 | 因已投入而继续 | 只问"未来值不值" |
+| 损失厌恶 | 损失100痛苦≈收益200快乐 | 理性定价 |
+| 禀赋效应 | 拥有>不拥有 | 假装没拥有重新评估 |
+| 现状偏好 | 倾向不变 | 每季问"重新开始选啥" |
+| 过度自信 | 高估自己 | 留30%不确定 |
+| 规划谬误 | 低估完成时间 | ×1.5-3倍 |
+| 后见之明 | 事后觉得早知道 | 写预测日记 |
+| 乐观偏差 | 低估负面事件 | 参考基础率 |
+| 基本归因错误 | 别人失败归性格，自己归情境 | 先问"如果是我" |
 
-## Social / group
+## 社会/群体类
 
-| Bias | Definition | Counter |
+| 偏差 | 定义 | 对策 |
 |---|---|---|
-| Groupthink | Harmony over dissent | Devil's advocate |
-| Conformity | Everyone does it, so do I | Ask "if no one did it, would I" |
-| Authority bias | Authority must be right | Reasons matter more than authority |
+| 群体思维 | 为和谐放弃异议 | 魔鬼代言人 |
+| 从众效应 | 别人做我也做 | 问"都不做我会做吗" |
+| 权威偏误 | 权威说的对 | 理由比权威重要 |
 
-## Probability / statistics
+## 概率/统计类
 
-| Bias | Definition | Counter |
+| 偏差 | 定义 | 对策 |
 |---|---|---|
-| Gambler's fallacy | Independent events get "corrected" | Compute each independently |
-| Base rate neglect | Ignoring overall probability | Check base rates first |
-| Conjunction fallacy | Specific seems more likely than general | Specific can't beat general |
-| Survivorship bias | Only seeing winners | Look at the full distribution |
+| 赌徒谬误 | 独立事件被"修正" | 每次独立算 |
+| 忽略基础率 | 忽略总体概率 | 先查基础率 |
+| 联合谬误 | 具体比一般更可能 | 具体不会比一般更可能 |
+| 生存者偏差 | 只看成功的 | 看完整分布 |
 
-## Emotion / motivation
+## 情感/动机类
 
-| Bias | Definition | Counter |
+| 偏差 | 定义 | 对策 |
 |---|---|---|
-| Affect heuristic | Emotions sway judgment | Let important decisions cool |
-| Paradox of choice | More options = anxiety | Defaults + recommendations + limits |
-| Dunning-Kruger | Low ability overestimates itself | Get expert assessment |
-| Mental accounting | Money in separate accounts | One account, rational |
+| 情感启发 | 情绪影响判断 | 重要决策等平复 |
+| 选择悖论 | 选项多=焦虑 | 默认+推荐+限制 |
+| Dunning-Kruger | 能力低的高估自己 | 找专家评估 |
+| 心理账户 | 钱分不同账户 | 统一账户理性 |
 
-## Pre-decision checklist
+## 决策前自检
 
-- [ ] Confirmation bias? Find counter-evidence
-- [ ] Availability? Check base rates
-- [ ] Anchored? Re-evaluate
-- [ ] Sunk cost? Ask about future
-- [ ] Loss aversion? Price rationally
-- [ ] Overconfident? Leave margin
-- [ ] Emotional? Wait for calm
-- [ ] Conflict of interest? Find a disinterested party
-- [ ] Full distribution considered?
+- [ ] 确认偏误？找反证
+- [ ] 可得性？查基础率
+- [ ] 被锚定？重新评估
+- [ ] 沉没成本？问未来
+- [ ] 损失厌恶？理性定价
+- [ ] 过度自信？留余地
+- [ ] 有情绪？等平复
+- [ ] 利益冲突？找无利益方
+- [ ] 看完整分布？
 
-## Quick card
+## 速查
 
 ```
-Confirmation → counter-evidence / Availability → base rates / Anchoring → anchor first
-Sunk cost → future only / Loss aversion → rational pricing / Overconfidence → 30% margin
-Planning fallacy → ×1.5-3 / Hindsight → prediction journal
-Groupthink → devil's advocate / Survivorship → full distribution
+确认偏误→找反证 / 可得性→基础率 / 锚定→自己先说
+沉没成本→问未来 / 损失厌恶→理性定价 / 过度自信→留30%
+规划谬误→×1.5-3 / 后见之明→写预测日记
+群体思维→魔鬼代言人 / 生存者→看完整分布
 ```

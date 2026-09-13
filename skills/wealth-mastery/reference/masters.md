@@ -1,100 +1,184 @@
-# Wealth Masters (5 anchors)
+<!-- 隐式触发：投资大师/巴菲特/芒格/达里奥/成功案例 -->
+# 财富大师（5 大锚点）
 
-## 1. Warren Buffett
+## 1. Warren Buffett（巴菲特）
 
-**Core**: value investing / long-term holding / compounding
+### 核心
 
-**Key principles**:
-- **Buying = owning part of a company**: stocks aren't chips, they're **businesses** / find **good businesses** (moats) / find **good prices** (intrinsic value)
-- **4 rules**: buy index funds / hold long-term / don't look / keep buying
-- **Concentration**: unlike "diversification" / 5-10 core holdings / but **deep research** on each
+价值投资 / 长期持有 / 复利
 
-**Quotes**:
-> "Be fearful when others are greedy, and greedy when others are fearful."
+### 关键原则
 
-> "Time is the friend of the wonderful company, the enemy of the mediocre."
+#### 买 = 拥有公司的一部分
 
-> "Buying a stock is buying a company."
+- 股票不是筹码，是**生意**
+- 找**好生意**（护城河）
+- 找**好价格**（内在价值）
 
-## 2. Charlie Munger
+#### 4 条投资规则
 
-**Core**: multi-model thinking + value investing + long-term
+1. 买指数基金（vs 选股）
+2. 长期持有（vs 短线）
+3. 不看（vs 频繁查看）
+4. 持续买（vs 等机会）
 
-**Key principles**:
-- **Multi-model thinking**: 100+ mental models / cross-disciplinary (economics/psychology/physics/literature)
-- **25 causes of human misjudgment**: incentives / confirmation / anchoring / loss aversion / inversion
+#### 集中持仓
 
-**Quotes**:
-> "Invert, always invert."
+- 不同于"多元化"
+- 巴菲特风格：5-10 只核心持仓
+- 但**深度研究**每只
 
-> "You must know the big ideas in the big disciplines and use them routinely."
+#### 关键语录
 
-## 3. Ray Dalio
+> "别人贪婪时我恐惧，别人恐惧时我贪婪。"
 
-**Core**: All-Weather / economic machine / debt cycles
+> "时间是优秀公司的朋友，是平庸公司的敌人。"
 
-**Key principles**:
-- **All-Weather**: economy has 4 seasons → different assets win in each / allocation = positive in every season / risk parity (not dollar parity)
-- **Debt cycles**: short-term (5-8 yrs) / long-term (50-75 yrs) / central bank responses + political consequences
+> "买股票就是买公司。"
 
-**Quotes**:
-> "Pain + reflection = progress."
+## 2. Charlie Munger（芒格）
 
-> "I believe the truth is painful, but it's better than lies."
+### 核心
 
-> *Principles*: write your principles down and enforce them.
+多元思维 + 价值投资 + 长期
 
-## 4. Jack Bogle
+### 关键原则
 
-**Core**: **father of index funds** / Vanguard founder
+#### 多元思维
 
-**Key principles**:
-- **Index revolution**: most active funds lose to the index / fees are the biggest killer of returns / individuals are safest in index funds
-- **4 rules**: low-cost index funds / hold long-term / don't trade frequently / don't predict markets
+- 100+ 思维模型
+- 跨学科（经济学 / 心理学 / 物理 / 文学）
 
-**Quotes**:
-> "Don't look for the needle in the haystack. Just buy the haystack."
+#### 心理学的 25 种谬误
 
-> "Time is your friend; impulse is your enemy."
+- 激励机制 / 确认偏误 / 锚定 / 损失厌恶
+- 逆向思考
 
-## 5. Howard Marks
+#### 关键语录
 
-**Core**: **cycles + risk awareness**
+> "反过来想，总是反过来想。"
 
-**Key principles**:
-- **Second-level thinking**: what the crowd thinks doesn't matter / "what do they think / what should I think" does
-- **Cycles**: markets cycle / most of the time "neutral" / extreme cheap/extreme expensive = opportunity
-- **Risk awareness**: risk = permanent loss of capital / risk ≠ volatility
+> "你必须知道重要的知识在哪，然后**是大部分**。"
 
-**Quotes**:
-> "Buying good isn't as good as buying well."
+## 3. Ray Dalio（达里奥）
 
-> "The most important thing is knowing when to be cautious."
+### 核心
 
-> *The Most Important Thing*
+全天候策略 / 经济机器 / 债务周期
 
-## 6. Practical application
+### 关键原则
 
-**Decision checklist**:
-- [ ] Am I investing?
-- [ ] Emergency fund in place?
-- [ ] High-interest debt cleared?
-- [ ] Insurance in place?
-- [ ] Will in place?
-- [ ] Asset allocation sensible?
-- [ ] Diversified?
-- [ ] DCA running?
+#### 全天候策略
 
-**Review questions**: were my last year's financial decisions right? / is my savings rate enough? / any impulse buys? / any chasing rallies or panic selling?
+- 经济 4 季 → 不同资产在不同季节好
+- 配置 = 每季都有正收益
+- 风险平价（不是钱平价）
 
-**Long-term mindset**: under 5 years isn't investing / short-term swings aren't risk / time is a friend
+#### 债务周期
 
-## 7. Quick card
+- 短期债务周期（5-8 年）
+- 长期债务周期（50-75 年）
+- 央行应对 + 政治后果
+
+#### 关键语录
+
+> "痛苦 + 反思 = 进步。"
+
+> "我相信的真相是痛苦的，但比谎言好。"
+
+> 《Principles》（原则）：把原则写下来，强制执行。
+
+## 4. Jack Bogle（博多）
+
+### 核心
+
+**指数基金之父** / Vanguard 创始人
+
+### 关键原则
+
+#### 指数基金革命
+
+- 大多数主动基金跑不赢指数
+- 费用是回报最大杀手
+- 个人投资者买指数最稳
+
+#### 投资 4 原则
+
+1. 选择低成本指数基金
+2. 长期持有
+3. 不频繁交易
+4. 不预测市场
+
+#### 关键语录
+
+> "别在草地上找兔子（选股者），投资指数基金。"
+
+> "时间是投资者的朋友，情绪是敌人。"
+
+## 5. Howard Marks（霍华德·马克斯）
+
+### 核心
+
+**周期 + 风险意识**
+
+### 关键原则
+
+#### 第二层思维
+
+- 大多数人想什么不重要
+- "他们想什么 / 我该想什么"才是
+
+#### 周期
+
+- 市场有周期
+- 多数时间"中性"
+- 极端便宜 / 极端贵 = 机会
+
+#### 风险意识
+
+- 风险 = 永久损失本金
+- 风险 ≠ 波动
+
+#### 关键语录
+
+> "买得好不如买得便宜。"
+
+> "最重要的是知道什么时候该谨慎。"
+
+> 《The Most Important Thing》
+
+## 6. 实战应用（Mike 版）
+
+### 决策清单
+
+- [ ] 我在做投资吗？
+- [ ] 我有没有紧急金？
+- [ ] 我有没有高息债？
+- [ ] 我有没有保险？
+- [ ] 我有没有遗嘱？
+- [ ] 我的资产配置合理吗？
+- [ ] 我有没有多元化？
+- [ ] 我有没有定投？
+
+### 复盘问题
+
+- 我最近 1 年的财务决策对吗？
+- 我的储蓄率够吗？
+- 我有没有冲动消费？
+- 我有没有追涨杀跌？
+
+### 长期心态
+
+- 5 年以下不算投资
+- 短期波动不是风险
+- 时间是朋友
+
+## 7. 速查卡
 
 ```
-Buffett — buy companies + 4 rules
-Munger — multi-model + 25 misjudgments
-Dalio — All-Weather + debt cycles
-Bogle — father of index funds
-Marks — second-level thinking + cycles
+Buffett —— 买公司 + 4 规则
+Munger —— 多元思维 + 心理 25 谬误
+Dalio —— 全天候 + 债务周期
+Bogle —— 指数基金之父
+Marks —— 第二层思维 + 周期
 ```

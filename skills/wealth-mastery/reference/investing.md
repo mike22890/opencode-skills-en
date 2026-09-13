@@ -1,99 +1,150 @@
-# Investing Strategies (5)
+<!-- 隐式触发：股票/基金/ETF/资产配置/定投/估值/选股/投资组合 -->
+# 投资策略（5 大）
 
-## 1. Asset allocation (most important)
+## 1. 资产配置（最重要）
 
-### Three-fund portfolio (classic)
+### 三基金（经典）
 
-| Fund | Weight | Role |
+| 基金 | 占比 | 作用 |
 |---|---|---|
-| **US stocks** | 60% | S&P 500 / total market |
-| **International stocks** | 20% | Developed ex-US |
-| **US bonds** | 20% | Treasuries / investment-grade |
+| **美国股票** | 60% | 标普 500 / 全市场 |
+| **国际股票** | 20% | 非美发达国家 |
+| **美国债券** | 20% | 国债 / 投资级公司债 |
 
-Adjustment: younger = more stocks, older = more bonds.
+调整：年轻多股票，年老多债券。
 
-### All-Weather (Bridgewater / Ray Dalio)
+### 全天候（桥水 Ray Dalio）
 
-| Asset | Weight |
+| 资产 | 占比 |
 |---|---|
-| US stocks | 30% |
-| Long-term bonds | 40% |
-| Intermediate bonds | 15% |
-| Gold | 7.5% |
-| Commodities | 7.5% |
+| 美国股票 | 30% |
+| 长期国债 | 40% |
+| 中期国债 | 15% |
+| 黄金 | 7.5% |
+| 商品 | 7.5% |
 
-**Principle**: the economy has 4 seasons; All-Weather has positive returns in each.
+**原理**：经济有 4 季，全天候在每季都有正收益。
 
-### Three-fund vs All-Weather
+### 三基金 vs 全天候
 
-- Three-fund: simple, understandable, ~8-10% long-term
-- All-Weather: complex, lower volatility, ~7-8% long-term
+- 三基金：简单、易懂、长期 8-10%
+- 全天候：复杂、波动低、长期 7-8%
 
-## 2. Index vs active funds
+## 2. 指数基金 vs 主动基金
 
-### Facts
+### 事实
 
-- 90% of active funds fail to beat the index long-term
-- Active funds average 1%/year in fees → -1.5% long-term
-- Index funds cost 0.03-0.2%/year
+- 90% 的主动基金长期跑不赢指数
+- 主动基金平均费用 1% / 年 → 长期 -1.5%
+- 指数基金费用 0.03-0.2% / 年
 
-**Recommendation: 90% of individual investors should buy index funds.**
+### 选股建议
 
-### Index fund picks
+**个人投资者 90% 应该买指数基金**。
 
-| Fund | Expense |
+### 推荐的指数基金
+
+| 标的 | 费用 |
 |---|---|
-| Vanguard VFIAX (S&P 500) | 0.04% |
-| Fidelity FZROX (US total market) | 0% |
-| Vanguard VTIAX (ex-US) | 0.11% |
-| Vanguard BND (US bonds) | 0.035% |
-| Vanguard VTI (US total market ETF) | 0.03% |
+| Vanguard VFIAX（标普 500） | 0.04% |
+| Fidelity FZROX（美国全市场） | 0% |
+| Vanguard VTIAX（非美） | 0.11% |
+| Vanguard BND（美国债券） | 0.035% |
+| Vanguard VTI（美股全市场 ETF） | 0.03% |
 
-## 3. DCA (dollar-cost averaging)
+## 3. 定投（DCA）
 
-**Fixed amount + fixed schedule** = forced discipline
+### 原理
 
-**Advantages**: buy more when down (cheap) / less when up (expensive) / average cost
+**固定金额 + 固定时间** = 强制纪律
 
-**Rules**: same day each month / fixed amount / regardless of direction
+### 优点
 
-**Frequency**: monthly > weekly > daily (more frequent ≈ market timing)
+- 跌时多买股（便宜）
+- 涨时少买股（贵）
+- 平均成本
 
-## 4. Rebalancing
+### 规则
 
-**Principle**: after a year stocks may have run up, skewing the ratio → sell stocks, buy bonds to restore targets
+- 每月固定一天
+- 固定金额
+- 不管涨跌
 
-**Frequency**: annually (most cases) / trigger at 5% drift
+### 频率
 
-**Psychology**: **forces selling high, buying low** (counter-intuitive) / forces profit-taking
+- 月度 > 周度 > 日度
+- 越频繁越接近择时（不必要）
 
-**Execution**: sell the biggest gainer / buy the biggest loser / restore target ratios
+## 4. 再平衡
 
-## 5. Valuation (when to buy)
+### 原理
 
-- **CAPE (Shiller PE)**: S&P 500 / 10-year inflation-adjusted earnings / historical mean ~17 / > 25 = expensive / < 15 = cheap
-- **PE**: price / earnings / historical mean ~15-17
-- **PB**: price / book value
-- **Buffett indicator**: US market cap / GDP / > 120% = expensive / < 80% = cheap
+一年后股票涨多了，比例失调 → 卖股买债恢复目标
 
-**Application**: buy more when cheap / less when expensive / don't wait for "perfect timing"
+### 频率
 
-## 6. Buffett's 4 rules
+- 每年一次（多数情况）
+- 偏离 5% 以上就触发
+
+### 心理
+
+- **强制卖高买低**（反人性）
+- 强制获利了结
+
+### 操作
+
+- 卖出涨幅最大的
+- 买入跌幅最大的
+- 恢复目标比例
+
+## 5. 估值（什么时候买）
+
+### 常用指标
+
+#### CAPE（席勒 PE）
+
+- 标普 500 / 10 年平均通胀调整盈利
+- 历史均值 ~17
+- > 25 = 高估
+- < 15 = 低估
+
+#### PE（市盈率）
+
+- 价格 / 每股盈利
+- 历史均值 ~15-17
+
+#### PB（市净率）
+
+- 价格 / 每股净资产
+
+### 巴菲特指标
+
+- 美股市值 / GDP
+- > 120% = 高估
+- < 80% = 低估
+
+### 应用
+
+- 低估时多买
+- 高估时少买或不买
+- 不要等"完美时机"
+
+## 6. 巴菲特 4 规则
 
 ```
-1. Buy index funds (vs stock picking)
-2. Hold long-term (vs short-term trading)
-3. Don't look (vs checking constantly)
-4. Keep buying (vs waiting for opportunity)
+1. 买指数基金（vs 选股）
+2. 长期持有（vs 短线）
+3. 不看（vs 频繁查看）
+4. 持续买（vs 等机会）
 ```
 
-## 7. Quick card
+## 7. 速查卡
 
 ```
-Allocation — three-fund / All-Weather
-Index vs active — 90% choose index
-DCA — fixed amount + schedule
-Rebalancing — once a year
-Valuation — CAPE / PE / Buffett indicator
-Buffett 4 — index + long-term + don't look + keep buying
+资产配置 —— 三基金 / 全天候
+指数 vs 主动 —— 90% 选指数
+定投 —— 固定金额 + 时间
+再平衡 —— 每年一次
+估值 —— CAPE / PE / 巴菲特指标
+巴菲特 4 —— 指数 + 长期 + 不看 + 持续
 ```

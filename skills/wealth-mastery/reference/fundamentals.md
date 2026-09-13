@@ -1,106 +1,130 @@
-# Financial Fundamentals (5)
+<!-- 隐式触发：复利/风险收益/资产类别/通胀/行为金融/理财基础/储蓄 -->
+# 金融基础（5 大）
 
-## 1. Compounding (the eighth wonder)
+## 1. 复利（第八奇迹）
 
-### Formula
+### 公式
 
 ```
 FV = PV × (1 + r)^n
 ```
 
-PV = present value / r = annual return / n = years
+PV = 现值
+r = 年化收益率
+n = 年数
 
-### Power
+### 威力
 
-| Starting | Annual contribution | Return | After 30 years |
+| 起始 | 每年存 | 年化 | 30 年后 |
 |---|---|---|---|
-| 0 | $10k | 7% | **$1.01M** |
-| 0 | $10k | 10% | **$2.28M** |
-| 0 | $10k | 15% | **$6.62M** |
+| 0 | 1 万 | 7% | **101 万** |
+| 0 | 1 万 | 10% | **228 万** |
+| 0 | 1 万 | 15% | **662 万** |
 
-**Key**: longer time = stronger compounding.
+**关键**：时间越长，复利越猛。
 
-### Insights
+### 关键洞察
 
-- Accumulating at 25-35 beats 35-45 (10 extra compounding years)
-- 7% vs 15% over 30 years = 6.5x difference
-- Time > amount (small early contributions beat large late ones)
+- 25-35 岁积累比 35-45 岁更有效（多 10 年复利）
+- 收益率 7% vs 15%，30 年差 6.5 倍
+- 时间 > 金额（年轻人小额投入，长期胜过中年大额）
 
-## 2. Risk vs return
+## 2. 风险 vs 收益
 
-- **High return = high risk**
-- Short-term high returns rarely persist
-- Long-term, stocks return the most but swing hardest
+### 核心原则
 
-### Historical long-term returns (US 1928-2023)
+- **高收益 = 高风险**
+- 短期高收益往往不可持续
+- 长期看股票收益最高，但波动大
 
-| Asset | Annual | Volatility |
+### 历史长期收益（美国 1928-2023）
+
+| 资产 | 年化 | 波动 |
 |---|---|---|
-| Stocks (S&P 500) | ~10% | ~20% |
-| Long-term bonds | ~5% | ~10% |
-| Short-term bonds | ~3% | ~3% |
-| Cash | ~3% | ~1% |
-| Gold | ~5% | ~15% |
-| Real estate | ~4% | ~15% |
+| 股票（标普 500） | ~10% | ~20% |
+| 长期国债 | ~5% | ~10% |
+| 短期国债 | ~3% | ~3% |
+| 现金 | ~3% | ~1% |
+| 黄金 | ~5% | ~15% |
+| 房地产 | ~4% | ~15% |
 
-**Real** (after inflation): stocks ~7%, bonds ~2%, cash 0
+**实际**（扣除通胀）：股票 ~7%，债券 ~2%，现金 0
 
-### Risk tolerance = time × personality
+### 风险承受 = 时间 × 个性
 
-- Long horizon (10+ yrs): 80% stocks / 20% bonds
-- Short horizon (1-3 yrs): bonds + cash
-- Conservative: 60% stocks / 40% bonds
+- 时间长（10 年+）：股票 80% + 债券 20%
+- 时间短（1-3 年）：债券 + 现金为主
+- 个性保守：股票 60% + 债券 40%
 
-## 3. Asset classes
+## 3. 资产类别
 
-| Asset | Traits |
+### 5 大类
+
+| 资产 | 特点 |
 |---|---|
-| **Stocks** | High return, high volatility, best long-term |
-| **Bonds** | Stable income, risk balancer |
-| **Cash** | Liquid, but eaten by inflation |
-| **Real estate** | Inflation hedge + cash flow, illiquid |
-| **Commodities** (gold/oil) | Inflation hedge, diversification |
+| **股票** | 高收益高波动，长期最优 |
+| **债券** | 稳定收益，平衡风险 |
+| **现金** | 流动性好，但被通胀税吃 |
+| **房地产** | 抗通胀 + 现金流，但流动性差 |
+| **商品**（黄金 / 石油）| 抗通胀，多元化 |
 
-### Correlations
+### 相关性
 
-- Stocks ↔ bonds: **negative** (bonds rise when stocks fall)
-- Stocks ↔ gold: **weak**
-- Real estate ↔ stocks: **positive** (both fall in crises)
+- 股票 ↔ 债券：**负相关**（股市跌债市涨）
+- 股票 ↔ 黄金：**弱相关**
+- 房地产 ↔ 股票：**正相关**（危机时同跌）
 
-### Allocation principles
+### 配置原则
 
-- **Diversification** reduces single-point risk
-- **Low-correlation** portfolios are optimal
-- **Rebalance** to maintain targets
+- **多元化**降低单点风险
+- **相关性低**的资产组合最优
+- **再平衡**保持目标配置
 
-## 4. Inflation (the invisible tax)
+## 4. 通胀（隐形税）
 
-- 3% inflation/year → purchasing power halves in 30 years
-- Cash not invested = slowly stolen
+### 威力
 
-**Responses**: stocks (inflation hedge) / TIPS / real estate
+- 通胀 3% / 年 → 30 年购买力减半
+- 现金不投资 = 慢慢被偷
 
-**Key levels**: 2-3% = healthy / > 5% = alarm / < 1% = deflation trap risk
+### 应对
 
-## 5. Behavioral finance (the enemy is yourself)
+- 投资股票（抗通胀）
+- 投资 TIPS（通胀挂钩债券）
+- 投资房地产
 
-| Trap | Behavior | Consequence |
+### 关键
+
+- 通胀率 2-3% = 健康经济
+- 通胀率 > 5% = 警报
+- 通缩 < 1% = 危险（通缩陷阱）
+
+## 5. 行为金融（敌人是自己）
+
+### 常见心理陷阱
+
+| 陷阱 | 行为 | 后果 |
 |---|---|---|
-| **Loss aversion** | Selling when down | Miss the rebound |
-| **Overconfidence** | Frequent trading | High fees, low returns |
-| **Herding** | Buying what others buy | Buying the top |
-| **Sunk cost** | Not selling losers | Bigger losses |
-| **FOMO** | Fear of missing out | Chasing highs |
-| **Recency bias** | Judging by the recent | Shortsightedness |
+| **损失厌恶** | 跌了就卖 | 错过反弹 |
+| **过度自信** | 频繁交易 | 高费用 + 低收益 |
+| **羊群效应** | 别人买什么我买什么 | 高位接盘 |
+| **沉没成本** | 亏了不卖 | 亏更多 |
+| **FOMO** | 怕错过 | 追高 |
+| **近期偏好** | 看最近 | 短视 |
 
-**Responses**: DCA (forced discipline) / don't look / buy index funds / don't predict
+### 应对
 
-## 6. Quick card
+- **定投**（不管涨跌按时买）→ 强制纪律
+- **不看**（设好投资就别看）
+- **买指数**（不选股 → 不踩雷）
+- **不预测**（市场不可预测）
+
+## 6. 速查卡
 
 ```
-Compounding — time > amount
-Risk — long-term stocks highest + volatile
-Inflation — invisible tax
-Diversification — low-correlation assets
-Behavior — the enemy is yourself
+复利 —— 时间 > 金额
+风险 —— 长期股票最高 + 波动大
+通胀 —— 隐形税
+多元化 —— 相关性低的资产
+行为 —— 敌人是自己
 ```

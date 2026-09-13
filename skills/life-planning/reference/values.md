@@ -1,75 +1,75 @@
-# Values Clarification
+# 价值观澄清
 
-## Why it matters
+## 为什么重要
 
-Unclear values = drifting = living someone else's life by their standards.
+价值观不清 = 方向漂移 = 用别人的标准活自己的一生。
 
-## Tool 1: The funeral exercise
-
-```
-Imagine your funeral:
-- What do family say about you?
-- What do friends say?
-- What do colleagues say?
-- What do you hope they say?
-```
-
-**Write**: 3 things you want to be remembered for → those are your values
-
-## Tool 2: Time tracking
+## 工具 1：人生葬礼法
 
 ```
-Log one week:
-- Work: __ hours
-- Family: __ hours
-- Phone: __ hours
-- Learning: __ hours
-- Exercise: __ hours
+想象你的葬礼：
+- 家人怎么评价你？
+- 朋友怎么评价你？
+- 同事怎么评价你？
+- 你希望他们说什么？
 ```
 
-**Truth**: where time goes = what your values are (not what you say)
+**写下**：你希望被记住的 3 件事 → 那就是你的价值观
 
-## Tool 3: Energy list
-
-```
-Last 2 weeks:
-- What fills you with energy? (+)
-- What drains you? (-)
-```
-
-**Pattern**: + points to values; - points to what to reduce
-
-## Tool 4: Envy analysis
+## 工具 2：时间追踪
 
 ```
-Who do I envy?
-What exactly? (money/freedom/achievement/relationships/lifestyle)
-Why this?
+记录一周时间花在哪：
+- 工作：__小时
+- 家人：__小时
+- 手机：__小时
+- 学习：__小时
+- 运动：__小时
 ```
 
-**Insight**: envy = unmet values
+**真相**：时间花在哪 = 价值观是什么（不是嘴上说的）
 
-## Tool 5: Bottom-line list
+## 工具 3：能量清单
 
 ```
-What I can't compromise on:
+列出最近 2 周：
+- 做什么事时充满能量？（+）
+- 做什么事时被抽干？（-）
+```
+
+**规律**：+ 的事指向价值观，- 的事指向需要减少的
+
+## 工具 4：羡慕分析法
+
+```
+我羡慕谁？
+羡慕他什么？（钱/自由/成就/关系/生活方式）
+为什么羡慕这个？
+```
+
+**洞察**：羡慕 = 未被满足的价值观
+
+## 工具 5：底线清单
+
+```
+我不能妥协的（底线）：
 1. ___
 2. ___
 3. ___
 
-What I can compromise on:
+可以妥协的：
 1. ___
 2. ___
 ```
 
-## Common values (reference)
+## 常见价值观（参考）
 
-Freedom / growth / family / achievement / security / creation / impact / wealth / health / friendship / adventure / calm / recognition / meaning / control
+自由 / 成长 / 家庭 / 成就 / 安全 / 创造 / 影响 / 财富 / 健康 / 友谊 / 冒险 / 平静 / 认可 / 意义 / 掌控
 
-## Output: value ranking
+## 输出：价值观排序
 
 ```
-My 5 core values (ranked):
+我的 5 大价值观（排序）：
 1. ___
 2. ___
 3. ___
@@ -77,22 +77,22 @@ My 5 core values (ranked):
 5. ___
 ```
 
-**Use**: for major decisions ask — does this fit my top 3?
+**用法**：重大决策时问——这个选择符合我的前 3 价值观吗？
 
-## Handling conflicts
+## 冲突处理
 
-Values conflict (freedom vs security / achievement vs family):
-- Ranking solves it (top 3 win)
-- Stage adjustment (weights differ by life stage)
-- Accept imperfection (can't have everything)
+价值观之间会冲突（自由 vs 安全 / 成就 vs 家庭）：
+- 排序解决（前 3 优先）
+- 阶段调整（不同人生阶段权重不同）
+- 接受不完美（不能全要）
 
-## Quick card
+## 速查卡
 
 ```
-Funeral: what you want remembered
-Time tracking: where time goes = values
-Energy list: + = value direction
-Envy analysis: envy = unmet values
-Bottom line: what can't be compromised
-Output: rank 5 values → decision criteria
+葬礼法：希望被记住什么
+时间追踪：时间花在哪=价值观
+能量清单：+ 的事=价值观方向
+羡慕分析：羡慕=未满足
+底线：不能妥协的
+输出：5 大价值观排序 → 决策标准
 ```

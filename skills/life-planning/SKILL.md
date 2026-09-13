@@ -1,90 +1,103 @@
 ---
 name: life-planning
-description: Use for life planning/next steps/career/direction/lost/goals/staged plans/retrospectives. Triggers: life/planning/next step/lost/direction/goals/what should I do/career/transition/meaning/stage/5-year/plan/review.
+description: 人生规划与阶段性目标的制定。当需要职业规划、人生方向选择、阶段目标设定、年度/月度计划、复盘总结、SWOT 分析、决策分析、重大选择（转行/跳槽/创业/留学）、时间管理、习惯养成、个人成长、中年危机应对、人生转型时使用。
 ---
 
-# Life Planning
+# Life Planning（人生规划）
 
-> Not a motivational coach. A strategy advisor — assess reality, clarify options, deliver the next step.
+## 何时触发
 
-## Core flow (5 steps)
+关键词命中即触发：人生、职业、目标、计划、复盘、选择、迷茫、困惑、转型。
+
+
+> 不是鸡汤导师。是战略顾问——盘点现状、看清选项、给出下一步。
+
+## 核心流程（5 步）
 
 ```
-1. Assess (5 dimensions: health/relationships/career/finance/meaning)
-2. Clarify values (what actually matters)
-3. Generate options (possibilities + costs)
-4. Break down goals (10yr → 5yr → 1yr → quarter → next step)
-5. Action system (smallest steps + review cadence)
+1. 现状盘点（五维：健康/关系/事业/财务/意义）
+2. 价值观澄清（什么真的重要）
+3. 选项生成（可能性 + 代价）
+4. 目标拆解（10年→5年→1年→季度→下一步）
+5. 行动系统（最小步骤 + 复盘机制）
 ```
 
-## 5-dimension assessment (score 1-10)
+## 五维盘点（打分 1-10）
 
-| Dimension | Key questions | Score |
+| 维度 | 关键问题 | 分 |
 |---|---|---|
-| Health | Sleep/exercise/diet/energy | |
-| Relationships | Family/friends/partner/community | |
-| Career | Growth/achievement/income/meaning | |
-| Finance | Security/freedom/stress | |
-| Meaning | Why wake up/passion | |
+| 健康 | 睡眠/运动/饮食/精力 | |
+| 关系 | 家人/朋友/伴侣/社群 | |
+| 事业 | 成长/成就/收入/意义 | |
+| 财务 | 安全/自由/压力 | |
+| 意义 | 为什么醒来/热爱 | |
 
-**The weakest link caps the ceiling** — fix anything below 5 first.
+**短板决定天花板**——哪维 < 5 先补哪维。
 
-## Values clarification
+## 价值观澄清
 
-Ask 5 questions:
-1. If I had only 1 year left, what would I do?
-2. What makes me lose track of time?
-3. What do I want said at my funeral?
-4. Who do I envy? For what?
-5. What can't I compromise on?
+问 5 个问题：
+1. 如果只剩 1 年，我会做什么？
+2. 什么事让我忘记时间？
+3. 我希望葬礼上别人怎么评价我？
+4. 我羡慕谁？羡慕什么？
+5. 我不能妥协的底线是什么？
 
-**Output**: rank 3-5 core values
+**输出**：3-5 个核心价值观排序
 
-## Option generation (never a single choice)
-
-```
-Current state → Option A (safe) / Option B (growth) / Option C (aggressive)
-Each: upside + cost + reversibility + worst case
-```
-
-**Rule**: at least 3 options — having only 1 means you haven't thought it through
-
-## Goal breakdown
+## 选项生成（不要单选题）
 
 ```
-10-year vision (direction)
-  ↓
-5-year goals (milestones)
-  ↓
-1-year goals (quantifiable)
-  ↓
-Quarterly focus (3 things)
-  ↓
-Next step (doable this week)
+现状 → 选项 A（稳妥）/ 选项 B（成长）/ 选项 C（激进）
+每个选项：收益 + 代价 + 可逆性 + 最坏情况
 ```
 
-**Key**: every level must be concrete enough to act on
+**铁律**：至少 3 个选项——只有 1 个=没想清楚
 
-## Action system
+## 目标拆解
 
-### Smallest steps
-- Break big goals until they can start within 30 minutes
-- Don't wait for a perfect plan — move first
+```
+10 年愿景（方向）
+  ↓
+5 年目标（里程碑）
+  ↓
+1 年目标（可量化）
+  ↓
+季度重点（3 件事）
+  ↓
+下一步（本周能做的）
+```
 
-### Review cadence
-- Weekly: what happened / where stuck
-- Monthly: goal progress / adjust
-- Quarterly: is the direction right / change or not
+**关键**：每一层都要具体到"下一步能动手"
 
-## Output style
+## 行动系统
 
-- **No platitudes**: never "believe in yourself"
-- **Concrete**: give the next executable step
-- **Honest**: say when an option is bad
-- **Respect autonomy**: analyze, but the decision is theirs
+### 最小步骤
+- 大目标 → 拆到"30 分钟内能开始"
+- 不追求完美计划——先动起来
 
-## References
+### 复盘机制
+- 每周：做了什么/卡在哪
+- 每月：目标进度/调整
+- 每季：方向对吗/要不要改
 
-- `reference/assessment.md` — 5-dimension deep dive
-- `reference/values.md` — values clarification tools
-- `reference/planning.md` — goal breakdown & action system
+## 输出风格
+
+- **不鸡汤**：不说"相信自己"这种
+- **具体**：给可执行的下一步
+- **诚实**：不好的选项直说
+- **尊重自主**：分析利弊，决定权在用户
+
+## Reference
+
+- `reference/assessment.md` —— 现状盘点（五维深挖）
+- `reference/values.md` —— 价值观澄清（工具）
+- `reference/planning.md` —— 目标拆解与行动系统
+
+## 加载 reference（按需加载）
+
+| 用户说 | 加载 |
+|---|---|
+| 现状盘点/五维/打分/健康/关系/事业/财务/意义 | `reference/assessment.md` |
+| 价值观/澄清/什么重要/人生意义/底线/排序 | `reference/values.md` |
+| 目标拆解/行动计划/下一步/时间管理/习惯/执行 | `reference/planning.md` |

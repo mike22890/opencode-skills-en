@@ -1,75 +1,75 @@
-# Assessment
+# 现状盘点
 
-## 5-dimension deep dive
+## 五维深挖
 
-### Health
-- Sleep: when? enough? quality?
-- Exercise: times per week? what?
-- Diet: regular? healthy?
-- Energy: when are you sharpest?
-- Checkups: when last? issues?
+### 健康
+- 睡眠：几点睡？睡够吗？质量？
+- 运动：每周几次？什么运动？
+- 饮食：规律吗？健康吗？
+- 精力：一天什么时候最清醒？
+- 体检：上次什么时候？有问题吗？
 
-### Relationships
-- Family: how often in touch? quality?
-- Friends: how many can you be honest with?
-- Partner: status? satisfied?
-- Community: belonging?
-- Alone time: can you enjoy solitude?
+### 关系
+- 家人：多久联系？质量如何？
+- 朋友：有几个能说真话的？
+- 伴侣：关系状态？满意吗？
+- 社群：有归属感吗？
+- 独处：能享受独处吗？
 
-### Career
-- Current: what do you do? how long?
-- Growth: still learning?
-- Achievement: last time you felt accomplished?
-- Income: enough? growing?
-- Meaning: does the work matter to you?
+### 事业
+- 现状：做什么？多久了？
+- 成长：还在学新东西吗？
+- 成就：最近一次成就感什么时候？
+- 收入：够吗？增长吗？
+- 意义：这份工作对你有意义吗？
 
-### Finance
-- Security: emergency fund in months?
-- Freedom: passive income share?
-- Stress: debt situation?
-- Planning: saving for retirement?
+### 财务
+- 安全：紧急金够几个月？
+- 自由：被动收入占比？
+- 压力：负债情况？
+- 规划：退休金在存吗？
 
-### Meaning
-- Why do you wake up?
-- What makes you lose track of time?
-- What would you do if money didn't matter?
-- Whose life do you envy?
+### 意义
+- 为什么醒来？
+- 什么让你忘记时间？
+- 如果不用赚钱，你会做什么？
+- 你羡慕谁的生活？
 
-## Scoring & interpretation
+## 打分与解读
 
 ```
-9-10: strength zone (maintain)
-7-8: good zone (keep)
-5-6: caution zone (watch)
-3-4: problem zone (prioritize)
-1-2: crisis zone (act now)
+9-10：优势区（保持）
+7-8：良好区（维持）
+5-6：警戒区（关注）
+3-4：问题区（优先改善）
+1-2：危机区（立即行动）
 ```
 
-## Weakest-link analysis
+## 短板分析
 
-**The weakest link caps overall life quality** (barrel principle).
+**短板决定整体生活质量**（木桶原理）。
 
-**But note**:
-- Priorities differ by life stage (career in 30s / family in 40s)
-- Some weak spots are acceptable (imperfection is normal)
-- Fix weaknesses vs amplify strengths — depends on stage
+**但注意**：
+- 不同人生阶段重点不同（30 岁事业/40 岁家庭）
+- 某些短板可以接受（不完美是常态）
+- 补短板 vs 扬长板——看阶段
 
-## Common struggle diagnosis
+## 常见困境诊断
 
-| Symptom | Likely root |
+| 症状 | 可能根因 |
 |---|---|
-| Lost | unclear values / too few options |
-| Anxious | over-control / too many goals |
-| Burnout | missing meaning / chronic overdraw |
-| Procrastination | goal too big / fear of failure |
-| Emptiness | missing relationships / missing meaning |
-| Regret | sunk cost / comparison |
+| 迷茫 | 价值观不清 / 选项太少 |
+| 焦虑 | 控制欲过强 / 目标太多 |
+| 倦怠 | 意义缺失 / 长期透支 |
+| 拖延 | 目标太大 / 恐惧失败 |
+| 空虚 | 关系缺失 / 意义缺失 |
+| 后悔 | 沉没成本 / 比较心理 |
 
-## Quick card
+## 速查卡
 
 ```
-5 dims: health/relationships/career/finance/meaning
-Score: <5 fix first
-Weakest link caps the ceiling
-Diagnosis: lost=values / burnout=meaning / procrastination=fear
+五维：健康/关系/事业/财务/意义
+打分：<5 优先补
+短板决定天花板
+困境→根因：迷茫=价值观 / 倦怠=意义 / 拖延=恐惧
 ```

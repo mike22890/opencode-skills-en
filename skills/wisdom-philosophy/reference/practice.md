@@ -1,74 +1,198 @@
-# Practice (5 methods)
+<!-- 隐式触发：日课/反思/冥想/行动/修行/静坐/正念/自我提升 -->
+# 实修（5 大法）
 
-## 1. Daily practice
+## 1. 日课（Daily Practice）
 
-**Marcus Aurelius style**:
+### 目的
 
-```
-Morning:
-- What will I encounter?
-- How will I respond?
-- What attitude will I keep?
+每天反思 + 校准
 
-During the day:
-- What am I doing right now?
-- Is this what I want?
-
-Evening:
-- What did I do today?
-- What did I miss?
-- What can improve tomorrow?
-```
-
-**Writing**: 15-30 minutes daily, on paper (not typing), reflection + planning
-
-## 2. Reflection cadences
-
-**Daily**: 3 most important things / what I learned / 3 things for tomorrow
-**Weekly (Sunday)**: wins / failures / learnings / next week's focus
-**Monthly**: goals vs actual / key decisions / biggest lesson / next month's goals
-**Yearly**: most important thing / biggest growth / biggest regret / next year's goals
-
-## 3. Meditation
-
-- **Mindfulness**: breath / body sensations / thoughts without clinging / 10-20 min
-- **Zazen**: breath counting (1-10) / koans / not-thinking
-- **Breath awareness (anapanasati)**: in-breath, out-breath / simple and effective
-
-**Practice**: 10-20 min daily / same time, same place / don't force experiences / consistency over intensity
-
-## 4. Action
-
-**Philosophy isn't just thinking** — think → act → feedback. Unity of knowledge and action (Wang Yangming).
-
-**Principles**: do hard-important things first / don't wait to be "ready" / failure is learning / small continuous steps
-
-**Execution**: decide at 70% information / adjust while moving / retrospective
-
-## 5. Reading
-
-**Classics**:
-- Stoic: *Meditations* / *Enchiridion* / *On the Shortness of Life*
-- Existentialist: *The Myth of Sisyphus* / *Being and Nothingness*
-- Eastern: *Tao Te Ching* / *Zhuangzi* / *Analects* / *Instructions for Practical Living* / *Diamond Sutra*
-- Pragmatist: *Pragmatism* / *Democracy and Education*
-- Modern: *Being and Time* / *Wittgenstein's Poker*
-
-**Methods**: Feynman technique (read → explain simply → re-read if stuck) / thematic reading (multiple books on one theme) / re-reading (understand → comprehend → apply → internalize)
-
-## 6. Daily 10-minute practice
-
-- **Morning (5 min)**: sit/breath count / plan today's 3 things / choose your attitude
-- **During (5 min)**: pause at key moments for 1 minute / ask "what am I doing" / adjust
-- **Evening (5 min)**: review today / write 3 things / improve 1 thing
-
-## 7. Quick card
+### Marcus Aurelius 式
 
 ```
-Daily — morning/day/evening reflection
-Cadence — daily/weekly/monthly/yearly
-Meditation — mindfulness/zazen/breath counting (10-20 min daily)
-Action — think → act → feedback (don't wait to be ready)
-Reading — classics + Feynman + thematic + re-reading
-Daily practice — 5 morning + 5 during + 5 evening = 15 min/day
+晨间：
+- 我会遇到什么？
+- 我怎么应对？
+- 我要保持什么态度？
+
+日间：
+- 此刻我在做什么？
+- 这是我想要的吗？
+
+晚间：
+- 今天做了什么？
+- 错过了什么？
+- 明天能改什么？
+```
+
+### 写作时间
+
+- 每天 15-30 分钟
+- 写在纸上（不是打字）
+- 反思 + 计划
+
+## 2. 反思（Reflection）
+
+### 日反思
+
+```
+今天最重要的 3 件事：
+1. ___
+2. ___
+3. ___
+
+今天学到了什么？
+___
+
+明天最重要的 3 件事：
+1. ___
+2. ___
+3. ___
+```
+
+### 周反思（周日）
+
+```
+本周成就：
+本周失败：
+本周学到：
+下周重点：
+```
+
+### 月反思
+
+```
+本月目标 vs 实际：
+本月关键决策：
+本月最大教训：
+下月关键目标：
+```
+
+### 年反思
+
+```
+今年最重要的事：
+今年最大的成长：
+今年最大的遗憾：
+明年关键目标：
+```
+
+## 3. 冥想（Meditation）
+
+### 类型
+
+#### 正念冥想（Mindfulness）
+
+- 关注呼吸
+- 关注身体感觉
+- 关注念头但不执念
+- 10-20 分钟
+
+#### 禅坐
+
+- 数息（1-10 循环）
+- 公案
+- 不思考
+
+#### 观呼吸
+
+- 安般念
+- 入出息
+- 简单有效
+
+### 实修
+
+- 每天 10-20 分钟
+- 同一时间 / 同一地点
+- 不强求体验
+- 长期坚持
+
+## 4. 行动（Action）
+
+### 哲学不只是思考
+
+- 思考 → 行动 → 反馈
+- 知行合一（王阳明）
+- 实践出真知
+
+### 行动原则
+
+- 优先做困难但重要的事
+- 不要等"准备好"
+- 失败是学习
+- 持续小步
+
+### 决策执行
+
+- 70% 信息就决策（不要追求完美）
+- 边走边调
+- 复盘
+
+## 5. 阅读（Reading）
+
+### 经典
+
+- **斯多葛**：《沉思录》《手册》《论生命之短暂》
+- **存在主义**：《西西弗神话》《存在与虚无》
+- **东方**：《道德经》《庄子》《论语》《传习录》《金刚经》
+- **实用主义**：《实用主义》《民主与教育》
+- **现代哲学**：《存在与时间》《维特根斯坦传》
+
+### 阅读方法
+
+#### 费曼学习法
+
+- 读 → 简单讲
+- 卡住 → 重读
+- 用自己话讲出来
+
+#### 主题阅读
+
+- 围绕一个主题读多本
+- 对比不同观点
+- 形成自己的判断
+
+#### 反复读
+
+- 第一遍：了解
+- 第二遍：理解
+- 第三遍：应用
+- 第四遍：内化
+
+### 阅读记录
+
+- 读过的书 + 时间
+- 核心观点（一句话）
+- 应用情况
+- 重读价值
+
+## 6. 日常 10 分钟实修
+
+### 晨（5 分钟）
+
+- 静坐 / 数息
+- 想今天的 3 件事
+- 保持什么态度
+
+### 日间（5 分钟）
+
+- 关键节点暂停 1 分钟
+- 问"我在做什么"
+- 调整方向
+
+### 晚（5 分钟）
+
+- 回顾今天
+- 写 3 件事
+- 改进 1 件事
+
+## 7. 速查卡
+
+```
+日课 —— 晨间 / 日间 / 晚间反思
+反思 —— 日 / 周 / 月 / 年
+冥想 —— 正念 / 禅坐 / 数息（每天 10-20 分钟）
+行动 —— 思考 → 行动 → 反馈（不要等准备好）
+阅读 —— 经典 + 费曼 + 主题阅读 + 反复读
+日常 —— 晨 5 + 日 5 + 晚 5 = 每天 15 分钟
 ```

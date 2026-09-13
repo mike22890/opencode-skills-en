@@ -1,95 +1,95 @@
-# Goal Breakdown & Action System
+# 目标拆解与行动系统
 
-## Top-down breakdown
+## 目标拆解（自上而下）
 
 ```
-10-year vision: "what kind of person do I want to become"
+10 年愿景："我想成为什么样的人"
   ↓
-5-year goals: "where and what in 5 years"
+5 年目标："5 年后我在哪、做什么"
   ↓
-1-year goals: "what to complete this year" (quantifiable)
+1 年目标："今年要完成什么"（可量化）
   ↓
-Quarterly focus: "3 most important things this quarter"
+季度重点："这 3 个月最重要的 3 件事"
   ↓
-Next step: "the first thing doable this week/today"
+下一步："本周/今天能做的第一件事"
 ```
 
-## Good goal criteria (SMART+)
+## 好目标的标准（SMART+）
 
-- **Specific**: not "get healthy", but "run 3x/week"
-- **Measurable**: has numbers
-- **Achievable**: stretch but reachable
-- **Relevant**: aligned with values
-- **Time-bound**: deadline
-- **+ next step**: know where to start
+- **具体**：不是"变健康"，是"每周跑 3 次"
+- **可量化**：有数字
+- **可达成**：跳一跳够得着
+- **相关**：跟价值观一致
+- **有时限**：截止日期
+- **+ 有下一步**：知道从哪开始
 
-## Option evaluation matrix
+## 选项评估矩阵
 
-| Option | Upside | Cost | Reversibility | Worst case | Score |
+| 选项 | 收益 | 代价 | 可逆性 | 最坏情况 | 评分 |
 |---|---|---|---|---|---|
-| A safe | | | High | | |
-| B growth | | | Medium | | |
-| C aggressive | | | Low | | |
+| A 稳妥 | | | 高 | | |
+| B 成长 | | | 中 | | |
+| C 激进 | | | 低 | | |
 
-**Decision principles**:
-- Reversible → test fast
-- Irreversible → extreme caution
-- Worst case affordable → can do
+**决策原则**：
+- 可逆 → 快速试
+- 不可逆 → 慎之又慎
+- 最坏情况能承受 → 可以做
 
-## Smallest action (anti-procrastination)
+## 最小行动（对抗拖延）
 
 ```
-Big goal → break until it can start within 30 minutes
+大目标 → 拆到 30 分钟内能开始的小步骤
 
-Example: "write a book"
-→ "write a chapter"
-→ "write a section"
-→ "write a paragraph"
-→ "open the doc and write 100 words" (doable now)
+例："写一本书"
+→ "写一章"
+→ "写一节"
+→ "写一段"
+→ "打开文档写 100 字"（现在就能做）
 ```
 
-**2-minute rule**: if it takes 2 minutes, do it immediately.
+**2 分钟规则**：如果 2 分钟能做完，立刻做。
 
-## Review system
+## 复盘系统
 
-### Weekly (15 min)
+### 每周复盘（15 分钟）
 ```
-1. What did I do?
-2. Where did I get stuck?
-3. Top 3 for next week?
-```
-
-### Monthly (30 min)
-```
-1. Monthly goal progress? (%)
-2. What worked? What didn't?
-3. Adjust what next month?
+1. 本周做了什么？
+2. 卡在哪？
+3. 下周最重要的 3 件事？
 ```
 
-### Quarterly (1 hour)
+### 每月复盘（30 分钟）
 ```
-1. Is the direction right? (or self-soothing busyness)
-2. What to drop?
-3. Next quarter's focus?
+1. 月度目标进度？（%）
+2. 什么有效？什么无效？
+3. 下月调整什么？
 ```
 
-## Common traps
+### 每季复盘（1 小时）
+```
+1. 方向对吗？（还是自我感动式忙碌）
+2. 需要放弃什么？
+3. 下季度重点？
+```
 
-| Trap | Fix |
+## 常见陷阱
+
+| 陷阱 | 破解 |
 |---|---|
-| Too many goals | Max 3 per quarter |
-| Planning without acting | First step within 24h of planning |
-| Perfectionism | Done > perfect |
-| Forgetting reviews | Calendar reminders |
-| Goal drift | Monthly values check |
-| Comparing to others | Compare only to yesterday's you |
+| 目标太多 | 每季最多 3 个重点 |
+| 只计划不行动 | 计划后 24 小时内做第一步 |
+| 完美主义 | 完成 > 完美 |
+| 忘记复盘 | 日历提醒 |
+| 目标漂移 | 每月对照价值观检查 |
+| 跟别人比 | 只跟昨天的自己比 |
 
-## Quick card
+## 速查卡
 
 ```
-Breakdown: 10yr→5yr→1yr→quarter→next
-SMART+: specific/measurable/achievable/relevant/time-bound/+next
-Options: ≥3; reversible=fast, irreversible=careful
-Smallest action: startable within 30 min
-Review: weekly (3 things)/monthly (progress)/quarterly (direction)
+拆解：10年→5年→1年→季度→下一步
+SMART+：具体/量化/可达成/相关/时限/+下一步
+选项：≥3 个，可逆快试，不可逆慎
+最小行动：拆到 30 分钟内能开始
+复盘：周（3 件事）/月（进度）/季（方向）
 ```

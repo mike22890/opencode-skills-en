@@ -1,64 +1,64 @@
-# Verification & Lie Detection
+# 验证与识谎
 
-## Fake news detection (SIFT)
+## 假新闻识别（SIFT 法）
 
 ```
-S - Stop (don't believe it yet)
-I - Investigate the source (who published this?)
-F - Find better coverage (what do others say?)
-T - Trace claims (what's the original source?)
+S - Stop（停：先别信）
+I - Investigate the source（查来源：谁发的？）
+F - Find better coverage（找更好报道：其他家怎么说？）
+T - Trace claims（追溯：原始出处是什么？）
 ```
 
-## Red flags
+## 危险信号
 
-| Signal | Explanation |
+| 信号 | 说明 |
 |---|---|
-| Emotional headline | Outrage/fear bait = traffic |
-| Anonymous source | "People familiar" with no evidence |
-| Single source | Only one outlet reporting |
-| Time mismatch | Old news presented as new (check original date) |
-| Screenshot without link | Unverifiable image |
-| Numbers without sources | "90% of people..." source? |
-| Perfect coincidence | Too dramatic to be true |
-| AI writing tells | Clichés/no specifics/perfect structure |
+| 情绪化标题 | 煽动愤怒/恐惧=流量密码 |
+| 匿名来源 | "知情人士"但无实据 |
+| 单一来源 | 只有一家在报 |
+| 时间错位 | 旧闻当新闻（查原始日期） |
+| 截图无链接 | 无法验证的图 |
+| 数字无出处 | "90% 的人……"来源呢？ |
+| 完美巧合 | 太戏剧化的故事 |
+| AI 生成痕迹 | 套话/无细节/结构完美 |
 
-## Shill / fake review detection
+## 水军/刷评识别
 
-- Reviews concentrated in a short window (review farming)
-- Identical wording (templates)
-- All praise, no criticism (fake)
-- New accounts / no history
-- Abnormal good-to-bad ratio
-- **Read the bad reviews** — specific complaints are the truth
+- 评价集中在短期（刷单）
+- 用词雷同（模板）
+- 只夸不贬（假）
+- 账号新/无历史
+- 好评和差评比例异常
+- **看差评**——差评的具体问题才是真相
 
-## Motive analysis
+## 动机分析
 
-**Ask: who benefits from this information?**
+**问：谁从这个信息里获益？**
 
-| Source | Likely motive |
+| 来源 | 可能的动机 |
 |---|---|
-| Vendor | Selling |
-| Self-media | Traffic |
-| Political party | Votes/opinion |
-| Expert | Reputation (but can be bought) |
-| Anonymous leak | Revenge/hype/truth |
+| 厂商 | 卖货 |
+| 自媒体 | 流量 |
+| 政党 | 选票/舆论 |
+| 专家 | 声誉（但可能被收买） |
+| 匿名爆料 | 报复/炒作/真实 |
 
-## Cross-verification checklist
+## 交叉验证清单
 
-- [ ] 2+ independent sources?
-- [ ] Sources actually independent? (not reposting the same piece)
-- [ ] Counter-reporting found?
-- [ ] Original source located?
-- [ ] Timeline consistent?
-- [ ] Numbers sourced?
-- [ ] Who are the stakeholders?
+- [ ] 至少 2 个独立来源？
+- [ ] 来源之间互相独立吗？（不是转同一篇）
+- [ ] 有反面报道吗？
+- [ ] 原始出处找到了吗？
+- [ ] 时间对得上吗？
+- [ ] 数字有出处吗？
+- [ ] 利益相关方是谁？
 
-## Confidence labels
+## 置信度标注
 
 ```
-High: multiple authoritative sources agree + original verifiable
-Medium: reliable source but not fully cross-checked
-Low: single source / unclear source / contradictions exist
+高：多个权威来源一致 + 原始出处可查
+中：来源可靠但未完全交叉验证
+低：单一来源 / 来源不明 / 存在矛盾
 ```
 
-**Honesty principle**: saying "I don't know" beats fabricating by a thousand times.
+**诚实原则**：不知道就说不知道，比编造强一万倍。

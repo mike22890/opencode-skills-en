@@ -1,94 +1,104 @@
 ---
 name: mermaid-diagram-generator
-description: Automatically turn text descriptions into mermaid diagram code (flowcharts/sequence/class/state/ER/gantt). Use when the user describes systems, processes, relationships, states, or database schemas.
+description: 从自然语言描述生成 Mermaid 图表代码。当需要画流程图、时序图、类图、状态图、ER 图、甘特图、思维导图、架构图、Git 图、饼图、用户旅程图、系统交互图、数据库关系图、可视化任何流程或结构时使用。
 version: 1.0.0
 metadata:
-  author: mike22890
+  author: Mike
   tags: documentation diagram visualization mermaid
 ---
 
 # Mermaid Diagram Generator
 
-Turn natural-language descriptions into mermaid code blocks.
+## 何时触发
 
-## When to use
+关键词命中即触发：流程图/时序图/类图/状态图/ER图/甘特图/思维导图/架构图/可视化/画图。
 
-Auto-diagram when the user describes:
-- "how does X flow" → flowchart
-- "how do X and Y interact" → sequence diagram
-- "relationships between X classes" / "module dependencies" → class diagram
-- "how do states transition" → state diagram
-- "database table relations" → ER diagram
-- "project timeline" → gantt
 
-## Supported diagram types
+把自然语言描述自动转成 mermaid 代码块。
 
-| Type | Keywords | Use |
+## 何时使用
+
+用户描述以下任一内容时自动出图：
+- "X 流程怎么走" → 流程图
+- "X 和 Y 怎么交互" → 时序图
+- "X 类的关系" / "模块依赖" → 类图
+- "状态怎么切换" → 状态图
+- "数据库表关系" → ER 图
+- "项目时间线" → 甘特图
+
+## 支持的图类型
+
+| 类型 | 关键字 | 用途 |
 |---|---|---|
-| `flowchart` | flow/steps/decision/branch | business flows, decision trees |
-| `sequenceDiagram` | interaction/call/message/response | API calls, protocols |
-| `classDiagram` | class/inheritance/interface/dependency | OO design, module relations |
-| `stateDiagram-v2` | state/transition/trigger | state machines, workflow engines |
-| `erDiagram` | table/field/foreign key/relation | database schemas |
-| `gantt` | schedule/milestone/dependency | project management |
-| `pie` | share/distribution | data visualization |
+| `flowchart` | 流程/步骤/判断/分支 | 业务流程、决策树 |
+| `sequenceDiagram` | 交互/调用/消息/响应 | API 调用、协议 |
+| `classDiagram` | 类/继承/接口/依赖 | OO 设计、模块关系 |
+| `stateDiagram-v2` | 状态/迁移/触发 | 状态机、工作流引擎 |
+| `erDiagram` | 表/字段/外键/关系 | 数据库 schema |
+| `gantt` | 排期/里程碑/依赖 | 项目管理 |
+| `pie` | 占比/分布 | 数据可视化 |
 
-## Generation flow
+## 生成流程
 
-1. **Identify diagram type** from keywords
-2. **Extract entities and relations**: nodes, edges, directions
-3. **Generate mermaid code** in a ` ```mermaid ` block
-4. **Self-check**: quote labels with special chars / correct direction (TD/LR/BT/RL) / split complex diagrams
+1. **识别图类型**：从用户描述的关键词判断
+2. **抽取实体和关系**：找出节点、边、方向
+3. **生成 mermaid 代码**：用代码块包起来（` ```mermaid `）
+4. **自检**：
+   - 标签不能有特殊字符（用引号包）
+   - 方向选对（TD/LR/BT/RL）
+   - 复杂图拆成多段
 
-## Examples
+## 示例
 
-### Input
-"User login flow: enter credentials → backend verifies → failure returns error, success returns token"
+### 输入
+"用户登录流程：输入账号密码 → 后端验证 → 失败返回错误，成功返回 token"
 
-### Output
+### 输出
 ```mermaid
 flowchart LR
-    A[Enter credentials] --> B{Backend verify}
-    B -->|Fail| C[Return error]
-    B -->|Success| D[Return token]
+    A[输入账号密码] --> B{后端验证}
+    B -->|失败| C[返回错误]
+    B -->|成功| D[返回 token]
 ```
 
-### Input
-"User places order: client → API gateway → order service → payment service → inventory service"
+### 输入
+"用户下单：客户端 → API 网关 → 订单服务 → 支付服务 → 库存服务"
 
-### Output
+### 输出
 ```mermaid
 sequenceDiagram
-    participant C as Client
-    participant G as API Gateway
-    participant O as Order Service
-    participant P as Payment Service
-    participant I as Inventory Service
+    participant C as 客户端
+    participant G as API网关
+    participant O as 订单服务
+    participant P as 支付服务
+    participant I as 库存服务
 
     C->>G: POST /order
-    G->>O: Create order
-    O->>P: Request payment
-    P-->>O: Payment result
-    O->>I: Deduct inventory
-    I-->>O: Inventory confirmed
-    O-->>G: Order complete
+    G->>O: 创建订单
+    O->>P: 请求支付
+    P-->>O: 支付结果
+    O->>I: 扣减库存
+    I-->>O: 库存确认
+    O-->>G: 订单完成
     G-->>C: 200 OK
 ```
 
-## Typography rules
+## 排版铁律
 
-- **Direction**: business flows LR (horizontal), decision trees TD (vertical)
-- **Labels**: quote anything over 5 chars `["label"]`
-- **Colors**: only when necessary (defaults are clear)
-- **Comments**: `%% comment`
-- **Never**: emoji in node labels, overlong labels (>15 chars), decorative shapes
+- **方向选择**：业务流程用 LR（横），决策树用 TD（竖）
+- **节点标签**：超过 5 字符用引号 `["标签"]`
+- **颜色**：不到必要时不用（用默认清晰）
+- **注释**：用 `%% 注释`
+- **不要**：emoji 在节点标签里、过长标签（>15字）、装饰性形状
 
-## When not to diagram
+## 何时不画图
 
-- Description too vague ("that thing") → ask first
-- Too simple (≤3 nodes) → a text list is clearer
-- User explicitly says "no diagram" → listen
+- 描述模糊（"那个东西"）→ 先问清楚再画
+- 太简单（≤3 节点）→ 用文字列表更清楚
+- 用户明确说"不用图"→ 听用户的
 
-## After output
+## 输出后
 
-Ask: "Anything to add or change?" / "Want the related X flow too?" (linked diagrams)
+画完图后顺便问：
+- "需要加什么/改什么？"
+- "要不要也画 X 相关流程？"（关联图）

@@ -1,99 +1,163 @@
-# Applied Ethics
+<!-- 隐式触发：伦理/决策/道德困境/电车难题/是非/对错/伦理判断 -->
+# 应用伦理
 
-## 1. Ethical decision framework
+## 1. 伦理决策框架
 
-```
-1. Identify everyone involved (direct + indirect)
-2. Identify possible outcomes
-3. Apply ethical principles (below)
-4. Imagine "what if everyone did this" (universalization)
-5. Imagine "how would I feel as the affected person" (golden rule)
-6. Imagine "how will I see this in 5-10 years" (time perspective)
-7. Decide + own it
-```
-
-## 2. Four Western schools
-
-### 1. Utilitarianism
-- Greatest happiness for the greatest number
-- Outcome-oriented
-- Example: trolley problem — hit 5 vs hit 1? Hit 1.
-
-### 2. Deontology (Kant)
-- Is the act itself moral
-- Independent of outcomes
-- Lying is always wrong (even to save a life)
-- "Would you want everyone to do this?"
-
-### 3. Virtue ethics
-- Ask "what would a person of virtue do"
-- Not rules — character
-
-### 4. Ethics of care
-- Relationships > rules
-- Care > justice
-- Example: Gilligan against Kohlberg's masculinized ethics
-
-## 3. Eastern ethics
-
-- **Confucian**: Ren (benevolence) / Yi (righteousness) / golden mean
-- **Taoist**: align with nature / don't force / soft overcomes hard
-- **Buddhist**: ahimsa (non-harm) / karuna (compassion) / middle way
-
-**Application**: East emphasizes **relationships** and **context**; West emphasizes **rules** and **principles**.
-
-## 4. Ethics self-check
-
-- [ ] Harmed any innocent person?
-- [ ] Been honest?
-- [ ] Respected the other side?
-- [ ] Owning the consequences?
-- [ ] What if everyone did this?
-- [ ] Would I want to be treated this way?
-- [ ] How will I see this in 5-10 years?
-- [ ] Sustainable long-term?
-
-## 5. Common dilemmas
-
-- **Business**: lying / concealment / misleading / cutting corners / exploiting workers / polluting / manipulating users
-- **Technology**: privacy / data collection / algorithmic bias / AI replacing people / surveillance
-- **Personal**: lying / betrayal / theft / plagiarism / bystander inaction
-- **Society**: inequality / discrimination / injustice
-
-## 6. The trolley problem
-
-**Original**: 5 people tied to a track / you can pull a lever to divert to another track / 1 person is tied there / pull or not?
-
-- **Utilitarian**: pull (save 5 > 1)
-- **Deontological**: don't pull (using 1 to save 5 = treating a person as a means)
-- **Virtue ethics**: what would a virtuous person do in the real situation
-
-**No standard answer** — the point is the **thinking process**.
-
-## 7. Decision record template
+### 当面临伦理困境
 
 ```
-Date:
-Decision:
-People involved:
-Options:
-Principles applied:
-Final choice:
-Reasoning:
-Reflection (1-3 months later):
+1. 识别涉及的人（直接 + 间接）
+2. 识别可能的结果
+3. 应用伦理原则（见下）
+4. 想象"如果每个人这样做会怎样"（普遍化）
+5. 想象"我是被影响的人会怎么想"（黄金法则）
+6. 想象"5-10 年后我会怎么看待这个决策"（时间视角）
+7. 做出决策 + 承担
 ```
 
-## 8. Quick card
+## 2. 西方伦理 4 派
+
+### 1. 功利主义（Utilitarianism）
+
+- 最大多数人的最大幸福
+- 结果导向
+- 例：电车难题——撞 5 人 vs 撞 1 人？撞 1 人
+
+### 2. 义务论（Deontology / Kant）
+
+- 行为本身是否道德
+- 不依赖结果
+- 撒谎永远错（即使救人性命）
+- "**"你希望每个人这样做吗？""
+
+### 3. 美德伦理（Virtue Ethics）
+
+- 问"一个有德性的人会怎么做"
+- 不是规则
+- 是品格
+
+### 4. 关怀伦理（Ethics of Care）
+
+- 关系 > 规则
+- 关怀 > 公正
+- 例：Gilligan 反对 Kohlberg 的男性化伦理
+
+## 3. 东方伦理
+
+### 儒家
+
+- 仁（爱人）
+- 义（应该）
+- 中庸（平衡）
+
+### 道家
+
+- 顺应自然
+- 不强求
+- 柔弱胜刚强
+
+### 佛教
+
+- 不伤害（ahimsa）
+- 慈悲（karuna）
+- 中道
+
+### 应用
+
+- 东方重**关系**和**情境**
+- 西方重**规则**和**原则**
+
+## 4. 决策伦理自检清单
+
+- [ ] 我有没有伤害无辜的人？
+- [ ] 我有没有诚实？
+- [ ] 我有没有尊重对方？
+- [ ] 我有没有承担后果？
+- [ ] 如果每个人这样做会怎样？
+- [ ] 我希望被这样对待吗？
+- [ ] 5-10 年后我会怎么看待？
+- [ ] 长期是否可持续？
+
+## 5. 常见伦理困境
+
+### 商业
+
+- 说谎 / 隐瞒 / 误导
+- 偷工减料 / 牺牲质量
+- 压榨员工 / 环境破坏
+- 操纵用户
+
+### 技术
+
+- 隐私 / 数据收集
+- 算法偏见
+- AI 替代人
+- 监控
+
+### 个人
+
+- 撒谎 / 隐瞒
+- 背叛 / 失信
+- 偷窃 / 剽窃
+- 见死不救
+
+### 社会
+
+- 不平等
+- 歧视
+- 不公
+
+## 6. 电车难题（经典伦理困境）
+
+### 原始版
+
+- 5 人被绑在铁轨上
+- 你可以拉杆让电车转向另一条轨道
+- 另一条轨道上绑 1 人
+- 拉不拉？
+
+### 功利主义
+
+- 拉（5 < 1 = 救更多）
+
+### 义务论
+
+- 不拉（用 1 人救 5 人 = 把人当工具）
+
+### 美德伦理
+
+- 看"有德性的人会怎么做"
+- 实际情境
+
+### 没有标准答案
+
+- 伦理困境就是困境
+- 关键是**思考过程**
+
+## 7. 决策记录模板
 
 ```
-Utilitarian — greatest good for greatest number
-Deontological — the act itself + universalization
-Virtue — what would a virtuous person do
-Care — relationships > rules
-Eastern — Ren + Dao + non-harm
+日期：
+决策：
+涉及的人：
+可能的选项：
+应用的原则：
+最终选择：
+理由：
+可能的反思（1-3 个月后）：
+```
 
-Self-check — no harm / honesty / respect / ownership
-Universalize — what if everyone did this
-Golden rule — would I want this done to me
-Time — how will I see it in 5-10 years
+## 8. 速查卡
+
+```
+功利 —— 最大多数最大幸福
+义务 —— 行为本身 + 普遍化
+美德 —— 有德性的人怎么做
+关怀 —— 关系 > 规则
+东方 —— 仁 + 道 + 不伤害
+
+自检 —— 不伤害 / 诚实 / 尊重 / 承担
+普遍化 —— 每个人这样做会怎样
+黄金律 —— 我希望被这样对待吗
+时间 —— 5-10 年后会怎么想
 ```

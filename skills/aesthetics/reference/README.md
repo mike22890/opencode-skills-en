@@ -1,37 +1,38 @@
-# Aesthetics References (split by scenario, load on demand)
+<!-- 隐式触发：反AI味/速记卡/通用规则/设计检查 -->
+# Aesthetics 视觉参考（按场景分文件，按需加载）
 
-> 6 files. Load exactly 1 per task.
+> 6 个子文件，每个 200-300 行。触发时只加载 1 个。
 
-| File | Content | Load when |
+| 文件 | 内容 | 何时加载 |
 |---|---|---|
-| `ui.md` | Fonts/colors/grid/UI principles | Writing UI/frontend/components |
-| `design.md` | 9 palettes / 4 type roles / 5 pairings | Picking colors/fonts |
-| `print.md` | Resume/thesis/report/PPT/poster/card | Documents/PPT/print |
-| `social.md` | Instagram/X/email/EDM | Social/email |
-| `data.md` | Charts/diagrams/logo/data viz | Charts/diagrams |
-| `resources.md` | 17 scenario resource links | Finding master references |
+| `ui.md` | 字体/配色/网格/UI 原则 | 写 UI/前端/组件 |
+| `design.md` | 配色 9 套/字体 4 角色/5 组合 | 选配色/字体 |
+| `print.md` | 简历/毕设/报告/PPT/海报/名片 | 做文档/PPT/印刷品 |
+| `social.md` | 小红书/Instagram/X/邮件/EDM | 社交媒体/邮件 |
+| `data.md` | 图表/流程图/Logo/数据可视化 | 图表/流程图 |
+| `resources.md` | 17 场景资源链接 | 找大师案例参考 |
 
 ---
 
-## Anti-AI checklist (universal)
+## 反 AI 味 10 条（精简版，所有场景通用）
 
-1. Not dead-centered — text/buttons/cards lean left or off
-2. Not evenly distributed — element sizes have rhythm, not uniform
-3. Not default fonts — Inter/Roboto/system-ui naked = AI
-4. Not saturated primaries — S ≥ 60% full-bleed = AI
-5. Not rainbow gradients — blue-purple-pink-orange strip = AI
-6. Not perfect geometry — real world has 0.5px imperfections
-7. Not emoji decoration — 🚀✨🎉 in UI = AI
-8. Not hexagons/octagons — AI loves "differentiation"
-9. Not uniform columns — table columns size to content
-10. Not card walls — > 3 stacked card layers = broken IA
+1. 不对称居中 —— 文字/按钮/卡片靠左或偏
+2. 不平均分布 —— 元素大小有节奏，不一刀切
+3. 不默认字体 —— Inter/Roboto/system-ui 裸奔 = AI
+4. 不高饱和纯色 —— S ≥ 60% 满铺 = AI
+5. 不彩虹渐变 —— 蓝紫粉橙一条 = AI
+6. 不完美几何 —— 真实世界有 0.5px 偏差
+7. 不 emoji 装饰 —— UI 里 🚀✨🎉 = AI
+8. 不六边形/八边形 —— AI 爱用"差异化"
+9. 不等宽列 —— 表格列宽根据内容调
+10. 不卡片墙 —— 卡片堆叠 > 3 层 = 信息架构有问题
 
-## Quick card (one page, universal)
+## 速记卡（一页纸，所有场景通用）
 
 ```
-Type: 2 families · 4 weights · no defaults
-Color: muted · 60-30-10 · no Material purple
-Spacing: 8 grid · 4 steps · rhythm > symmetry
-Hierarchy: 3 levels max · focus visible · motion ≤ 350ms
-Anti-AI: 10 rules · 5-second look says premium
+字体 2 家族 · 4 字重 · 不裸奔
+配色 muted · 60-30-10 · 不用 Material 紫
+间距 8 网格 · 4 档间距 · 节奏 > 对称
+层级 3 层封顶 · focus 可见 · 动效 ≤ 350ms
+反 AI 味 10 条 · 自己看 5 秒觉高级
 ```

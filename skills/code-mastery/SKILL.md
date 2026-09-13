@@ -1,115 +1,118 @@
 ---
 name: code-mastery
-description: Use for writing/refactoring/simplifying/optimizing code, naming, comments, error handling. Code aesthetics 5 rules + chain simplify→refactor.
+description: 代码质量与审美的综合指南——命名、函数、文件、注释、错误处理、性能。当写代码、重构、改命名、加注释、加错误处理、优化性能、写测试、debug、写脚本、写 API、写后端、写前端、写 CLI、写工具、代码 review、代码审查、让代码更简洁、更优雅、更易读时使用。
 version: 1.0.0
 metadata:
-  author: mike22890
+  author: Mike
   tags: code refactor naming function performance style clean-code anti-bloat debug lint format
 ---
 
 # Code Mastery
 
-## When to trigger (load on sight)
+## 何时触发（看到就调本 skill）
 
-### Writing code (strong trigger)
-- Write code / implement feature / write function / method / class / component
-- Write API / backend / frontend / CLI / script / tool
-- Write SQL / database / ORM
-- Write tests / unit tests / integration tests
+### 写代码（强触发）
+- 写代码 / 实现功能 / 写函数 / 写方法 / 写类 / 写组件
+- 写 API / 写后端 / 写前端 / 写 CLI / 写脚本 / 写工具
+- 写 SQL / 写数据库 / 写 ORM
+- 写测试 / 写单测 / 写集成测试
 
-### Changing code (strong trigger)
-- Refactor / simplify / optimize performance / rename / comments
-- Add error handling / boundaries / types
+### 改代码（强触发）
+- 重构 / 简化 / 优化性能 / 改命名 / 改注释
+- 加错误处理 / 加边界处理 / 加类型
 - lint / format / prettier / eslint
-- debug / fix bug / troubleshoot
+- debug / 修 bug / 排查问题
 
-### General triggers
-- "code quality" / "make it concise" / "don't be verbose" / "performance" / "efficiency"
+### 通用触发
+- "代码质量" / "写得简洁点" / "不要啰嗦" / "性能" / "效率" / "省钱"
 - "clean code" / "refactor" / "optimize" / "simplify"
+- "太乱了" / "看不懂" / "难维护" / "代码臭" / "屎山"
 
-## 8 rules (review before writing)
+**关键词命中即触发**：写代码、实现、重构、简化、优化、命名、注释、性能、debug、API、后端、前端、SQL、test、lint、format、review。
 
-1. **Naming**: narrow / intent-revealing / no abbreviations / no catch-all words / no context repeats
-2. **Functions**: ≤ 30 lines (ideally ≤ 10) / 0-2 params / early return / no side effects
-3. **Files**: ≤ 200 lines / single responsibility / consistent import order
-4. **Comments**: explain "why", not "what" / no restating / delete stale ones
-5. **Performance**: O(n) > O(n²) / cache / no allocation in loops / no blocking
-6. **Errors**: complete boundaries (null/timeout/exception) / never swallow / carry context
-7. **Format**: prettier + 100 col / don't argue style / automate it
-8. **Avoid**: over-abstraction / catch-all helpers / 3-layer wrappers / nesting hell / giant files
+## 速记 8 条（写之前过一遍）
 
-## Mandatory self-check (before commit)
+1. **命名**：窄 / 意图明确 / 不缩写 / 不万能词 / 不重复上下文
+2. **函数**：≤ 30 行（理想 ≤ 10）/ 0-2 参数 / 早返回 / 无副作用
+3. **文件**：≤ 200 行 / 单职责 / import 顺序统一
+4. **注释**：解释"为什么"，不是"是什么" / 不复述 / 删过时的
+5. **性能**：O(n) > O(n²) / 缓存 / 不在循环里 new / 不阻塞
+6. **错误**：边界完整（空/超时/异常）/ 不吞 / 带信息
+7. **格式**：prettier + 行宽 100 / 不争论格式 / 自动化
+8. **避免**：过度抽象 / 万能 helper / 三层 wrapper / 嵌套地狱 / 巨文件
 
-- [ ] Names reveal intent, no `data/info/item/manager/handler/util/helper`
-- [ ] Functions ≤ 30 lines, 0-2 params
-- [ ] No 3+ level if nesting (use early returns)
-- [ ] Comments explain "why", not restating code
-- [ ] No swallowed exceptions (catch must handle or rethrow)
-- [ ] No N² loops (unless necessary + commented)
-- [ ] No allocation inside loops
-- [ ] No catch-all `utils.ts` (split into specific modules)
-- [ ] No over-abstraction (Rule of Three: abstract after 3 repeats)
-- [ ] Files ≤ 300 lines (split beyond that)
-- [ ] 5-second look says "simple"
+## 强制自检清单（commit 前逐条对照）
 
-## After this skill
+- [ ] 命名意图明确，没用 `data/info/item/manager/handler/util/helper`
+- [ ] 函数 ≤ 30 行，0-2 参数
+- [ ] 没有 3 层以上 if 嵌套（用早返回）
+- [ ] 注释解释"为什么"，不复述代码
+- [ ] 没有吞异常（catch 后要么处理要么抛出）
+- [ ] 没有 N² 循环（除非必要 + 注释说明）
+- [ ] 没有在循环里 new 对象
+- [ ] 没有万能 `utils.ts`（拆成具体模块）
+- [ ] 没有过度抽象（3 次重复再抽象，Rule of Three）
+- [ ] 文件 ≤ 300 行（超过就拆）
+- [ ] 自己看 5 秒觉得"简单"
 
-Load the matching `reference.md` section by scenario:
+## 完成本 skill 后做的事
 
-| User says | Load section |
+调阅 `reference.md` 中相关章节（按场景）：
+
+| 用户说 | 加载 reference.md 章节 |
 |---|---|
-| Naming / rename | "1. Naming" |
-| Functions | "2. Functions" |
-| File organization / modules | "3. Files & Modules" |
-| Comments | "4. Comments" |
-| Performance / optimization | "5. Performance" |
-| Error handling / debug | "6. Error Handling" |
-| Format / lint | "7. Format" |
-| AI code smell / refactor | "8. Anti-AI Code Smell" "9. Refactor Signals" |
+| 命名 / 改名字 / 变量名/ 函数名/ 起名/ 重命名 | 「1. 命名」 |
+| 写函数 / 改函数 / 函数设计/ 参数/ 返回值/ 纯函数 | 「2. 函数」 |
+| 组织文件 / 拆模块 / 目录结构/ 模块化/ 拆分/ 架构 | 「3. 文件与模块」 |
+| 写注释 / 注释规范/ 文档/ 说明 | 「4. 注释」 |
+| 性能 / 优化 / 慢/ 卡顿/ 内存/ 算法/ 复杂度 | 「5. 性能 / 省钱」 |
+| 错误处理 / debug / 报错/ 异常/ 边界/ 空值/ 排查 | 「6. 错误处理」 |
+| 格式 / lint / 代码风格/ 格式化/ prettier | 「7. 格式 / 视觉」 |
+| AI 代码味 / 重构 / 代码审查/ review/ 坏味道 | 「8. 反 AI 代码味」「9. 重构信号」 |
 
-## Relationship to other skills
+## 与其他 skill 的关系
 
-| Skill | Role | Chain position |
+| Skill | 角色 | 在链中位置 |
 |---|---|---|
-| **code-mastery (this)** | Master standard / principles | **[1] entry, mandatory** |
-| **simplify** | Auto-simplify (within file) | [2] |
-| **code-refactor-ast** | AST refactor (cross-file/complex) | [3] |
-| **db-schema-designer** | Database schema | Standalone |
-| **aesthetics** | Visual aesthetics | Complementary (not same chain) |
+| **code-mastery（本 skill）** | 大师标准 / 指挥原则 | **[1] 起点，必调** |
+| **simplify** | 自动简化（单文件内） | [2] |
+| **code-refactor-ast** | AST 重构（跨文件/复杂结构） | [3] |
+| **db-schema-designer** | 数据库 schema | 单独使用 |
+| **aesthetics** | 视觉审美 | 与本 skill 互补（不是同链） |
 
-## Chain trigger flow (**all code tasks must follow**)
+## 链式触发流程（核心规则，**所有代码任务必须遵守**）
 
 ```
-[1] code-mastery       ← standards / master taste (this skill, mandatory)
+[1] code-mastery       ← 找标准 / 大师审美（本 skill，**必调**）
    ↓
-[2] simplify           ← what auto-simplify handles (naming, control flow)
+[2] simplify           ← 自动简化能处理的（命名清理、控制流清晰）
    ↓
-[3] code-refactor-ast  ← complex structural transforms (split, cross-file, AST)
+[3] code-refactor-ast  ← 复杂结构变换（拆函数、跨文件、AST）
    ↓
-[4] /code-review       ← human confirmation / final check
+[4] /code-review       ← 人工确认 / 兜底审查
 ```
 
-### Trigger rules
+### 触发规则（按 Mike 的话）
 
-| User says | Path |
+| Mike 说 | 走哪条 |
 |---|---|
-| Write code / implement / function / class / API | **[1]** |
-| Simplify / rewrite / clean up / rename | **[1] + [2]** |
-| Refactor / decouple / AST / extract / cross-file | **[1] + [2] + [3]** |
-| Code review | **[4]** |
-| Any code task **after completion** | Proactively run **[4]** |
+| 写代码 / 实现 / 写函数 / 写类 / 写 API | **[1]** |
+| 简化 / 重写 / 清理 / 改名 | **[1] + [2]** |
+| 重构 / 拆解 / AST / extract / 跨文件 | **[1] + [2] + [3]** |
+| 代码审查 / review | **[4]** |
+| 任何代码任务**完成后** | 主动走 **[4]** 兜底 |
 
-### Iron rules
+### 铁律
 
-- ❌ Never skip step 1 (never call simplify / code-refactor-ast directly)
-- ❌ Never skip levels (code-refactor-ast must pass through simplify first)
-- ✅ After any code task, proactively run `/code-review`
-- ✅ Fixed order: [1] → [2] → [3] → [4]
+- ❌ 不跳过 step 1（不直接调 simplify / code-refactor-ast）
+- ❌ 不跳级（code-refactor-ast 必须先经过 simplify 评估）
+- ✅ 任何代码任务完成后主动调 `/code-review` 兜底
+- ✅ 顺序固定：[1] → [2] → [3] → [4]
 
-## Precise triggers
+## 精准触发
 
-- "code review" → **[4]** `/code-review` command
-- "refactor" → **[1] + [2] + [3]** full chain
-- "simplify" → **[1] + [2]**
-- "optimize performance" → this skill section 5 + **[4]**
-- "debug" / "fix bug" → this skill section 6 + **[4]**
+- 用户说"代码审查" / "code review" → 走 **[4]** `/code-review` 命令
+- 用户说"重构" / "refactor" → 走 **[1] + [2] + [3]** 完整链
+- 用户说"简化" / "simplify" → 走 **[1] + [2]**
+- 用户说"性能优化" / "optimize" → 调本 skill 第 5 章 + **[4]** 兜底
+- 用户说"debug" / "修 bug" → 调本 skill 第 6 章错误处理 + **[4]**

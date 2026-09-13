@@ -1,88 +1,100 @@
 ---
 name: research-mastery
-description: Use for search/digest/verification/latest news/research/fact-checking. Triggers: search/look up/latest/news/research/compile/sources/real or fake/reliable/compare info.
+description: 信息搜索、整理与验证的综合方法。当需要搜索最新信息、行业调研、技术选型、新闻追踪、事实核查、多源验证、信息整理、摘要生成、知识图谱构建、快速学习新领域、竞品情报收集、数据驱动决策时使用。触发词：搜索、查一下、最新、调研、整理给我、资料、来源、真假、靠谱吗。
 ---
 
-# Research Mastery
+# Research Mastery（搜索 / 整理）
 
-> Not a search engine courier. An intelligence analyst — find it, verify it, make it usable.
+## 何时触发
 
-## Core flow (5 steps)
+关键词命中即触发：帮我搜、帮我查、整理一下、靠谱吗、真假、来源、最新。
+
+
+> 不是搜索引擎的搬运工。是情报分析师——搜到、验真、整理成能用的东西。
+
+## 核心流程（5 步）
 
 ```
-1. Clarify (what? why? for whom?)
-2. Decompose keywords (main + qualifiers + time)
-3. Multi-round search (broad → narrow → fill gaps)
-4. Verify sources (cross-check + recency + motive)
-5. Structured digest (conclusion first + sources + confidence)
+1. 澄清问题（要什么？为什么？给谁看？）
+2. 拆解关键词（主词 + 限定词 + 时间）
+3. 多轮搜索（广撒网 → 收窄 → 补漏）
+4. 信源验证（交叉验证 + 时效 + 动机）
+5. 结构化整理（结论先行 + 来源 + 置信度）
 ```
 
-## Search techniques
+## 搜索技巧
 
-### Keyword construction
-- **Main term**: core concept
-- **Qualifiers**: time/region/type ("2026" "comparison")
-- **Synonyms**: try 2-3 phrasings
-- **Exact match**: quote phrases
+### 关键词构造
+- **主词**：核心概念
+- **限定词**：时间/地域/类型（"2026" "中国" "对比"）
+- **同义词**：换 2-3 种说法搜（避免错过）
+- **精确匹配**：引号包短语
 
-### Multi-round strategy
+### 多轮策略
 ```
-Round 1: broad (get the landscape)
-Round 2: targeted (deep dive key points)
-Round 3: verify (find counter-arguments)
-Round 4: fill gaps (edge info)
+第 1 轮：广搜（了解全貌）
+第 2 轮：定向（针对关键点深入）
+第 3 轮：验证（找反驳/不同观点）
+第 4 轮：补漏（边角信息）
 ```
 
-### Vertical sources
-- Academic: Google Scholar / arXiv
-- Code: GitHub
-- News: Google News
-- Products: marketplaces
-- Social: X / Reddit
+### 垂直搜索
+- 学术：Google Scholar / arXiv
+- 代码：GitHub
+- 新闻：Google News / 微博热搜
+- 商品：电商平台
+- 社交：X / Reddit / 小红书
 
-## Source grading (key)
+## 信源分级（关键）
 
-| Grade | Type | Trust |
+| 级别 | 类型 | 可信度 |
 |---|---|---|
-| S | Primary data/official docs/original papers | Highest |
-| A | Authoritative media/institutional reports | High |
-| B | Industry blogs/professionals | Medium |
-| C | Mass media/self-media | Low (verify) |
-| D | Anonymous/screenshots/rumors | Don't trust |
+| S | 一手数据/官方文档/原始论文 | 最高 |
+| A | 权威媒体/机构报告 | 高 |
+| B | 行业博客/专业人士 | 中 |
+| C | 大众媒体/自媒体 | 低（需验证） |
+| D | 匿名/截图/传言 | 不采信 |
 
-**Cross-check**: important info needs 2+ independent sources.
+**交叉验证**：重要信息至少 2 个独立来源。
 
-## Output format
+## 输出格式（整理模板）
 
 ```markdown
-## Conclusion (first)
-[one-line core conclusion]
+## 结论（先行）
+[一句话核心结论]
 
-## Key information
-- [point 1] (source: X)
-- [point 2] (source: Y)
+## 关键信息
+- [要点 1]（来源：X）
+- [要点 2]（来源：Y）
 
-## Analysis
-[expanded sections]
+## 详细分析
+[分段展开]
 
-## Sources
-1. [title](link) — grade/date
+## 来源
+1. [标题](链接) —— 级别/日期
 2. ...
 
-## Confidence
-[high/medium/low] — reason (source quality/consistency/recency)
+## 置信度
+[高/中/低] —— 原因（信源质量/一致性/时效）
 ```
 
-## Rules
+## 铁律
 
-1. **Conclusion first** — answer before process
-2. **Always cite** — no source = never said it
-3. **Date everything** — when is this from
-4. **Honest confidence** — say when unsure
-5. **Counter-view** — did you look for the other side
-6. **Never fabricate** — if you can't find it, say so
+1. **结论先行**——先给答案再给过程
+2. **来源必附**——没来源=没说过
+3. **时效标注**——信息什么时候的
+4. **置信度诚实**——不确定就说不确定
+5. **反面观点**——找过反方了吗
+6. **不编造**——搜不到就说搜不到
 
-## References
+## Reference
 
-- `reference/search.md` — search advanced (operators/vertical/deep dig)
-- `reference/verify.md` — verification & lie detection (fake news/shill accounts/motives)
+- `reference/search.md` —— 搜索进阶（技巧/垂直源/深挖）
+- `reference/verify.md` —— 验证与识谎（假新闻/水军/动机）
+
+## 加载 reference（按需加载）
+
+| 用户说 | 加载 |
+|---|---|
+| 搜索技巧/关键词/垂直搜索/深挖/高级搜索/多轮搜索 | `reference/search.md` |
+| 验证/识谎/假新闻/水军/信源/交叉验证/动机分析 | `reference/verify.md` |

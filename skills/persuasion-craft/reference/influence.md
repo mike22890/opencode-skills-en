@@ -1,93 +1,204 @@
-# Influence (Cialdini's principles)
+<!-- 隐式触发：影响力/Cialdini/互惠/稀缺/说服技巧/引导/改变态度 -->
+# 影响力（Cialdini 6 大法则）
 
-## 1. Reciprocity
+## 1. 互惠（Reciprocity）
 
-**Principle**: receiving creates obligation. Give first, they return.
+### 原理
 
-**Tactics**: gifts / free samples / valuable content / service first
+**收到要还**。先给，客户会回报。
 
-**Examples**: restaurant free appetizer (bigger tips) / sales sends industry report (higher purchase) / colleague helps first
+### 策略
 
-**Careful**: reciprocity shouldn't be manipulation — give real value, don't demand instant returns
+- 送礼（小礼物先给）
+- 试用品（先给后买）
+- 内容（先给价值，再销售）
+- 服务（先帮后谈）
 
-## 2. Scarcity
+### 例
 
-**Principle**: less = precious. Scarcity raises perceived value.
+- 餐厅送小菜（客人给小费更多）
+- 销售先给行业报告（客户更愿买）
+- 同事先帮（之后更愿帮你）
 
-**Tactics**: limited time / limited quantity / exclusive access / seasonal
+### 注意
 
-**Examples**: "only 1 room left" / 24-hour countdown / 10 slots
+- 互惠不应是操纵
+- 给有价值的东西
+- 不要立刻索取回报
 
-**Careful**: only real scarcity works — fake urgency gets caught
+## 2. 稀缺（Scarcity）
 
-## 3. Authority
+### 原理
 
-**Principle**: experts are trusted. Authority = trust.
+**少 = 珍贵**。稀缺让价值上升。
 
-**Tactics**: credentials / client logos / media coverage / data / expert endorsements
+### 策略
 
-**Examples**: "recommended by doctors" / "featured in X" / "used by 200k professionals"
+- 限时（24 小时优惠）
+- 限量（仅 100 件）
+- 独家（仅 VIP）
+- 季节性（圣诞特别）
 
-**Careful**: never fake authority — real background only
+### 例
 
-## 4. Consistency
+- Airbnb"仅剩 1 间"
+- 倒计时（24 小时）
+- 限购（10 个名额）
 
-**Principle**: people stay consistent. Once committed, they continue.
+### 注意
 
-**Tactics**: small commitment first → bigger commitment / public commitments stick
+- 真实稀缺才有效
+- 假稀缺（假限时）会被识破
+- 不要成为"狼来了"
 
-**Examples**: "join first" → recommend / "follow first" → buy / "try first" → buy
+## 3. 权威（Authority）
 
-**Psychology**: public commitments persist / written > verbal / small steps start easier
+### 原理
 
-## 5. Liking
+**专家说的就是对的**。权威 = 信任。
 
-**Principle**: we accept from those we like. Similarity / praise / cooperation = liking.
+### 策略
 
-**Tactics**: similarity (background/interest/style) / genuine praise / cooperation / repeated contact / professional appearance / association
+- 资质（XX 博士 / XX 认证）
+- 客户 logo（被大客户信任）
+- 媒体（被媒体报道）
+- 数据（被研究证实）
+- 专家推荐（KOL）
 
-**Careful**: real liking, not performance — no flattery
+### 例
 
-## 6. Social Proof
+- "5 年医生推荐"
+- "被 XX 报道"
+- "20 万医生使用"
 
-**Principle**: if others do it, I do it. Social proof = safety.
+### 注意
 
-**Tactics**: user counts / ratings / referrals / case studies / media / peer recommendations
+- 不要冒用权威
+- 真实背景才有效
+- 不要欺骗
 
-**Types**: expert consensus / mass consensus / peer consensus
+## 4. 一致性（Consistency）
 
-## 7. Unity (the 7th principle)
+### 原理
 
-- With "our people" = strongest identity
-- Community, family, teammates
-- Stronger than "liking"
+**人会保持一致**。一旦承诺，会继续。
 
-**Examples**: member communities / shared identity / shared values
+### 策略
 
-## 8. Ethical boundaries (important)
+- 小承诺先（先免费试用）
+- 然后大承诺（付费升级）
+- 公开承诺（用户会坚持）
 
-**Influence = a tool, not a weapon.**
+### 例
 
-### ❌ Unethical
-- Fake scarcity / fake urgency
-- Faked authority / fake experts
-- Emotional manipulation (no informational value)
-- Manipulative reciprocity (give to demand large returns)
-- Fake reviews / bot-pumped social proof
+- "先加入" → 然后推荐
+- "先关注" → 然后买
+- "先试用" → 然后买
 
-### ✅ Ethical
-- Real value / real information / real experts / real customers
-- Help users make **decisions that are better for themselves**
+### 心理学
 
-## 9. Quick card
+- 公开承诺的人更坚持
+- 文字承诺比口头更有效
+- 小步承诺比大步更易开始
+
+## 5. 喜好（Liking）
+
+### 原理
+
+**喜欢的会接受**。相似 / 赞美 / 合作 = 喜好。
+
+### 策略
+
+- 相似（背景 / 兴趣 / 风格）
+- 赞美（真诚的）
+- 合作（共同目标）
+- 接触（多次接触）
+- 衣着 / 外表（专业）
+- 关联（与喜欢的人关联）
+
+### 例
+
+- 销售跟客户聊共同爱好
+- 穿客户的风格
+- 在朋友圈发互动
+
+### 注意
+
+- 真实喜好，不是表演
+- 不要巴结
+- 保持专业
+
+## 6. 共识（Social Proof）
+
+### 原理
+
+**别人这么做我也这么做**。社会证明 = 安全感。
+
+### 策略
+
+- 用户数（"百万用户选择"）
+- 评价（4.9 评分）
+- 推荐（NPS / 推荐率）
+- 案例（客户案例）
+- 媒体（被报道）
+- 同行 / 朋友推荐
+
+### 例
+
+- 餐厅排队 = 好吃
+- 评分高 = 信任
+- 朋友推荐 = 试试
+
+### 类型
+
+- **专家共识**（专家推荐）
+- **大众共识**（"万人选择"）
+- **同行共识**（"你的朋友都在用"）
+
+## 7. 7 大原则（新增）
+
+### 7. 联盟（Unity）
+
+- 与"自己人" = 强认同
+- 社群、家人、队友
+- 比"喜好"更强
+
+### 例
+
+- 会员社群
+- 共同身份（"我们是 X 派"）
+- "我们的价值观"
+
+## 8. 道德边界（重要）
+
+**影响力 = 工具，不是武器**。
+
+### ❌ 不道德用法
+
+- 假稀缺（假限时）
+- 权威冒用（假专家）
+- 操纵情感（无信息价值）
+- 互惠操纵（先给后索要大回报）
+- 社会证明造假（假评论）
+- 共识伪造（机器人刷单）
+
+### ✅ 道德用法
+
+- 真实价值
+- 真实信息
+- 真实专家
+- 真实客户
+- 让用户做**对自己更好的决策**
+
+## 9. 速查卡
 
 ```
-Reciprocity — give first (small gifts)
-Scarcity — limited time/quantity/exclusive
-Authority — credentials/logos/KOLs
-Consistency — small commitment → big commitment
-Liking — similarity/praise/cooperation
-Social proof — user counts/ratings/cases
-Unity — community/identity/values
-Ethics — no fakes, no manipulation, help users decide better
+互惠 —— 先给后索（送小礼物）
+稀缺 —— 限时 / 限量 / 独家
+权威 —— 资质 / 客户 logo / KOL
+一致 —— 小承诺 → 大承诺
+喜好 —— 相似 / 赞美 / 合作
+共识 —— 用户数 / 评分 / 案例
+联盟 —— 社群 / 身份 / 价值观
+道德 —— 不造假 / 不操纵 / 让用户更好决策
 ```

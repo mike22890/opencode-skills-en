@@ -1,56 +1,57 @@
-# Scalability
+<!-- 隐式触发：缓存/队列/数据库/CDN/监控/性能优化/扩展/高并发 -->
+# 可扩展性（精简版）
 
-## Cache trio
+## 缓存三剑客
 
-- **Penetration**: querying non-existent data → bloom filter / cache null values
-- **Avalanche**: mass key expiration at once → randomized TTL / multi-level cache
-- **Stampede**: hot key expires suddenly → mutex lock / logical expiration
+- **穿透**：查不存在数据→布隆过滤器/缓存空值
+- **雪崩**：大量 key 同时过期→随机过期/多级缓存
+- **击穿**：热门 key 过期瞬间→互斥锁/逻辑过期
 
-**Patterns**: Cache-Aside (most common) / Read-Through / Write-Through / Write-Behind
+**模式**：Cache-Aside（最常用）/ Read-Through / Write-Through / Write-Behind
 
-## Queues
+## 队列
 
-Decoupling / peak shaving / async. Kafka (high throughput + Streams) / RabbitMQ (routing) / Redis Streams (lightweight)
+解耦/削峰/异步。Kafka（高吞吐+Stream）/ RabbitMQ（路由）/ Redis Streams（轻量）
 
-**Watch**: idempotent consumption / ordering guarantees / retries + DLQ
+**注意**：幂等消费 / 顺序保证 / 失败重试+DLQ
 
-## Databases
+## 数据库
 
-- Indexes: B+Tree / Hash / GIN / BRIN
-- Optimization: slow queries / covering indexes / avoid SELECT * / batching
-- Isolation: read committed / repeatable read (MySQL default) / serializable
+- 索引：B+Tree / Hash / GIN / BRIN
+- 优化：慢查 / 索引覆盖 / 避免 SELECT * / 批量
+- 事务隔离：读已提交 / 可重复读（MySQL 默认）/ 串行化
 
 ## CDN
 
-Static asset distribution. CloudFlare / Akamai / CloudFront
+静态资源分发。CloudFlare / Akamai / 阿里云/腾讯云
 
-## Async
+## 异步
 
-Sync → async: free threads / shave peaks / raise throughput. Message queues / callbacks / Futures / coroutines
+同步→异步：释放线程/削峰/提升吞吐。消息队列/回调/Future/协程
 
-## Monitoring
+## 监控
 
-- Metrics: CPU/memory/QPS/latency/error rate
-- Logs: structured
-- Traces: distributed tracing
-- Tools: Prometheus+Grafana / ELK / Jaeger
+- Metrics（指标）：CPU/内存/QPS/延迟/错误率
+- Logs（日志）：结构化
+- Traces（链路）：分布式追踪
+- 工具：Prometheus+Grafana / ELK / Jaeger
 
-## Elasticity
+## 弹性
 
-Horizontal scaling (more machines) > vertical. Triggers: CPU/QPS/schedule/prediction. Watch startup latency + scale-in jitter
+水平扩展（加机器）> 垂直扩展。触发：CPU/QPS/定时/预测。注意启动延迟+缩容抖动
 
-## Canary / A-B
+## 灰度/A/B
 
-Canary release (small % → monitor → full) / A-B (two versions + statistical significance)
+金丝雀发布（小比例试用→监控→全量）/ A/B（两版本对比+统计显著性）
 
-## Degradation
+## 降级/兜底
 
-Circuit-breaker degrade / rate-limit degrade / manual degrade. Sentinel / Hystrix / Resilience4j
+熔断降级 / 限流降级 / 手动降级。Sentinel / Hystrix / Resilience4j
 
-## Quick card
+## 速查卡
 
 ```
-Cache: penetration/avalanche/stampede / Queues: decouple/shave peaks/async
-DB: indexes + slow queries + transactions / CDN: static assets / Async: free threads
-Monitoring: metrics+logs+traces / Elasticity: horizontal + warmup / Canary + A/B
+缓存：防穿透/雪崩/击穿 / 队列：解耦/削峰/异步
+数据库：索引+慢查+事务 / CDN：静态资源 / 异步：释放线程
+监控：Metrics+Logs+Traces / 弹性：水平扩展+预热 / 灰度：金丝雀+A/B
 ```

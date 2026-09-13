@@ -1,49 +1,50 @@
-# Product / Business Frameworks
+<!-- 隐式触发：PMF/商业模式画布/Jobs-to-be-Done/蓝海/价值主张/商业计划 -->
+# 产品/商业框架（精简版）
 
-## PMF (Product-Market Fit)
+## PMF（Product-Market Fit）
 
-> The degree to which a product satisfies market demand.
+> 产品满足市场需求的程度。
 
-**Strong signals**: organic growth / active referrals / flat retention / LTV/CAC > 3
-**False signals**: high DAU low retention / high CAC low LTV / promo-driven
+**强信号**：自然增长 / 主动推荐 / 留存平 / LTV/CAC>3
+**假信号**：高 DAU 低留存 / 高 CAC 低 LTV / 促销来的
 
-**Sean Ellis test**: > 40% answering "very disappointed" = PMF
+**Sean Ellis 测试**：>40% 答"非常失望" = PMF
 
-**Before vs after**: searching → scaling / experimenting → optimizing / scarce resources → abundant
+**之前 vs 之后**：找方向→加大规模 / 试错→优化 / 资源紧→资源多
 
-## Business Model Canvas
+## 商业模式画布
 
-9 blocks: customer segments / value propositions / channels / customer relationships / revenue streams / key resources / key activities / key partners / cost structure
+9 模块：客户细分 / 价值主张 / 渠道 / 客户关系 / 收入流 / 关键资源 / 关键活动 / 重要伙伴 / 成本结构
 
 ## Jobs-to-be-Done
 
-Users **hire** products to do a job. Competition isn't similar products — it's **other ways to get the job done**.
+用户**雇佣**产品完成一项工作。竞争不是同类产品，是**完成任务的其他方式**。
 
-## Blue Ocean Strategy
+## 蓝海战略
 
-| Red ocean | Blue ocean |
+| 红海 | 蓝海 |
 |---|---|
-| Existing market | New market |
-| Fierce competition | No competition |
-| Price wars | Value innovation |
+| 现有市场 | 新市场 |
+| 竞争激烈 | 无竞争 |
+| 价格战 | 价值创新 |
 
-4 actions: eliminate / reduce / raise / create
+4 步：消除 / 降低 / 提升 / 创造
 
-## Growth flywheel
+## 增长飞轮
 
-Self-reinforcing loop. Amazon: lower prices → more customers → more sellers → better selection → lower prices
+自增强循环。Amazon：更低价格→更多客户→更多卖家→更好选品→更低价格
 
-## Unit economics
+## 单位经济
 
-- CAC (customer acquisition cost) / LTV (lifetime value)
-- LTV/CAC > 3 = healthy
-- Payback < 12 months
+- CAC（获客成本）/ LTV（终身价值）
+- LTV/CAC > 3 = 健康
+- 回收期 < 12 个月
 
-## Quick card
+## 速查卡
 
 ```
-PMF: find 5-10 people who love it + Sean Ellis test
-Canvas: 9 blocks / JTBD: hired to do a job
-Blue ocean: eliminate/reduce/raise/create / Flywheel: self-reinforcing
-Unit economics: LTV/CAC>3 + payback<12mo
+PMF：找 5-10 个爱你的人 + Sean Ellis 测试
+画布：9 模块 / JTBD：雇佣完成工作
+蓝海：消除/降低/提升/创造 / 飞轮：自增强
+单位经济：LTV/CAC>3 + 回收期<12月
 ```

@@ -1,76 +1,237 @@
-# Eastern Philosophy (5 traditions)
+<!-- 隐式触发：禅/道/儒家/佛家/印度/老子/庄子/孔子/佛教/道教 -->
+# 东方哲学（5 大传统）
 
-## 1. Taoism
+## 1. 道家（Taoism）
 
-**Core**: Dao (the natural order) / Wu Wei (non-forcing) / the soft overcomes the hard
+### 核心
 
-**Figures**: Laozi (*Tao Te Ching*) / Zhuangzi (*Zhuangzi*)
+- 道（Dao）：自然规律
+- 无为（Wu Wei）：不强求
+- 柔弱胜刚强
 
-**Key teachings**:
-- **Dao follows nature**: the Dao is the source; align with nature; don't violate its laws
-- **Wu Wei (non-doing)**: not forcing / effortlessness / like water flowing downhill
-- **Soft overcomes hard**: softness isn't weakness / water wears through stone
-- **Less is more**: simplicity beats complexity
-- **Non-competitive competition**: don't force competition; take the natural position
+### 代表
 
-**Practice**: align with nature / reduce desires / simplify life / calm the mind
+- **老子**（Laozi）：《道德经》
+- **庄子**（Zhuangzi）：《庄子》
 
-## 2. Zen (Chan)
+### 核心教义
 
-**Core**: point directly at the mind / see one's nature, become Buddha / no reliance on words
+#### 道法自然
 
-**Figures**: Bodhidharma / Huineng / Linji / Caodong / D.T. Suzuki (modern)
+- 道是宇宙本源
+- 顺应自然
+- 不违背规律
 
-**Key teachings**:
-- **Not founded on words**: truth can't be transmitted in words / experience > concept / intuition > logic
-- **Koans**: "What is Buddha?" — "Three pounds of flax" / not logical answers but experiential
-- **The present is it**: no seeking the afterlife / no seeking the other shore / this moment is Buddha
-- **Ordinary mind is the way**: eating is zen / chopping wood is practice / no separation from daily life
+#### 无为而无不为
 
-**Practice**: zazen / breath counting / koans / daily awareness
+- 无为 = 不强求
+- 不刻意 = 自然成就
+- 例：水往低处流，自然成河
 
-## 3. Confucianism
+#### 柔弱胜刚强
 
-**Core**: Ren (benevolence) / Yi (righteousness) / Li (ritual propriety)
+- 柔不是弱
+- 柔能克刚
+- 例：水最柔，但滴水穿石
 
-**Figures**: Confucius / Mencius / Wang Yangming / Zhu Xi
+#### 少则得多则惑
 
-**Key teachings**:
-- **Ren**: love people / "do not impose on others what you don't want" / extend yourself to others
-- **Cultivate self, harmonize family, govern state**: start personal, extend to family/state/world
-- **Unity of knowledge and action (Wang Yangming)**: knowing = doing / knowing + doing = truly knowing
-- **Investigate things to extend knowledge**: study things, gain knowledge, then practice
-- **The golden mean**: no extremes / balance
+- 少 = 简单
+- 多 = 复杂
+- 简单胜复杂
 
-**Practice**: self-cultivation / reflection / learning / practice
+#### 不争之争
 
-## 4. Buddhism
+- 不争 = 不强求竞争
+- 自然位置
+- 例：天下莫之能争
 
-**Core**: Four Noble Truths (suffering / cause / cessation / path) / Eightfold Path / impermanence / non-self / nirvana
+### 实修
 
-**Figures**: Shakyamuni Buddha / Nagarjuna (Madhyamaka) / Huineng (Chan) / Padmasambhava (Tibetan)
+- 顺应自然
+- 减少欲望
+- 简化生活
+- 静心
 
-**Key teachings**:
-- **Four Noble Truths**: suffering exists / craving is its cause / it can cease / the path is the Eightfold Path
-- **Eightfold Path**: right view / intention / speech / action / livelihood / effort / mindfulness / concentration
-- **Impermanence**: everything changes / clinging = suffering / acceptance = freedom
-- **Non-self**: no fixed self / everything is interdependent / the self is illusion
+## 2. 禅宗（Zen / Chan）
 
-**Practice**: meditation / precepts / generosity / wisdom
+### 核心
 
-## 5. Indian philosophy (others)
+- 直指人心
+- 见性成佛
+- 不立文字
 
-- **Yoga**: body + mind / eight limbs / union
-- **Samkhya**: spirit/matter dualism / 24 principles / foundation of Indian philosophy
-- **Vedanta**: Atman = Brahman / non-dualism / mainstream modern Indian philosophy
-- **Upanishads**: early Indian philosophy / Brahman / Atman / world relations
+### 代表
 
-## 6. Quick card
+- 达摩 / 六祖慧能 / 慧能 / 神秀
+- 临济 / 曹洞
+- 铃木大拙（现代）
+
+### 核心教义
+
+#### 不立文字
+
+- 真理不能言传
+- 体验 > 概念
+- 直觉 > 逻辑
+
+#### 公案（Koan）
+
+- "什么是佛？" —— "麻三斤"
+- "狗子有佛性否？" —— "无"
+- 不答逻辑，答体验
+
+#### 当下即是
+
+- 不求来世
+- 不求彼岸
+- 此刻即佛
+
+#### 平常心是道
+
+- 吃饭即吃禅
+- 砍柴即修禅
+- 不脱离日常
+
+### 实修
+
+- 打坐（坐禅）
+- 数息
+- 公案
+- 日常觉知
+
+## 3. 儒家（Confucianism）
+
+### 核心
+
+- 仁（Ren）：爱人
+- 义（Yi）：应该
+- 礼（Li）：规范
+
+### 代表
+
+- **孔子**（Confucius）
+- **孟子**（Mencius）
+- **王阳明**（Wang Yangming）
+- **朱熹**（Zhu Xi）
+
+### 核心教义
+
+#### 仁
+
+- 爱人
+- "己所不欲，勿施于人"
+- 推己及人
+
+#### 修身齐家治国
+
+- 从个人开始
+- 推及家 / 国 / 天下
+
+#### 知行合一（王阳明）
+
+- 知 = 行
+- 知道 + 做到 = 真知道
+- 不是"知道但做不到"
+
+#### 格物致知
+
+- 研究事物
+- 获得知识
+- 然后实践
+
+#### 中庸
+
+- 不偏不倚
+- 不极端
+- 平衡
+
+### 实修
+
+- 修身
+- 反省
+- 学习
+- 实践
+
+## 4. 佛家（Buddhism）
+
+### 核心
+
+- 四圣谛（苦 / 集 / 灭 / 道）
+- 八正道
+- 无常 / 无我 / 涅槃
+
+### 代表
+
+- **释迦牟尼**
+- **龙树**（中观）
+- **慧能**（禅宗）
+- **莲花生大士**（藏传）
+
+### 核心教义
+
+#### 四圣谛
+
+- 苦（dukkha）：存在即苦
+- 集（samudaya）：苦的原因（贪嗔痴）
+- 灭（nirodha）：可以灭苦
+- 道（magga）：八正道
+
+#### 八正道
+
+- 正见 / 正思维 / 正语 / 正业
+- 正命 / 正精进 / 正念 / 正定
+
+#### 无常
+
+- 一切都在变化
+- 执着 = 苦
+- 接受 = 自由
+
+#### 无我
+
+- 没有固定自我
+- 一切因缘和合
+- 自我是幻
+
+### 实修
+
+- 冥想
+- 持戒
+- 布施
+- 智慧
+
+## 5. 印度哲学（其他）
+
+### 瑜伽（Yoga）
+
+- 身体 + 心灵
+- 八支瑜伽
+- 与神合一
+
+### 数论（Samkhya）
+
+- 精神 / 物质二元
+- 24 谛
+- 印度哲学基础
+
+### 吠檀多（Vedanta）
+
+- 我 = 梵
+- 梵我一如
+- 现代印度哲学主流
+
+### 奥义书（Upanishad）
+
+- 早期印度哲学
+- 梵 / 我 / 世界的关系
+
+## 6. 速查卡
 
 ```
-Taoism — Dao follows nature + Wu Wei + soft overcomes hard
-Zen — point at the mind + ordinary mind is the way + present moment
-Confucianism — Ren + unity of knowledge and action + cultivate self
-Buddhism — Four Noble Truths + impermanence + non-self + Eightfold Path
-Indian — Yoga / Samkhya / Vedanta / Upanishads
+道家 —— 道法自然 + 无为 + 柔弱胜刚强
+禅宗 —— 直指人心 + 平常心是道 + 当下即是
+儒家 —— 仁 + 知行合一 + 修身齐家
+佛家 —— 四圣谛 + 无常 + 无我 + 八正道
+印度 —— 瑜伽 / 数论 / 吠檀多 / 奥义书
 ```

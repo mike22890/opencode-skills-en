@@ -1,42 +1,42 @@
 ---
 name: wisdom-philosophy
-description: Use for philosophy/wisdom/stoicism/existentialism/zen/tao/confucianism/ethics/meaning of life.
+description: 哲学智慧与人生反思的综合资源。当需要哲学思考、斯多葛学派、存在主义、禅宗、道家、儒家、佛家、伦理决策、人生意义探索、价值观反思、道德困境分析、冥想/日课、东西方哲学比较、智慧文学、精神成长时使用。
 version: 1.0.0
 metadata:
-  author: mike22890
+  author: Mike
   tags: philosophy wisdom stoicism existentialism zen tao confucian ethics meaning
 ---
 
-# Wisdom Philosophy
+# Wisdom Philosophy（哲学 / 智慧）
 
-## When to trigger
+## 何时触发
 
-Trigger keywords: philosophy, wisdom, stoicism, existentialism, zen, tao, confucianism, buddhism, ethics, reflection, life, meaning, values, decision dilemmas, moral dilemmas.
+关键词命中即触发：哲学、智慧、斯多葛、存在主义、禅、道、儒家、佛家、伦理、反思、人生、意义、价值观、决策困境、道德困境、冥想、日课、精神成长、心灵、处世、修身。
 
-## 6 rules
+## 速记 6 条
 
-1. **Dichotomy of control**: separate what you control from what you don't
-2. **Present > eternal**: live now, not in memory or fantasy
-3. **Look inward**: ask yourself first
-4. **Impermanence / non-striving**: accept change, don't force
-5. **Unity of knowledge and action**: knowing + doing = truly knowing
-6. **Morality as survival**: long-term immorality = short-term gain
+1. **控制二分法**：分清能控制 vs 不能控制
+2. **此刻 > 永恒**：活在当下，不是回忆或幻想
+3. **反求诸己**：先问自己怎么办
+4. **无常 / 不争**：接受变化，不硬刚
+5. **知行合一**：知道 + 做到 = 真知道
+6. **道德即生存**：长期不道德 = 短期利益
 
-## Self-check
+## 自检清单
 
-- [ ] Separated control vs no-control?
-- [ ] Accepted impermanence / imperfection?
-- [ ] Looking inward (not externalizing)?
-- [ ] Has practice (not just reading)?
-- [ ] Knowledge and action unified?
-- [ ] Long-term ethical?
+- [ ] 是否分清控制 vs 不控制？
+- [ ] 是否接受无常 / 不完美？
+- [ ] 是否反求诸己（不是外归因）？
+- [ ] 是否有实修（不只是读）？
+- [ ] 知行是否合一？
+- [ ] 长期是否道德？
 
-## Loading references
+## 加载 reference
 
-| User says | Load |
+| 用户说 | 加载 |
 |---|---|
-| Stoicism / existentialism / pragmatism | `reference/western.md` |
-| Zen / tao / confucianism / buddhism / Indian | `reference/eastern.md` |
-| Ethics / decisions / moral dilemmas | `reference/ethics.md` |
-| Daily practice / reflection / meditation / action | `reference/practice.md` |
-| Masters / anchors to learn | `reference/masters.md` |
+| 斯多葛 / 存在主义 / 实用主义 / 控制二分/ 古希腊/ 罗马哲学/ 尼采/ 加缪 | `reference/western.md` |
+| 禅 / 道 / 儒家 / 佛家 / 印度 / 老子/ 庄子/ 孔子/ 孟子/ 佛教/ 道教 | `reference/eastern.md` |
+| 伦理 / 决策 / 道德困境 / 电车难题/ 是非/ 对错/ 伦理判断/ 两难 | `reference/ethics.md` |
+| 日课 / 反思 / 冥想 / 行动 / 修行/ 静坐/ 正念/ 自我提升/ 实践 | `reference/practice.md` |
+| 学谁 / 大师 / 锚点 / 哲学大师/ 思想家/ 经典 | `reference/masters.md` |

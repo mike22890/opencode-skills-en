@@ -1,36 +1,37 @@
-# Philosophy Masters
+<!-- 隐式触发：哲学大师/思想家/经典/东西方哲学 -->
+# 哲学大师（精简版）
 
-## Western
+## 西方
 
-| Master | Core | Work |
+| 大师 | 核心 | 代表作 |
 |---|---|---|
-| Marcus Aurelius | dichotomy of control + accept fate + daily practice | *Meditations* |
-| Seneca | time + not wasting it + friendship | *On the Shortness of Life* |
-| Epictetus | clearest dichotomy of control | *Enchiridion* |
-| Camus | absurdity + revolt + creating meaning | *The Myth of Sisyphus* |
-| Nietzsche | revaluation + becoming yourself | *Thus Spoke Zarathustra* |
-| Alan Watts | East-West fusion + enjoying the process | *The Way of Zen* |
-| Sartre | freedom + responsibility + existence precedes essence | *Being and Nothingness* |
-| Kant | deontology + universalization | *Critique of Practical Reason* |
-| Popper | falsifiability + open society | *Conjectures and Refutations* |
+| Marcus Aurelius | 控制二分法+接受命运+日课 | 《沉思录》 |
+| Seneca | 时间+不浪费+朋友 | 《论生命之短暂》 |
+| Epictetus | 控制二分法最清晰 | 《手册》 |
+| Camus | 荒诞+反抗+创造意义 | 《西西弗神话》 |
+| Nietzsche | 重新评估+成为自己 | 《查神尼如是说》 |
+| Alan Watts | 东西方融合+享受过程 | 《道，西方之道》 |
+| Sartre | 自由+责任+存在先于本质 | 《存在与虚无》 |
+| Kant | 义务论+普遍化 | 《实践理性批判》 |
+| Popper | 可证伪性+开放社会 | 《猜想与反驳》 |
 
-## Eastern
+## 东方
 
-| Master | Core | Work |
+| 大师 | 核心 | 代表作 |
 |---|---|---|
-| Laozi | Dao follows nature + Wu Wei + soft overcomes hard | *Tao Te Ching* |
-| Zhuangzi | free wandering + transformation + usefulness of the useless | *Zhuangzi* |
-| Wang Yangming | unity of knowledge and action + extending innate knowing | *Instructions for Practical Living* |
-| Huineng | point directly at the mind + see nature | *Platform Sutra* |
-| Shakyamuni | Four Noble Truths + Eightfold Path + impermanence | Early Buddhism |
-| Confucius | Ren + cultivate self + golden mean | *Analects* |
-| Mencius | innate goodness + benevolent governance | *Mencius* |
-| Zhu Xi | investigate things + extend knowledge | *Collected Commentaries* |
+| 老子 | 道法自然+无为+柔弱胜刚强 | 《道德经》 |
+| 庄子 | 逍遥+物化+无用之用 | 《庄子》 |
+| 王阳明 | 知行合一+致良知 | 《传习录》 |
+| 慧能 | 直指人心+见性成佛 | 《坛经》 |
+| 释迦牟尼 | 四圣谛+八正道+无常 | 原始佛教 |
+| 孔子 | 仁+修身齐家+中庸 | 《论语》 |
+| 孟子 | 性善+仁政+民贵君轻 | 《孟子》 |
+| 朱熹 | 格物致知+存天理 | 《四书章句集注》 |
 
-## Quick card
+## 速查卡
 
 ```
-Marcus: dichotomy + daily practice / Seneca: time / Epictetus: clearest control
-Camus: absurdity + revolt / Nietzsche: revaluation / Watts: East-West fusion
-Laozi: Dao follows nature / Zhuangzi: free wandering / Wang Yangming: unity of knowledge and action / Huineng: point at the mind
+Marcus：控制二分法+日课 / Seneca：时间 / Epictetus：控制最清晰
+Camus：荒诞+反抗 / Nietzsche：重新评估 / Watts：东西融合
+老子：道法自然 / 庄子：逍遥 / 王阳明：知行合一 / 慧能：直指人心
 ```

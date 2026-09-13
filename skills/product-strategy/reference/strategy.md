@@ -1,40 +1,41 @@
-# Strategy
+<!-- 隐式触发：波特五力/护城河/定位/战略/竞争分析/竞品/差异化 -->
+# 战略（精简版）
 
-## Porter's five forces
+## 波特五力
 
-Rivalry / new entrants / substitutes / suppliers / buyers — all five low = high profits
+同业竞争 / 新进入者 / 替代品 / 供应商 / 客户 — 5 力都低=利润高
 
-## Moats
+## 护城河
 
-- **Network effects** (strongest): more users = more value
-- **Scale economies**: bigger = cheaper
-- **Brand**: chosen because of the brand
-- **Switching costs**: hard to leave
+- **网络效应**（最强）：用户越多越有价值
+- **规模经济**：越大越便宜
+- **品牌**：因品牌选择
+- **切换成本**：难换竞品
 
-**Fake moats**: short-term first-mover / marketing gimmicks / price wars
+**伪护城河**：短期先发 / 营销噱头 / 价格战
 
-## Positioning
+## 定位
 
-Target customer + differentiation + reason
+目标客户 + 差异化 + 理由
 
-**Category leader** / **feature specialist** / **target-segment exclusive** / **price positioning**
+**品类领导者** / **特性专家** / **目标用户专属** / **价格定位**
 
-## Porter's three strategies
+## Porter 三战略
 
-Cost leadership / differentiation / focus — stuck in the middle = failure
+成本领先 / 差异化 / 集中化 — 夹在中间=失败
 
-## Three elements of good strategy
+## 好战略 3 要素
 
-Diagnosis + guiding policy + coherent action
+诊断 + 指导方针 + 连贯行动
 
-## Business models
+## 商业模式
 
-Subscription / free+ads / marketplace / licensing / leasing / usage-based / resale / subscription box / crowdsourcing / crowdfunding / P2P
+订阅 / 免费+广告 / 市场 / 许可 / 租赁 / 按使用付费 / 转售 / 订阅盒 / 众包 / 众筹 / P2P
 
-## Quick card
+## 速查卡
 
 ```
-Five forces / Moats: network + scale + brand + switching
-Positioning: target + differentiation + reason / Three strategies: cost/differentiation/focus
-Good strategy: diagnosis + policy + action
+波特五力 / 护城河：网络效应+规模+品牌+切换
+定位：目标+差异化+理由 / 三战略：成本/差异/集中
+好战略：诊断+指导+行动
 ```

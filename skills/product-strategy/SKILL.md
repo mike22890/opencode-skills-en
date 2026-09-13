@@ -1,41 +1,41 @@
 ---
 name: product-strategy
-description: Use for product/business/PMF/business models/growth/moats/LTV/CAC/startups.
+description: 产品策略与商业分析的综合框架。当需要 PMF 分析、商业模式画布、增长策略、用户研究、竞品分析、市场调研、定位策略、护城河分析、单位经济（LTV/CAC）、北极星指标、产品路线图、创业分析、商业计划书、战略决策时使用。
 version: 1.0.0
 metadata:
-  author: mike22890
+  author: Mike
   tags: product business pmf growth strategy marketing startup moat
 ---
 
-# Product Strategy
+# Product Strategy（产品 / 商业）
 
-## When to trigger
+## 何时触发
 
-Trigger keywords: product, business, PMF, business model, growth, marketing, strategy, customers, users, market, competition, positioning, moat, unit economics, LTV, CAC, startup, YC, fundraising.
+关键词命中即触发：产品、商业、PMF、商业模式、增长、营销、战略、客户、用户、市场、竞争、定位、护城河、单位经济、LTV、CAC、创业、YC、融资、变现、定价、策略。
 
-## 6 rules
+## 速记 6 条
 
-1. **PMF first**: don't scale before product-market fit
-2. **Unit economics**: LTV/CAC > 3 to be healthy
-3. **Growth flywheel**: the wheel must close the loop
-4. **10x better**: either 10x better than alternatives or a different dimension
-5. **Moat**: network effects / scale economies / brand / switching costs
-6. **Market analysis**: TAM/SAM/SOM before strategy
+1. **PMF 第一**：没达成 PMF 别想规模增长
+2. **单位经济**：LTV / CAC > 3 才健康
+3. **增长飞轮**：飞轮要形成闭环
+4. **10x 更好**：要么 10x 优于现有方案，要么不同维度
+5. **护城河**：网络效应 / 规模经济 / 品牌 / 切换成本
+6. **市场分析**：先 TAM / SAM / SOM 再定策略
 
-## Self-check
+## 自检清单
 
-- [ ] PMF validated?
-- [ ] Unit economics healthy (LTV/CAC)?
-- [ ] Clear growth flywheel?
-- [ ] 10x better than status quo?
-- [ ] What's the moat?
-- [ ] TAM/SAM/SOM clear?
+- [ ] 是否验证 PMF？
+- [ ] 单位经济是否健康（LTV/CAC）？
+- [ ] 是否有清晰增长飞轮？
+- [ ] 是否 10x 优于现状？
+- [ ] 护城河是什么？
+- [ ] TAM/SAM/SOM 是否清楚？
 
-## Loading references
+## 加载 reference
 
-| User says | Load |
+| 用户说 | 加载 |
 |---|---|
-| PMF / business model canvas / Jobs-to-be-Done / blue ocean | `reference/frameworks.md` |
-| AARRR / viral coefficient / retention / north star | `reference/growth.md` |
-| Porter's five forces / moats / positioning / strategy | `reference/strategy.md` |
-| Masters / anchors to learn | `reference/masters.md` |
+| PMF / 商业模式画布 / Jobs-to-be-Done / 蓝海 / 价值主张/ 商业计划/ 盈利模式 | `reference/frameworks.md` |
+| AARRR / 病毒系数 / 留存 / 北极星指标 / 增长飞轮/ 用户增长/ 获客/ 激活 | `reference/growth.md` |
+| 波特五力 / 护城河 / 定位 / 战略 / 竞争分析/ 竞品/ 差异化/ SWOT | `reference/strategy.md` |
+| 学谁 / 大师 / 锚点 / 商业大师/ 案例分析/ 成功模式 | `reference/masters.md` |

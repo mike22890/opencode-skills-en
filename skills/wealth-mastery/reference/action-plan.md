@@ -1,109 +1,167 @@
-# Action Plan (4 time horizons)
+<!-- 隐式触发：行动/开始/第一步/执行计划/立即做/短期/中期/长期 -->
+# 行动（4 时间维度）
 
-> Ignore life stages — just what to do, by time horizon.
+> 不分阶段，只看**该做什么**。按时间维度。
 
-## 1. Do immediately (tomorrow)
+## 1. 立即做（明天）
 
-**Personal finance check**:
-- [ ] **Calculate net worth**: assets - liabilities
-- [ ] **Check credit report**: annualcreditreport.com (free)
-- [ ] **Set up budget tracking**: YNAB / spreadsheet
-- [ ] **Set up auto-transfer**: automatic saving/investing on payday
-- [ ] **List all debts**: rates + balances + payoff plans
+### 个人财务检查
 
-**10-minute wins**:
-- [ ] Open a high-yield savings account
-- [ ] Set up an emergency fund account
-- [ ] Check employer 401k match
-- [ ] Cancel unused subscriptions
-- [ ] Organize account passwords (1Password)
+- [ ] **计算净资产**：资产 - 负债 = 净值
+- [ ] **查看信用分**：annualcreditreport.com（免费）
+- [ ] **订阅预算追踪**：YNAB / Mint / 自制表格
+- [ ] **设置自动转账**：每月 25 号自动储蓄 / 投资
+- [ ] **列出所有负债**：利率 + 余额 + 还款计划
 
-## 2. Short-term (within 3 months)
+### 立刻能做（10 分钟）
 
-**Foundations**:
-- [ ] **Emergency fund**: 3-6 months of expenses
-- [ ] **Kill high-interest debt**: credit cards / personal loans
-- [ ] **Basic insurance**: life (10x income) / critical illness / disability
-- [ ] **Simple will**: before 35
+- [ ] 开高息储蓄账户（4-5%）
+- [ ] 设置紧急金账户
+- [ ] 检查雇主 401k 匹配
+- [ ] 取消不用的订阅
+- [ ] 整理所有账户密码（1Password）
 
-**Start investing**:
-- [ ] **Open a brokerage**: Vanguard / Fidelity / Schwab
-- [ ] **Open retirement accounts**: 401k / IRA / Roth IRA
-- [ ] **DCA index funds**: S&P 500 + international + bonds
-- [ ] **Target savings rate 20%**
+## 2. 短期（3 个月内）
 
-**Build habits**:
-- [ ] Monthly finance review on the 1st
-- [ ] No impulse buys (72-hour rule)
-- [ ] Distinguish "need" from "want"
+### 基础搭建
 
-## 3. Medium-term (within 1 year)
+- [ ] **紧急金到位**：3-6 月生活费
+- [ ] **高息债消灭**：信用卡 / 个人贷款
+- [ ] **基本保险到位**：
+  - 人寿（10x 年收入）
+  - 重大疾病
+  - 伤残（雇主提供的）
+- [ ] **简单遗嘱**：35 岁前
 
-**Portfolio**:
-- [ ] **Target allocation** (by age)
-- [ ] **Rebalance once**
-- [ ] **Tax planning**: maximize 401k / IRA
-- [ ] **HSA** (if applicable)
-- [ ] **529** (if you have kids)
+### 投资起步
 
-**Long-term goals**:
-- [ ] Lock in mortgage (if buying)
-- [ ] Retirement math: how much do you need? Are you on track?
-- [ ] Contingency plan: job loss / illness / emergencies
+- [ ] **开 Brokerage 账户**：Vanguard / Fidelity / Schwab
+- [ ] **开退休账户**：401k / IRA / Roth IRA
+- [ ] **定投指数基金**：标普 500 + 国际 + 债券
+- [ ] **目标储蓄率 20%**
 
-**Behavior**:
-- [ ] Don't watch the market (once a week)
-- [ ] No chasing rallies or panic selling
-- [ ] Reject "this time is different"
+### 习惯建立
 
-## 4. Long-term (5+ years)
+- [ ] 每月 1 号做财务复盘
+- [ ] 不冲动消费（72 小时规则）
+- [ ] 区分"需要"和"想要"
 
-- [ ] **Keep DCA-ing**: regardless of direction
-- [ ] **Don't exit**: hold long-term
-- [ ] **Rebalance yearly**
-- [ ] **Learn**: 2 books a year on investing
+## 3. 中期（1 年内）
 
-**Risk management**: annual insurance review / update beneficiaries (life events) / tax updates (major changes)
+### 投资组合
 
-**Retirement**: concrete goals (location / lifestyle / costs) / side income / estate planning
+- [ ] **目标资产配置**（按年龄）
+- [ ] **再平衡 1 次**
+- [ ] **税务规划**：最大化 401k / IRA
+- [ ] **HSA**（如适用）
+- [ ] **529**（如有子女）
 
-## 5. Priorities by age
+### 长期目标
 
-- **25**: save + invest in yourself / no debt / learn finance
-- **30**: build portfolio / 401k + IRA / high risk tolerance
-- **35**: life + critical illness insurance / will / housing decision
-- **40**: max retirement accounts / kids' education fund / income peak
-- **50**: retirement trial runs / shift stocks→bonds / health coverage
-- **60**: concrete retirement plan / long-term care / withdrawal strategy
-- **65+**: 4% rule / Medicare / estate distribution
+- [ ] 房贷锁定（如要买房）
+- [ ] 退休计算：需要多少？现在够吗？
+- [ ] 应急计划：失业 / 疾病 / 紧急
 
-## 6. Behavioral rules (most important)
+### 行为
 
-**Always do**:
-- [ ] Save before investing
-- [ ] 6-12 month emergency fund
-- [ ] DCA index funds
-- [ ] Hold long-term
-- [ ] Ignore short-term swings
-- [ ] Optimize taxes
+- [ ] 不看股票行情（每周一次）
+- [ ] 不追涨杀跌
+- [ ] 拒绝"这次不一样"
 
-**Never do**:
-- ❌ Short-term trading
-- ❌ Leverage
-- ❌ Trading on tips
-- ❌ Chasing rallies / panic selling
-- ❌ All-in on one stock
-- ❌ "This time is different"
-- ❌ Following emotions
+## 4. 长期（5 年+）
 
-## 7. Quick card
+### 复利 + 多元化
+
+- [ ] **持续定投**：不管涨跌
+- [ ] **不退出**：长期持有
+- [ ] **每年再平衡**
+- [ ] **学习投资知识**：每年读 2 本书
+
+### 风险管控
+
+- [ ] 保险审查（每年）
+- [ ] 受益人更新（人生大事）
+- [ ] 税务更新（重大变化）
+
+### 退休规划
+
+- [ ] 退休目标具体化（地点 / 生活方式 / 成本）
+- [ ] 副业 / 第二职业
+- [ ] 遗产规划
+
+## 5. 不同年龄的优先事项
+
+### 25 岁
+
+- 储蓄 + 投资自己
+- 拒绝负债
+- 学习财务
+
+### 30 岁
+
+- 投资组合建立
+- 401k + IRA
+- 风险承受高
+
+### 35 岁
+
+- 人寿 + 重大疾病保险
+- 遗嘱
+- 房产决策
+
+### 40 岁
+
+- 退休账户最大化
+- 子女教育金
+- 收入高峰
+
+### 50 岁
+
+- 退休"试算"
+- 减股票 + 加债券
+- 健康保险
+
+### 60 岁
+
+- 退休具体计划
+- 长期护理
+- 资产提取策略
+
+### 65 岁+
+
+- 4% 规则
+- Medicare
+- 遗产分配
+
+## 6. 行为准则（最重要）
+
+### 永远做
+
+- [ ] 先储蓄后投资
+- [ ] 紧急金 6-12 月
+- [ ] 定投指数基金
+- [ ] 长期持有
+- [ ] 不看短期波动
+- [ ] 节税
+
+### 永远不做
+
+- ❌ 短线交易
+- ❌ 加杠杆
+- ❌ 听消息
+- ❌ 追涨杀跌
+- ❌ All-in 单只股票
+- ❌ "这次不一样"
+- ❌ 跟情绪
+
+## 7. 速查卡
 
 ```
-Immediate — net worth + credit + budget
-Short — emergency fund + kill high-interest debt + insurance + start DCA
-Medium — allocation + 401k/IRA + tax planning
-Long — compounding + rebalancing + retirement planning
+立即 —— 计算净资产 + 信用 + 预算
+短期 —— 紧急金 + 消灭高息债 + 保险 + 定投起步
+中期 —— 资产配置 + 401k/IRA + 税务规划
+长期 —— 复利 + 再平衡 + 退休规划
 
-Always — save + emergency fund + DCA + long-term
-Never — short-term trading + leverage + tips + chasing
+永远做 —— 储蓄 + 紧急金 + 定投 + 长期
+永远不做 —— 短线 + 杠杆 + 听消息 + 追涨
 ```

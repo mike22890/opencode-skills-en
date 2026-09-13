@@ -1,32 +1,33 @@
-# Product / Business Masters
+<!-- 隐式触发：商业大师/案例分析/成功模式/商业模式参考 -->
+# 产品/商业大师（精简版）
 
-## Paul Graham (YC)
+## Paul Graham（YC）
 
-- Growth is the only metric / 18-month rule / Ramen profitable
+- 增长是唯一指标 / 18 个月法则 / Ramen profitable
 - Do Things That Don't Scale / Keep Your Identity Small
 
-## Andy Rachleff (father of PMF)
+## Andy Rachleff（PMF 之父）
 
-- PMF is the only thing that matters / find 5-10 people who love it
-- Sean Ellis test (> 40% disappointed) / don't think about scale before
+- PMF 是唯一重要的事 / 找 5-10 个爱你的人
+- Sean Ellis 测试（>40% 失望）/ 之前别想规模
 
-## Jeff Bezos (Amazon)
+## Jeff Bezos（Amazon）
 
-- Day 1 mentality / customer obsession / long-term thinking
-- Flywheel / 6-page memos (no PPT) / decide with 70% of information
+- Day 1 心态 / 客户至上 / 长期主义
+- Flywheel 飞轮 / 6 页纸（不 PPT）/ 70% 信息就决策
 
 ## Buffett + Munger
 
-- Value investing / long-term holding / compounding
-- 100+ mental models / invert / moats
+- 价值投资 / 长期持有 / 复利
+- 多元思维 100+ 模型 / 反过来想 / 护城河
 
 ## Marc Andreessen
 
-- PMF is everything / software eats the world / network effects
+- PMF 是唯一 / 软件吃掉世界 / 网络效应
 
-## Quick card
+## 速查卡
 
 ```
-Graham: growth + 18-month rule / Rachleff: PMF + Sean Ellis
-Bezos: Day 1 + customers + long-term / Buffett: value + compounding + multi-model
+Graham：增长+18月法则 / Rachleff：PMF+Sean Ellis
+Bezos：Day1+客户+长期 / Buffett：价值+复利+多元
 ```

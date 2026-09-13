@@ -1,48 +1,49 @@
-# Storytelling
+<!-- 隐式触发：讲故事/Pixar/英雄之旅/Hook/情节设计/叙事结构 -->
+# 讲故事（精简版）
 
-## Pixar 22 steps
+## Pixar 22 步
 
 ```
 Once upon a time → Every day → One day → Because of that ×3 → Until finally → And ever since
 ```
 
-## Golden circle (Sinek)
+## 黄金圈（Sinek）
 
 ```
-Why (belief) → How (method) → What (product)
+Why（信念）→ How（方法）→ What（产品）
 ```
 
-Most companies say What→How→Why. Great companies say Why→How→What.
+大多数公司说 What→How→Why。伟大公司说 Why→How→What。
 
-**Example**: Apple: Why challenge the status quo → How simple design → What computers/phones
+**例**：Apple：Why 挑战现状 → How 简洁设计 → What 电脑/手机
 
 ## Hook-Story-Offer
 
-1. **Hook**: counterintuitive fact/question/data/story
-2. **Story**: personal experience/customer case
-3. **Offer**: clear CTA + urgency + risk reversal
+1. **Hook**：反常事实/问题/数据/故事
+2. **Story**：个人经历/客户案例
+3. **Offer**：明确 CTA + 限时 + 风险反转
 
-## Story arc
-
-```
-Beginning → Rising → Climax → Falling → End
-```
-
-**Hero's journey**: ordinary world → call → refusal → mentor → crossing → trials → abyss → treasure → return
-
-## Story + data
+## 故事弧
 
 ```
-"I almost went bankrupt because I couldn't find PMF."
-"Data shows 90% of startups die from lack of PMF."
+开头 → 上升 → 高潮 → 下降 → 结局
 ```
 
-## Types
+**英雄之旅**：普通世界 → 召唤 → 拒绝 → 导师 → 跨越 → 考验 → 深渊 → 宝物 → 回归
 
-Phoenix / origin / educational / customer / mission / future
-
-## Quick card
+## 故事+数据
 
 ```
-Pixar 22 steps / Golden circle Why→How→What / HSO Hook→Story→Offer / Story + data
+"我曾经差点破产，因为没找到 PMF。"
+"数据显示 90% 的 startup 死因是 PMF。"
+```
+
+## 类型
+
+涅槃型 / 起点型 / 教育型 / 客户型 / 使命型 / 未来型
+
+## 速查卡
+
+```
+Pixar 22 步 / 黄金圈 Why→How→What / HSO Hook→Story→Offer / 故事+数据
 ```

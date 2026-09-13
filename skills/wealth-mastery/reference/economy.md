@@ -1,78 +1,143 @@
-# Economic Cycles (4 stages)
+<!-- 隐式触发：经济周期/通胀/利率/货币政策/衰退/宏观/市场趋势 -->
+# 经济周期（4 阶段）
 
-## 1. The 4 stages
+## 1. 经济 4 阶段
 
 ```
-  Expansion    Peak        Recession   Depression  Recovery
-  ↑            ↑           ↓           ↓           ↑
-  Boom ──────→ Peak ──────→ Recession ─→ Depression ─→ Recovery
+  扩张        顶峰        衰退        萧条        复苏
+  ↑          ↑          ↓          ↓          ↑
+ 繁荣 ──────→ 顶 ──────→ 衰退 ──────→ 萧条 ──────→ 复苏
        A              B           C            D           A
 ```
 
-| Stage | GDP | Employment | Inflation | Rates | Stocks |
+### 阶段特征
+
+| 阶段 | GDP | 就业 | 通胀 | 利率 | 股票 |
 |---|---|---|---|---|---|
-| **Expansion** | ↑ | ↑ | ↑ | ↑ | ↑ |
-| **Peak** | Stalls | Full | High | High | Top |
-| **Recession** | ↓ | ↓ | ↓ | ↓ | ↓ |
-| **Depression** | Deep ↓ | Mass unemployment | Deep ↓ | Deep ↓ | Deep ↓ |
-| **Recovery** | ↑ | ↑ | Low | Low | ↑ |
+| **扩张** | ↑ | ↑ | ↑ | ↑ | ↑ |
+| **顶峰** | 停滞 | 满 | 高 | 高 | 顶 |
+| **衰退** | ↓ | ↓ | ↓ | ↓ | ↓ |
+| **萧条** | 极 ↓ | 大失业 | 极 ↓ | 极 ↓ | 极 ↓ |
+| **复苏** | ↑ | ↑ | 低 | 低 | ↑ |
 
-## 2. Inflation vs deflation
+## 2. 通胀 vs 通缩
 
-**Inflation**: general price rise / money loses value / good for stocks, real estate, commodities / bad for bonds, cash
+### 通胀（Inflation）
 
-**Deflation**: general price decline / money gains value / good for cash, bonds / bad for stocks, real estate (debt burden grows) / prolonged deflation = trap
+- 价格普遍上涨
+- 钱贬值
+- 利好：股票 / 房地产 / 商品
+- 利空：债券 / 现金
 
-**Healthy inflation**: 2-3% = healthy / > 5% = alarm / < 1% = deflation risk
+### 通缩（Deflation）
 
-## 3. Interest rates
+- 价格普遍下降
+- 钱更值钱
+- 利好：现金 / 债券
+- 利空：股票 / 房地产（债务负担变重）
+- 长期通缩 = 陷阱
 
-- **Cuts**: stimulate economy, good for stocks/real estate
-- **Hikes**: suppress inflation, bad for stocks/real estate
-- **Zero rates**: liquidity trap
-- **Negative rates**: extreme measure
+### 健康通胀
 
-**Central banks**: Fed (federal funds rate) / ECB (refinancing rate) / PBoC (LPR / reverse repos)
+- 2-3% / 年 = 健康
+- > 5% = 警报
+- < 1% = 通缩风险
 
-## 4. Monetary vs fiscal policy
+## 3. 利率
 
-- **Monetary (central bank)**: rates / QE / balance-sheet runoff / short-term tool
-- **Fiscal (government)**: taxes / spending / deficits / long-term tool
-- **Together**: recession → cut rates + spend more / inflation → hike + spend less
+### 利率影响
 
-## 5. Asset performance across cycles
+- **降息**：刺激经济，利好股票 / 房地产
+- **加息**：压制通胀，利空股票 / 房地产
+- **零利率**：流动性陷阱
+- **负利率**：极端手段
 
-| Asset | Expansion | Peak | Recession | Depression | Recovery |
+### 中央银行
+
+- 美联储（Fed）：联邦基金利率
+- 欧央行（ECB）：再融资利率
+- 中国央行（PBOC）：LPR / 逆回购
+
+## 4. 货币政策 vs 财政政策
+
+### 货币政策（央行）
+
+- 利率 / 量化宽松 / 缩表
+- 短期工具
+- 例：美联储加息 0.25%
+
+### 财政政策（政府）
+
+- 税收 / 支出 / 赤字
+- 长期工具
+- 例：1.9 万亿疫情纾困
+
+### 配合
+
+- 衰退时：央行降息 + 政府增加支出
+- 通胀时：央行加息 + 政府减少支出
+
+## 5. 资产在经济周期中的表现
+
+| 资产 | 扩张 | 顶峰 | 衰退 | 萧条 | 复苏 |
 |---|---|---|---|---|---|
-| Stocks | ↑ | Top | ↓ | Deep ↓ | ↑ |
-| Bonds | ↓ | ↓ | ↑ | ↑ | Top |
-| Gold | Flat | ↑ | ↑ | ↑ | ↑ |
-| Cash | ↓ | ↓ | ↑ | ↑ | ↑ |
-| Real estate | ↑ | ↑ | ↓ | Deep ↓ | Recovers |
-| Commodities | ↑ | Top | ↓ | ↓ | ↑ |
+| 股票 | ↑ | 顶 | ↓ | 极 ↓ | ↑ |
+| 债券 | ↓ | ↓ | ↑ | ↑ | 顶 |
+| 黄金 | 平 | ↑ | ↑ | ↑ | ↑ |
+| 现金 | ↓ | ↓ | ↑ | ↑ | ↑ |
+| 房地产 | ↑ | ↑ | ↓ | 极 ↓ | 恢复 |
+| 商品 | ↑ | 顶 | ↓ | ↓ | ↑ |
 
-**Diversified portfolios smooth cycle swings.**
+**组合能平滑周期波动**。
 
-## 6. Leading / coincident / lagging indicators
+## 6. 经济指标的领先 / 同步 / 滞后
 
-- **Leading**: interest rates / yield curve (inversion = recession warning) / new orders / consumer confidence / housing starts
-- **Coincident**: GDP / employment / industrial production / income
-- **Lagging**: unemployment rate / CPI / rate changes
+### 领先指标（先动）
 
-**Application**: leading predicts / coincident confirms / lagging verifies the trend
+- 利率 / 收益率曲线（倒挂 = 衰退预警）
+- 新订单
+- 消费者信心
+- 房屋开工
 
-## 7. Yield curve (recession warning)
+### 同步指标
 
-**Normal**: long rates > short rates / upward curve
-**Inverted**: long rates < short rates / historically **every inversion precedes a recession** / but not immediately (6-18 months lead)
+- GDP
+- 就业
+- 工业生产
+- 收入
 
-## 8. Quick card
+### 滞后指标
+
+- 失业率
+- CPI
+- 利率变动
+
+### 应用
+
+- 看领先指标预测
+- 看同步指标确认
+- 看滞后指标确认趋势
+
+## 7. 收益率曲线（衰退预警）
+
+### 正常
+
+- 长期利率 > 短期利率
+- 曲线向上
+
+### 倒挂
+
+- 长期利率 < 短期利率
+- 历史上**每次倒挂之后都衰退**
+- 但不立即衰退（领先 6-18 个月）
+
+## 8. 速查卡
 
 ```
-4 stages — expansion / peak / recession / recovery
-Inflation — healthy 2-3%, >5% alarm, <1% deflation risk
-Rates — cuts help stocks, hikes hurt
-Monetary + fiscal — short-term + long-term
-Rotation — recession buy bonds, depression buy cash, recovery buy stocks
-Inversion — recession warning, 6-18 months lead
+4 阶段 —— 扩张 / 顶峰 / 衰退 / 复苏
+通胀 —— 健康 2-3%，>5% 警报，<1% 通缩
+利率 —— 降息利好股票，加息利空
+货币 + 财政 —— 短期 + 长期
+资产轮动 —— 衰退买债券，萧条买现金，复苏买股票
+倒挂 —— 衰退预警，领先 6-18 月
 ```

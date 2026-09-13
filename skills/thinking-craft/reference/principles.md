@@ -1,60 +1,61 @@
-# Thinking Principles
+<!-- 隐式触发：第一性原理/系统思维/二阶思维/反向思考/拆解/本质/底层逻辑 -->
+# 思考原则（精简版）
 
-## 1. First principles
+## 1. 第一性原理
 
-Decompose to irreducible facts → rebuild. Never accept "it's always been this way".
+拆到不能再拆的基本事实 → 重新构建。不接受"一直是这样"。
 
-**Example**: Tesla battery $600→$80 (raw material cost) / SpaceX rocket $65M→material cost
+**例**：特斯拉电池 $600→$80（原材料成本）/ SpaceX 火箭 $6500 万→材料成本
 
-## 2. Second-order thinking
+## 2. 二阶思维
 
-Think not just "then", but "and then what".
+不仅想"然后"，想"然后的然后"。
 
-| First-order | Second-order |
+| 一阶 | 二阶 |
 |---|---|
-| Prices rise → buy | → others buy too → bubble → crash |
-| Raise → happy | → colleague envy → bad relations |
-| AI replaces → fear | → learn AI → advantage |
+| 房价涨→买 | →别人也买→泡沫→崩 |
+| 加薪→高兴 | →同事嫉妒→关系差 |
+| AI替代→怕 | →学AI→优势 |
 
-**Key question**: And then? In 5 years? If everyone does it?
+**关键问**：然后呢？5年后呢？每个人都做呢？
 
-## 3. Inversion (Munger)
+## 3. 反向思考（Munger）
 
-Think how to fail first, then how to succeed.
+先想怎么失败，再想怎么成功。
 
-| Normal | Inverted |
+| 正常 | 反向 |
 |---|---|
-| How to succeed | How to fail → avoid |
-| How to retain employees | How to lose them → prevent |
-| How to make money | How to lose money → avoid |
+| 怎么成功 | 怎么失败→避开 |
+| 怎么留住员工 | 怎么失去→避免 |
+| 怎么赚钱 | 怎么亏钱→避开 |
 
-## 4. Systems thinking
+## 4. 系统思维
 
-See the whole + relationships, not just parts + events.
+看整体+关系，不只看部分+事件。
 
-**Concepts**: feedback loops / leverage points / delays / emergence / boundaries
+**概念**：反馈循环 / 杠杆点 / 延迟 / 涌现 / 边界
 
-## 5. Retrospective loop
+## 5. 复盘循环
 
-OODA: Observe→Orient→Decide→Act / PDCA: Plan→Do→Check→Act
+OODA：Observe→Orient→Decide→Act / PDCA：Plan→Do→Check→Act
 
-**Personal cadence**: daily (3 things) / weekly (wins + failures) / monthly (goal progress) / yearly (leverage + waste)
+**个人复盘**：日（3件事）/ 周（成就+失败）/ 月（目标进展）/ 年（杠杆+浪费）
 
-**Key**: honest / specific / actionable
+**关键**：诚实 / 具体 / 可行动
 
-## 6. Metacognition
+## 6. 元认知
 
-Thinking about your thinking.
+思考自己的思考。
 
-| Level | Meaning |
+| 层次 | 含义 |
 |---|---|
-| L1 | I am thinking |
-| L2 | Aware I am thinking |
-| L3 | Evaluating my thinking |
-| L4 | Adjusting my thinking |
+| L1 | 我在思考 |
+| L2 | 意识到在思考 |
+| L3 | 评估思考 |
+| L4 | 调整思考 |
 
-## 7. Quick card
+## 7. 速查卡
 
 ```
-First principles → decompose fully / Second-order → and then what / Inversion → fail first / Systems → whole + relations / Retro → reverse-engineer / Metacognition → think about thinking
+第一性→拆到底 / 二阶→然后的然后 / 反向→先想失败 / 系统→整体+关系 / 复盘→事后反推 / 元认知→思考思考
 ```

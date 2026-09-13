@@ -1,43 +1,43 @@
 ---
 name: wealth-mastery
-description: Use for money/investing/stocks/funds/ETFs/compounding/economic cycles/asset allocation/life planning.
+description: 财富管理与人生规划的综合指南。当需要理财、投资、股票、基金、ETF、债券、房地产、复利计算、资产配置、经济周期分析、退休规划、税务优化、保险规划、副业/被动收入、财务自由路径、人生阶段财务策略时使用。
 version: 1.0.0
 metadata:
-  author: mike22890
+  author: Mike
   tags: wealth finance money investing stock economy life-planning compound-interest
 ---
 
-# Wealth Mastery (Money + Life Planning)
+# Wealth Mastery（财富 + 人生规划）
 
-## When to trigger
+## 何时触发
 
-Trigger keywords: money, finance, investing, stocks, funds, ETFs, bonds, real estate, compounding, inflation, economy, asset allocation, financial planning, life planning, staged strategy, what should I do.
+关键词命中即触发：钱、金融、投资、股票、基金、ETF、债券、房地产、复利、通胀、经济、资产配置、理财、人生规划、阶段策略、该做什么、存钱、赚钱、财务自由、退休、保险。
 
-## 6 rules
+## 速记 6 条
 
-1. **Save before investing**: 6-12 month emergency fund → high-yield debt → stocks
-2. **Compounding is the eighth wonder**: time > amount
-3. **Diversify**: never all-in on one stock / one market
-4. **Long-term**: judge on 5+ year horizons
-5. **Inflation tax**: cash loses value
-6. **No leverage**: leverage amplifies human weakness
+1. **先储蓄后投资**：紧急金 6-12 月 → 高息债 → 股票
+2. **复利是第八奇迹**：时间 > 金额
+3. **分散**：不要 all-in 一只 / 一个市场
+4. **长期**：5 年以上才看
+5. **通胀税**：现金贬值
+6. **不要加杠杆**：杠杆放大人性弱点
 
-## Self-check
+## 自检清单
 
-- [ ] 6-12 month emergency fund?
-- [ ] Diversified (stocks + bonds + others)?
-- [ ] Long-term holding (5+ years)?
-- [ ] Not chasing rallies or panic-selling?
-- [ ] No leverage?
-- [ ] Low costs (low-fee index funds)?
+- [ ] 有 6-12 月紧急金？
+- [ ] 投资分散（股票 + 债券 + 其他）？
+- [ ] 长期持有（5+ 年）？
+- [ ] 不追涨杀跌？
+- [ ] 不加杠杆？
+- [ ] 成本低（低费率指数基金）？
 
-## Loading references
+## 加载 reference
 
-| User says | Load |
+| 用户说 | 加载 |
 |---|---|
-| Compounding / risk-return / asset classes / inflation / behavioral finance | `reference/fundamentals.md` |
-| Stocks / funds / ETFs / allocation / DCA / valuation | `reference/investing.md` |
-| Economic cycles / inflation / rates / monetary policy / recessions | `reference/economy.md` |
-| Age 20-30 / 30-40 / 40-50 / 50-60 / 60+ strategies | `reference/life-stages.md` |
-| Immediate / short / medium / long-term actions | `reference/action-plan.md` |
-| Buffett / Munger / Dalio / Bodo / Howard Marks | `reference/masters.md` |
+| 复利 / 风险收益 / 资产类别 / 通胀 / 行为金融 / 理财基础/ 钱生钱/ 储蓄 | `reference/fundamentals.md` |
+| 股票 / 基金 / ETF / 资产配置 / 定投 / 估值 / 选股/ 投资组合/ 指数 | `reference/investing.md` |
+| 经济周期 / 通胀 / 利率 / 货币政策 / 衰退 / 宏观/ 央行政策/ 市场趋势 | `reference/economy.md` |
+| 20-30 / 30-40 / 40-50 / 50-60 / 60+ 阶段策略 / 年龄/ 人生阶段/ 退休规划 | `reference/life-stages.md` |
+| 立即做 / 短期 / 中期 / 长期 / 行动 / 开始/ 第一步/ 执行计划 | `reference/action-plan.md` |
+| 巴菲特 / 芒格 / 达里奥 / 博多 / 霍华德 / 投资大师/ 成功案例 | `reference/masters.md` |

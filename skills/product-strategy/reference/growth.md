@@ -1,32 +1,33 @@
-# Growth
+<!-- 隐式触发：AARRR/病毒系数/留存/北极星指标/增长飞轮/用户增长/获客 -->
+# 增长（精简版）
 
-## AARRR (pirate metrics)
+## AARRR（海盗指标）
 
-Acquisition → Activation → Retention → Revenue → Referral. Find the bottleneck (optimize the stage with the worst conversion).
+获客→激活→留存→收入→推荐。找瓶颈（哪阶段转化率最低就优化哪阶段）。
 
-## Viral coefficient
+## 病毒系数
 
-K = invites sent × invite conversion rate. K > 1 for growth. Lower friction + raise incentives.
+K = 邀请数 × 邀请转化率。K > 1 才增长。降低门槛+提高激励。
 
-## Retention curves
+## 留存曲线
 
-Flat (good) / slow decline (acceptable) / cliff (bad). Cohort analysis groups by signup date.
+平坦型（好）/ 缓慢下降（可接受）/ 悬崖型（差）。Cohort 分析按注册时间分组。
 
-## North star metric
+## 北极星指标
 
-1 most important metric. Reflects value / measurable / leading indicator / team alignment.
+1 个最重要的指标。反映价值/可衡量/前置指标/团队对齐。
 
-## Tactics
+## 策略
 
-- **Acquisition**: SEO + paid + referral + partnerships
-- **Activation**: simplify onboarding + Aha moment
-- **Retention**: notifications + habits + value
-- **Monetization**: pricing + paths + renewals
-- **Referral**: two-sided incentives + sharing
+- **获客**：SEO+付费+推荐+合作
+- **激活**：简化 onboarding + Aha moment
+- **留存**：推送+习惯+价值
+- **变现**：定价+路径+续费
+- **推荐**：双边激励+分享
 
-## Quick card
+## 速查卡
 
 ```
-AARRR 5 stages / K>1 for growth / flat retention curve
-North star: 1 metric / acquire + activate + retain + monetize + refer
+AARRR 5阶段 / K>1 增长 / 留存平坦型
+北极星 1个指标 / 获客+激活+留存+变现+推荐
 ```

@@ -1,74 +1,74 @@
-# Comparison Methodology
+# 对比方法论
 
-## Reading specs
+## 参数怎么读
 
-### Watch the decisive specs, not all of them
-Every category has 3-5 **decisive specs**; the rest is noise.
+### 看关键参数，不看全部
+每个品类有 3-5 个**决定性参数**，其他是噪音。
 
-| Category | Decisive specs |
+| 品类 | 决定性参数 |
 |---|---|
-| Laptop | CPU/RAM/screen/battery/weight |
-| Phone | Chip/screen/camera/battery/OS |
-| Headphones | Sound/ANC/battery/comfort |
-| Monitor | Resolution/refresh/color gamut/panel |
-| Keyboard | Switches/layout/connectivity/build |
+| 笔记本 | CPU/内存/屏幕/续航/重量 |
+| 手机 | 芯片/屏幕/相机/电池/系统 |
+| 耳机 | 音质/降噪/续航/佩戴 |
+| 显示器 | 分辨率/刷新率/色域/面板 |
+| 键盘 | 轴体/配列/连接/做工 |
 
-### Spec traps
-- One standout spec ("100MP camera" but poor imaging)
-- Theoretical vs measured (rated battery vs real)
-- Mixed standards (USB 3.2 Gen 1 = 3.0)
+### 参数陷阱
+- 单参数突出（"1 亿像素"但成像差）
+- 理论值 vs 实测（标称续航 vs 实际）
+- 新旧标准混用（USB 3.2 Gen 1 = 3.0）
 
-## Reading reviews
+## 评测怎么看
 
-### Grading
-1. **Professional reviews** (with instrument data) — most credible
-2. **Long-term use** (3+ months) — most valuable
-3. **Unboxing videos** — appearance reference
-4. **Sponsored videos** — beware (conflict of interest)
+### 分级
+1. **专业评测**（有仪器数据）——最可信
+2. **长期使用**（用了 3 个月+）——最有价值
+3. **开箱视频**——参考外观
+4. **带货视频**——警惕（有利益）
 
-### Focus on
-- **Downsides section** (anyone can praise)
-- **Head-to-head tests** (same-scenario comparisons)
-- **Long-term feedback** (after 6 months)
-- **Failure reports** (search "model + problem")
+### 重点看
+- **缺点部分**（优点谁都会说）
+- **对比测试**（同场景 PK）
+- **长期反馈**（用了半年后的评价）
+- **翻车记录**（搜索"型号 + 问题/翻车"）
 
-## Reading reputation
+## 口碑怎么读
 
-### Marketplace reviews
+### 电商评价
 ```
-1. Read bad reviews (specific problems)
-2. Read neutral reviews (balanced truth)
-3. Read praise keywords (recurring points)
-4. Beware: concentrated praise/templated praise/new-account praise
+1. 看差评（具体问题）
+2. 看中评（真实平衡）
+3. 看好评关键词（重复出现的点）
+4. 警惕：集中好评/模板好评/新号好评
 ```
 
-### Community discussion
-- Reddit / forums / professional communities
-- Search: "model + review" / "model + regret" / "model + vs"
-- Long-term users' complaints = real defects
+### 社区讨论
+- Reddit / 知乎 / 贴吧 / 专业论坛
+- 搜索："型号 + 怎么样" / "型号 + 后悔" / "型号 + 对比"
+- 长期用户的抱怨点 = 真实缺陷
 
-## Brand tiers
+## 品牌选择
 
-| Tier | Traits | For |
+| 类型 | 特点 | 适合 |
 |---|---|---|
-| Top brands | Stable/expensive/good support | Peace of mind |
-| Second tier | Value/aggressive specs | Budget-sensitive |
-| White label | Cheap/risky | Not recommended |
+| 头部品牌 | 稳/贵/售后好 | 省心优先 |
+| 二线品牌 | 性价比/参数激进 | 预算敏感 |
+| 白牌/杂牌 | 便宜/风险高 | 不推荐（除非了解） |
 
-## Used-market judgment
+## 二手判断
 
-- **Look**: condition/wear/repair history
-- **Ask**: why selling/warranty remaining
-- **Verify**: inspect in person / platform verification
-- **Price**: reasonable used = new × 0.6-0.8 (by age)
-- **Traps**: refurbished sold as new/hidden defects/no warranty
+- **看**：成色/使用痕迹/维修史
+- **问**：为什么卖/保修剩多久
+- **验**：当面验机/走平台验机
+- **价**：二手合理价 = 新价 × 0.6-0.8（看年限）
+- **坑**：翻新当全新/暗病/无保修
 
-## Quick card
+## 速查卡
 
 ```
-Specs: 3-5 decisive ones
-Reviews: pro > long-term > unboxing; focus on downsides
-Reputation: bad > neutral > good; search "regret"
-Brands: top stable / second-tier value / white label cautious
-Used: 0.6-0.8x + verify + warranty
+参数：3-5 个决定性的
+评测：专业 > 长期 > 开箱；重点看缺点
+口碑：差评 > 中评 > 好评；搜"后悔""翻车"
+品牌：头部稳 / 二线性价比 / 白牌慎
+二手：0.6-0.8 折 + 验机 + 保修
 ```

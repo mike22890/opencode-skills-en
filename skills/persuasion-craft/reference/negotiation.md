@@ -1,33 +1,34 @@
-# Negotiation (Voss)
+<!-- 隐式触发：谈判/Voss/镜像/校准问题/讨价还价/妥协/协商 -->
+# 谈判（Voss 精简版）
 
-## 7 techniques
+## 7 大技巧
 
-| Technique | Usage |
+| 技巧 | 用法 |
 |---|---|
-| **Mirroring** | Repeat their last few words (questioning tone) |
-| **Calibrated questions** | "What/how" instead of "why" |
-| **Labeling** | "It seems/sounds like + you + emotion" |
-| **Anchoring** | State the number first (extreme but reasonable) |
-| **Silence** | Ask, then shut up (3-5 seconds) |
-| **Never split the difference** | Don't compromise — find the real problem |
-| **Black swans** | Find what they care about but haven't said |
+| **镜像** | 重复对方最后几字（问号语气） |
+| **校准** | "什么/怎么"代替"为什么" |
+| **标签** | "似乎/看起来/听起来 + 你 + 情绪" |
+| **锚定** | 先说数字（极端但合理） |
+| **沉默** | 问完闭嘴（3-5 秒） |
+| **不分胜负** | 不折中，找真问题 |
+| **黑天鹅** | 找没说但真正在意的 |
 
-## Flow
+## 流程
 
-Prepare → rapport → information gathering → influence → close
+准备 → rapport → 信息收集 → 影响 → 成交
 
 ## BATNA
 
-What can you do if talks collapse? Stronger BATNA = stronger position
+谈崩了能做什么？越强谈判力越强
 
-## Types
+## 类型
 
-- **Distributive** (fixed pie): anchor + never split
-- **Integrative** (create value): gather info + find black swans
+- **分配式**（固定资源）：锚定+不分胜负
+- **整合式**（创造价值）：信息收集+找黑天鹅
 
-## Quick card
+## 速查卡
 
 ```
-Mirror / calibrated / label / anchor / silence / never split / black swans
-Flow: prepare / rapport / gather / influence / close
+镜像/校准/标签/锚定/沉默/不分胜负/黑天鹅
+流程：准备/rapport/收集/影响/成交
 ```

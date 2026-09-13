@@ -1,49 +1,164 @@
-# Persuasion Masters (6 anchors)
+<!-- 隐式触发：学谁/大师/锚点/风格模仿/演讲技巧/TED风格 -->
+# 表达 / 说服大师（4 大锚点）
 
-## 1. Pixar (storytelling)
+## 1. Pixar（讲故事）
 
-- **Story > information**
-- Emotion + story = remembered
-- Key works: Toy Story (loneliness + acceptance) / Finding Nemo (fatherhood + letting go) / Soul (life + meaning) / Coco (death + memory)
+### 核心理念
 
-## 2. Chris Voss (negotiation)
+- **故事 > 信息**
+- 情感 + 故事 = 记得
+- 故事让人共鸣
 
-- **Never Split the Difference**
-- FBI negotiation tactics
-- Core: understand the other side's **real needs**
-- Techniques: mirroring / calibrated questions / labeling / black swans
+### 22 步公式
 
-## 3. Robert Cialdini (influence)
+（见 storytelling.md）
 
-- *Influence*
-- 6 psychological principles: reciprocity / scarcity / authority / consistency / liking / social proof
-- Never abuse them
+### 关键作品
 
-## 4. Simon Sinek (TED)
+- 《玩具总动员》：孤独 + 接纳
+- 《海底总动员》：父爱 + 放手
+- 《心灵奇旅》：生活 + 意义
+- 《寻梦环游记》：死亡 + 记忆
 
-- **Start With Why**
-- Most companies get the order wrong; great companies start with Why
-- TED techniques: golden circle / story > data / 18 minutes / strong ending / presence
+### 学什么
 
-## 5. Nancy Duarte (presentations)
+- 用故事框架思考
+- 情感是核心
+- 22 步公式可套用
 
-- *Slide:ology*
-- **Slides support, they're not the star** — the speaker is
-- Principles: speaker leads, few words + big images, rhythm, story + data
+## 2. Chris Voss（谈判）
 
-## 6. Ramit Sethi (sales / personal brand)
+### 核心理念
 
-- **Direct + practical**, no posturing
-- Sales: pain → solution → case → CTA
-- Long-term trust first
+- **Never Split the Difference**（《掌控谈话》）
+- 用 FBI（联邦调查局）谈判技巧
+- 关键是**了解对方真实需求**
 
-## 7. Quick card
+### 关键技巧
+
+- 镜像
+- 校准问题
+- 标签
+- 黑天鹅
+
+### 学什么
+
+- 谈判不只是数字
+- 关键是找**真问题**
+- 用问问题代替陈述
+
+## 3. Robert Cialdini（影响力）
+
+### 核心理念
+
+- 《影响力》（Influence）
+- 6 大心理学原则
+- 不滥用
+
+### 6 大法则
+
+- 互惠 / 稀缺 / 权威
+- 一致 / 喜好 / 共识
+
+### 学什么
+
+- 影响力有科学基础
+- 不滥用（道德边界）
+- 真实价值优先
+
+## 4. Simon Sinek（TED）
+
+### 核心理念
+
+- **Start With Why**（《从为什么开始》）
+- 大多数公司说错了顺序
+- 伟大公司从 Why 开始
+
+### TED 演讲技巧
+
+- **黄金圈**：Why → How → What
+- **讲故事 > 讲数据**
+- **18 分钟**：TED 标准时长（注意力曲线）
+- **结尾有力**：金句收尾
+- **现场感**：让观众感受到
+
+### 学什么
+
+- 永远先说 Why
+- 故事比数据
+- 结尾要有力
+
+## 5. Nancy Duarte（演讲）
+
+### 核心理念
+
+- 《演说之禅》
+- **幻灯片是辅助，不是主角**
+- 演讲者是主角
+
+### 关键原则
+
+- 演讲者主导，PPT 辅助
+- 幻灯片：少字 + 大图
+- 节奏：起伏
+- 故事 + 数据
+
+### 学什么
+
+- PPT 不是演讲的全部
+- 演讲者比 PPT 重要
+- 节奏感
+
+## 6. Ramit Sethi（销售 / 个人品牌）
+
+### 核心理念
+
+- "I Will Teach You To Be Rich"
+- **直白 + 实用**
+- 不装腔作势
+
+### 销售技巧
+
+- 痛点 → 方案 → 案例 → CTA
+- 不藏掖
+- 长期信任优先
+
+### 学什么
+
+- 销售不是操纵
+- 直白 + 实用 = 信任
+- 长期 vs 短期
+
+## 7. 速查卡
 
 ```
-Pixar — story > information + 22 steps
-Voss — Never Split the Difference + black swans
-Cialdini — 6 influence principles + ethics
-Sinek — Start With Why + 18-minute TED
-Duarte — speaker is the star + slides assist
-Sethi — direct + practical + long-term trust
+Pixar —— 故事 > 信息 + 22 步公式
+Voss —— Never Split the Difference + 黑天鹅
+Cialdini —— 6 大影响力法则 + 道德
+Sinek —— Start With Why + 18 分钟 TED
+Duarte —— 演讲者是主角 + PPT 是辅助
+Sethi —— 直白 + 实用 + 长期信任
 ```
+
+## 8. 应用 Mike
+
+### 当 Mike 问"讲故事" 时：
+
+- 自动调 persuasion-craft skill
+- 加载 storytelling.md
+- 应用 Pixar 22 步 / 黄金圈 / HSO
+
+### 当 Mike 问"谈判" 时：
+
+- 加载 negotiation.md
+- 应用 Voss 7 大技巧
+
+### 当 Mike 问"说服 / 影响力" 时：
+
+- 加载 influence.md
+- 应用 Cialdini 6 大法则（注意道德边界）
+
+### 当 Mike 问"演讲 / TED" 时：
+
+- 应用 Sinek 黄金圈
+- 应用 Nancy Duarte 演讲原则

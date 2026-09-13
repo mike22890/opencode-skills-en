@@ -1,35 +1,36 @@
-# Life Stage Strategies
+<!-- 隐式触发：20-30/30-40/40-50/50-60/60+/年龄/人生阶段/退休规划 -->
+# 人生阶段策略（精简版）
 
-## 20-30: accumulation
+## 20-30：积累期
 
-Invest in yourself (education/skills/health) / build saving habits / 80-90% stocks / 3-6 month emergency fund / start DCA
+投资自己（教育/技能/健康）/ 储蓄习惯 / 股票 80-90% / 紧急金 3-6 月 / 开始定投
 
-## 30-40: consolidation
+## 30-40：巩固期
 
-Income growth / buy a home / insurance (family/critical illness) / max retirement accounts / kids' education fund / 70-80% stocks
+收入增长 / 买房 / 保险（家庭/重疾）/ 退休账户最大化 / 子女教育金 / 股票 70-80%
 
-## 40-50: preservation
+## 40-50：守成期
 
-Income peak / tax planning / retirement math / estate planning / 60-70% stocks
+收入顶峰 / 税务规划 / 退休计算 / 遗产规划 / 股票 60-70%
 
-## 50-60: de-risking
+## 50-60：减风险期
 
-Gradually reduce stocks / build stable income / health insurance / concrete retirement plan / 40-60% stocks
+逐渐减股票 / 建立稳定收入 / 健康保险 / 退休具体化 / 股票 40-60%
 
-## 60+: withdrawal
+## 60+：提取期
 
-4% rule / tax planning / long-term care / estate distribution / 30-50% stocks
+4% 规则 / 税务规划 / 长期护理 / 遗产分配 / 股票 30-50%
 
-## Universal principles
+## 通用原则
 
-Savings rate 20%+ / 3-12 month emergency fund / insurance (life + critical illness + long-term care + disability) / will + trust
+储蓄 20%+ / 紧急金 3-12 月 / 保险（人寿+重疾+长期护理+伤残）/ 遗嘱+信托
 
-## Quick card
+## 速查卡
 
 ```
-20-30: accumulate + 80-90% stocks + invest in yourself
-30-40: consolidate + 70-80% stocks + buy home
-40-50: preserve + 60-70% stocks + tax efficiency
-50-60: de-risk + 40-60% stocks + stable income
-60+: withdraw + 30-50% stocks + 4% rule
+20-30：积累+股票80-90%+投资自己
+30-40：巩固+股票70-80%+买房
+40-50：守成+股票60-70%+节税
+50-60：减风险+股票40-60%+稳定收入
+60+：提取+股票30-50%+4%规则
 ```
