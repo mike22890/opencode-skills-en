@@ -1,10 +1,36 @@
 # Changelog
 
+## v2.0.3 - 2026-09-14
+
+### Added
+
+- **literary-craft Clean Version** — Pure literary techniques, safe and trouble-free
+  - dialogue.md (character voice, dialogue techniques, subtext)
+  - forms.md (short/long form templates)
+  - techniques.md (show don't tell, sensory detail, pacing, negative space)
+  - masters.md (Chinese & Western literary masters)
+
+---
+
+## v2.0.2 - 2026-09-14
+
+### Removed
+
+- Removed 9 duplicated public skills (not original):
+  - Trail of Bits: codeql, semgrep, differential-review, fp-check, variant-analysis, sharp-edges, sarif-parsing, supply-chain-risk-auditor
+  - obra/superpowers: worktrees
+
+### Stats
+
+- Skill count: 42 → 34 (all original)
+
+---
+
 ## v2.0.1 - 2026-09-14
 
-### Updated
+### Added
 
-- Added psychology-mastery back (42 skills total)
+- psychology-mastery (general psychology methodology, no privacy content, safe to publish)
 
 ---
 
@@ -19,55 +45,24 @@
   - Layer 3.5: Sub-skill chaining (auto-load reference files)
 
 - **Implicit trigger words** — Every skill and reference file now has colloquial triggers
-  - Main skills: description appended with implicit triggers (e.g., "too messy", "ugly", "help me choose")
+  - Main skills: description appended with implicit triggers
   - Reference files: `<!-- 隐式触发：... -->` tags
   - No more keyword guessing — plain language just works
 
 - **Sub-skill chaining** — After loading a main skill, its SKILL.md loading table is read and matching references are auto-loaded
-  - Example: "write intimate dialogue in a novel" → literary-craft + techniques.md + dialogue.md + intimacy.md
-  - One task can trigger multiple references, auto-combined
 
-- **Loading table format unified** — All reference loading tables standardized to table format: `| User says | Loads |`
-  - 27 skills now have reference loading tables
-  - Covers routing rules for all sub-files
+- **Loading table format unified** — 27 skills have reference loading tables (table format: `| User says | Loads |`)
 
 ### New Skills (26 added)
 
-- applying-ui-design-system — Design system selection & implementation
-- avoid-ai-writing — AI writing pattern detection & removal
-- clonedeps — Clone third-party deps for source reading
-- code-refactor-ast — AST-based large-scale refactoring
-- codemap — Code repository mapping / onboarding
-- codeql — CodeQL SAST scanning
-- copywriting — Marketing copy
-- cro — Conversion rate optimization
-- db-schema-designer — Database schema design
-- differential-review — Security diff review
-- fp-check — Vulnerability verification / false positive elimination
-- frontend-design — Frontend visual design
-- git-workflow — Git workflow
-- marketing-psychology — Marketing psychology
-- mcp-builder — MCP server development
-- orchestrating-adversarial-reviews — Multi-agent adversarial review
-- pandoc — Document format conversion
-- pptx — PowerPoint creation
-- pricing — Pricing strategy
-- property-based-testing — Property-based testing / fuzzing
-- sarif-parsing — SARIF result parsing
-- semgrep — Semgrep scanning
-- sharp-edges — Dangerous API identification
-- simplify — Code simplification
-- skill-creator — Skill development
-- supply-chain-risk-auditor — Supply chain auditing
-- variant-analysis — Variant analysis
-- worktrees — Git Worktree management
+- applying-ui-design-system, avoid-ai-writing, clonedeps, code-refactor-ast, codemap, codeql, copywriting, cro, db-schema-designer, differential-review, fp-check, frontend-design, git-workflow, marketing-psychology, mcp-builder, orchestrating-adversarial-reviews, pandoc, pptx, pricing, property-based-testing, sarif-parsing, semgrep, sharp-edges, simplify, skill-creator, supply-chain-risk-auditor, variant-analysis, worktrees
 
 ### Removed Skills (2 removed)
 
-- psychology-mastery — Privacy considerations (re-added in v2.0.1)
-- literary-craft — Adult content, not publicly distributed
+- psychology-mastery (re-added in v2.0.1)
+- literary-craft (adult content; re-added as clean version in v2.0.3)
 
-### Old vs New
+### Stats
 
 | | v1.x | v2.0 |
 |---|---|---|
@@ -75,4 +70,4 @@
 | Sub-skill | Not auto-loaded | Auto-load reference files |
 | Load limit | 2-4 max | All matches, no limit |
 | Reference support | Main skill only | 61 reference files + trigger tags |
-| Skill count | 15 | 42 |
+| Skill count | 15 | 34 |
