@@ -2,7 +2,7 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/mike22890/opencode-skills-en?style=social)
 ![License](https://img.shields.io/github/license/mike22890/opencode-skills-en)
-![Skills](https://img.shields.io/badge/skills-42-blue)
+![Skills](https://img.shields.io/badge/skills-35-blue)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 
 > 15 domain-expertise skills for AI coding agents — from aesthetics to psychology, code to wealth.

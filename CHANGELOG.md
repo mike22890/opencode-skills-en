@@ -1,5 +1,33 @@
 # Changelog
 
+## v2.2.0 - 2026-09-14
+
+### Changed
+
+- **skill-creator Rewritten** — 489 → 120 lines (-75%)
+  - Added 4-layer routing design guide
+  - Added sub-skill / reference loading table design
+  - Added trigger word design (pushy + colloquial)
+  - Added pre-publish security & originality checks
+
+### Stats
+
+- Skills: 35 (all original)
+
+---
+
+## v2.1.0 - 2026-09-14
+
+### Added
+
+- **github-workflow** — Full GitHub management
+  - Release management (semver, changelog, tags)
+  - PR workflow (conventional commits, squash merge)
+  - GitHub Actions basics
+  - Privacy protection & security checks
+
+---
+
 ## v2.0.3 - 2026-09-14
 
 ### Added
